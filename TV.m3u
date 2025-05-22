@@ -1,6 +1,16 @@
-#EXTINF:-1 tvg-id="1" tvg-logo="https://small.fileditchstuff.me/s15/rgSSKlGPSliGTrGjfGiN.png" group-title="Mexico",Canal 5
-https://8.tutl24.xyz/live/ST0f01a5ddb6d6e42.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://small.fileditchstuff.me/s15/MjCtFJagyBmbOTMJeJWy.jpg" group-title="Infantiles",Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://small.fileditchstuff.me/s15/fxovpJSPMZySEumeEIQR.jpg" group-title="Infantiles",Cine Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTM3U
+#EXTINF:-1,Cartoon Network
+http://179.1.87.75:8098/play/a0dv/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://179.1.87.75:8098/play/a0e5/index.m3u8
+#EXTINF:-1,Disney Channel
+http://179.1.87.75:8098/play/a0eq/index.m3u8
+#EXTINF:-1,Disney Jr
+#EXTINF:-1,HBO Family
+http://179.1.87.75:8098/play/a0eh/index.m3u8
+#EXTINF:-1,Nick Jr
+http://179.1.87.75:8098/play/a0hk/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://179.1.87.75:8098/play/a0dk/index.m3u8
+#EXTINF:-1,Cartoon Network (Opcion 2)
+http://170.239.188.252:8000/play/a12q/index.m3u8
