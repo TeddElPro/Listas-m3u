@@ -163,3 +163,5 @@ http://179.1.87.75:8098/play/a0ra/index.m3u8
 http://179.1.87.75:8098/play/a0dr/index.m3u8
 #EXTINF:-1,Zoom
 http://179.1.87.75:8098/play/a0gh/index.m3u8
+#EXTINF:-1,Canal 7 (República Dominicana)
+http://38.159.227.125:8000/play/a04l/index.m3u8
