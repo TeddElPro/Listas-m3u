@@ -64,17 +64,30 @@ http://38.41.8.1:8000/play/a0vb
 http://38.41.8.1:8000/play/a0z9
 
 # =============================================================
-# 🎬 SECCIÓN: PELICULAS
+# 🎬 SECCIÓN: PELICULAS (CATEGORIZADAS)
 # =============================================================
 
-#EXTINF:-1 tvg-id="tbm2" tvg-name="Los Tipos Malos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Bad_Guys_%28film%29.svg" group-title="Peliculas",Los Tipos Malos 2
+# --- SUB-CARPETA: ANIMACIÓN Y FAMILIAR ---
+#EXTINF:-1 tvg-id="tbm2" tvg-name="Los Tipos Malos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Bad_Guys_%28film%29.svg" group-title="Peliculas | Animación y Familiar",Los Tipos Malos 2
 https://1a-1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
 
-#EXTINF:-1 tvg-id="GuerrerasKpop" tvg-name="Las Guerreras del Kpop" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1900x1900-000000-80-0-0.jpg" group-title="Peliculas",Las Guerreras del Kpop
-https://1a-1791.com/video/fww1/93/s8/2/j/5/U/V/j5UVy.aaa.mp4
+#EXTINF:-1 tvg-id="SpongeBobSquarePants" tvg-name="Bob Esponja: En busca de los pantalones cuadrados" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE3NTIyOTgtMTI4Ny00N2Q1LTlkNTctNjgwNmVjYmUyYmIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas | Animación y Familiar",Bob Esponja: En busca de los pantalones cuadrados
+https://1a-1791.com/video/fwe2/44/s8/2/2/H/E/T/2HETz.aaa.mp4
 
-#EXTINF:-1 tvg-id="CulpaNuestra" tvg-name="Culpa Nuestra" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Peliculas",Culpa Nuestra
+#EXTINF:-1 tvg-id="FamiliaEnRenta" tvg-name="Familia en Renta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrM7wSRrSMWEUadM6Njm9VAlSrev8MaJZH8g&s" group-title="Peliculas | Animación y Familiar",Familia en Renta
+https://1a-1791.com/video/fwe2/a8/s8/2/O/G/E/T/OGETz.aaa.mp4
+
+# --- SUB-CARPETA: ACCIÓN Y TERROR ---
+#EXTINF:-1 tvg-id="HomoArgentum" tvg-name="Homo Argentum" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdlYmFiNzEtYWUyMy00YWY5LTk0NmYtMzY1MzJhNTY2NDI5XkEyXkFqcGc@._V1_.jpg" group-title="Peliculas | Acción y Terror",Homo Argentum
+https://1a-1791.com/video/fww1/6b/s8/2/8/G/H/R/8GHRz.aaa.mp4
+
+#EXTINF:-1 tvg-id="Anaconda" tvg-name="Anaconda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDt96vzJeGKCxWAdT-ev7t0_P-qYGe28Ky2Q&s" group-title="Peliculas | Acción y Terror",Anaconda
+https://1a-1791.com/video/fwe2/05/s8/2/i/N/P/L/iNPLz.aaa.mp4
+
+# --- SUB-CARPETA: ROMANCE ---
+#EXTINF:-1 tvg-id="CulpaNuestra" tvg-name="Culpa Nuestra" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Peliculas | Romance",Culpa Nuestra
 https://1a-1791.com/video/fwe2/76/s8/2/A/H/E/T/AHETz.aaa.mp4
 
-#EXTINF:-1 tvg-id="SpongeBobSquarePants" tvg-name="Bob Esponja: En busca de los pantalones cuadrados" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE3NTIyOTgtMTI4Ny00N2Q1LTlkNTctNjgwNmVjYmUyYmIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bob Esponja: En busca de los pantalones cuadrados
-https://1a-1791.com/video/fwe2/44/s8/2/2/H/E/T/2HETz.aaa.mp4
+# --- SUB-CARPETA: MÚSICA Y K-POP ---
+#EXTINF:-1 tvg-id="GuerrerasKpop" tvg-name="Las Guerreras del Kpop" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1900x1900-000000-80-0-0.jpg" group-title="Peliculas | Música y K-Pop",Las Guerreras del Kpop
+https://1a-1791.com/video/fww1/93/s8/2/j/5/U/V/j5UVy.aaa.mp4
