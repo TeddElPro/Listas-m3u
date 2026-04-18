@@ -30,37 +30,45 @@ https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 http://207.248.2.105:3200/play/a14k/index.m3u8
 
 # --- SUB-CARPETA: INFANTIL ---
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Infantil",Cartoon Network
-http://nor1live.win/livehttpplay?channel_id=23045
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Infantil",Cartoon Network (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a827f7fede44d8d973cbbaab0c089c0:f91eeb3c7c12d9391434dc79a872c0b9
+https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Nickelodeon_1984_logo.svg" group-title="Canales | Infantil",Nickelodeon
 http://216.155.91.47:8000/play/a0l5/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Disney_Channel_logo_1997.svg" group-title="Canales | Infantil",Disney Channel
-http://nor3live.win/livehttpplay?channel_id=23326
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Disney_Channel_logo_1997.svg" group-title="Canales | Infantil",Disney Channel (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=027e637afed7db11853ff1a19cc8e4db:608f91f05536f5a6c93e70cdd95aba5c
+https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nick_Jr_logo.svg" group-title="Canales | Infantil",Nick Jr.
 http://nor1live.win/livehttpplay?channel_id=23044
 
-#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Playhouse_Disney_logo.svg" group-title="Canales | Infantil",Disney Jr.
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Jr." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Canales | Infantil",Disney Jr.
 http://nor3live.win/livehttpplay?channel_id=23327
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg" group-title="Canales | Infantil",Cartoonito
 http://190.60.39.195:8000/play/a0x0/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Logo20092013.png" group-title="Canales | Infantil",Discovery Kids
-http://nor3live.win/livehttpplay?channel_id=23329
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Logo20092013.png" group-title="Canales | Infantil",Discovery Kids (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=651f6dd6967f69266539faca5336fc79:cab01b81a1dc7772fef494e5f898b50c
+https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Pakapaka" tvg-name="Pakapaka" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/PakapakaAzul2018.png" group-title="Canales | Infantil",Pakapaka
 http://177.53.153.207:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Tooncast_logo.svg" group-title="Canales | Infantil",Tooncast
-http://38.41.8.1:8000/play/a0vb
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Tooncast_logo.svg" group-title="Canales | Infantil",Tooncast (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f00381cc1a58668a11e2a3e0f20fd9:fc817d45af5dce33cbb79793224b834c
+https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(TOONCAST)/manifest.mpd
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BabyTV_logo.svg" group-title="Canales | Infantil",Baby TV
 http://38.41.8.1:8000/play/a0z9
 
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/The_DreamWorks_Channel.svg/revision/latest?cb=20220201015821&path-prefix=es" group-title="Canales | Infantil",Dreamworks Channel
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/The_DreamWorks_Channel.svg" group-title="Canales | Infantil",Dreamworks Channel
 http://nor3live.win/livehttpplay?channel_id=23328
 
 # --- SUB-CARPETA: ANIMACIÓN PARA ADULTOS ---
