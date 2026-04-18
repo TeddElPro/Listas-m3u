@@ -46,10 +46,20 @@ http://38.41.8.1:8000/play/a03n
 http://200.59.188.3:8000/play/a08m
 
 # =============================================================
+# ⚽ SECCIÓN: DEPORTES
+# =============================================================
+
+#EXTINF:-1 tvg-id="TigoSportsCR" tvg-name="Tigo Sports Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Tigo_Sports_logo.svg" group-title="Canales | Deportes",Tigo Sports 🇨🇷
+http://8.243.126.131:8000/play/a0ih
+
+# =============================================================
 # 📺 SECCIÓN: CANALES INTERNACIONALES
 # =============================================================
 
 # --- SUB-CARPETA: USA ---
+#EXTINF:-1 tvg-id="CartoonNetworkUSA" tvg-name="Cartoon Network / Adult Swim (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | USA",Cartoon Network (USA)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/ABC_logo_2021.svg" group-title="Canales | USA",ABC Denver CO
 http://89.187.178.197:1970/ABCDenver/index.m3u8
 
@@ -95,7 +105,7 @@ http://99.27.51.147/MTV/index.m3u8
 # =============================================================
 
 # --- SUB-CARPETA: INFANTIL ---
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Disney_XD_logo_2016.svg" group-title="Canales | Infantil",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Disney_XD_logo_2016.svg" group-title="Canales | Infantil",Disney XD (Inglés)
 http://84.17.50.102/disneyxd/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Infantil",Cartoon Network
@@ -140,11 +150,9 @@ http://199.188.103.176:8000/play/a045
 http://181.119.86.1:8000/play/a019
 
 # =============================================================
-# 🎬 SECCIÓN: SERIES
+# 🎬 SECCIÓN: SERIES (Dragon Ball Super)
 # =============================================================
-
-# --- SUB-CARPETA: SERIE | DRAGON BALL SUPER ---
-#EXTINF:-1 tvg-id="DBSuperCap1" tvg-name="Dragon Ball Super - Cap 1" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 1
+#EXTINF:-1 tvg-id="DBSuperCap1" tvg-name="Dragon Ball Super - Cap 1" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 1
 https://videos2.sendvid.com/3a/10/fvex5kou.mp4?validfrom=1776532858&validto=1776547258&rate=200k&ip=45.162.192.7&hash=%2F%2BV30cirtfNcW6kw5SW7OLh11OQ%3D
 
 #EXTINF:-1 tvg-id="DBSuperCap2" tvg-name="Dragon Ball Super - Cap 2" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 2
