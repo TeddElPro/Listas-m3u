@@ -60,6 +60,10 @@ http://38.41.8.1:8000/play/a0vb
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BabyTV_logo.svg" group-title="Canales | Infantil",Baby TV
 http://38.41.8.1:8000/play/a0z9
 
+# --- SUB-CARPETA: ANIMACIÓN PARA ADULTOS ---
+#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Adult_Swim_2003_logo.svg" group-title="Canales | Animación para Adultos",Adult Swim
+http://181.119.86.1:8000/play/a019
+
 # =============================================================
 # 🎬 SECCIÓN: PELICULAS (CATEGORIZADAS)
 # =============================================================
