@@ -68,12 +68,9 @@ http://181.119.86.1:8000/play/a019
 # 📺 SECCIÓN: SERIES
 # =============================================================
 
-# --- SUB-CARPETA: ANIMACIÓN ---
-#EXTINF:-1 tvg-id="CorajeCap1" tvg-name="Coraje el perro cobarde - Cap 1" tvg-logo="https://static.wikia.nocookie.net/coraje/images/8/8e/Coraje_el_perro_cobarde_logo.png" group-title="Series | Animación",Coraje el perro cobarde - Cap 1
-https://cubeembed.rpmvid.com/hls/cK75Z-p-hY7VTx3Qb4Pmjg/ic/fmg9y9ce/s9ywbo/tt/index-f2-v1.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-id="CorajeCap2" tvg-name="Coraje el perro cobarde - Cap 2" tvg-logo="https://static.wikia.nocookie.net/coraje/images/8/8e/Coraje_el_perro_cobarde_logo.png" group-title="Series | Animación",Coraje el perro cobarde - Cap 2
-https://cubeembed.rpmvid.com/hls/lLJ6XasFaBp2lL8sQQ-zpw/db/fmg9y9ce/jcpioi/tt/index-f2-v1.m3u8?v=1766826492
+# --- SUB-CARPETA: SERIE | DRAGON BALL SUPER ---
+#EXTINF:-1 tvg-id="DBSuperCap1" tvg-name="Dragon Ball Super - Cap 1" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 1
+https://videos2.sendvid.com/3a/10/fvex5kou.mp4?validfrom=1776532858&validto=1776547258&rate=200k&ip=45.162.192.7&hash=%2F%2BV30cirtfNcW6kw5SW7OLh11OQ%3D
 
 # =============================================================
 # 🎬 SECCIÓN: PELICULAS (CATEGORIZADAS)
