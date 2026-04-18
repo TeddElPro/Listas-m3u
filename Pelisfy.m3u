@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # =============================================================
-# 📺 SECCIÓN: CANALES (CON SUB-CARPETAS)
+# 📺 SECCIÓN: CANALES NACIONALES
 # =============================================================
 
 # --- SUB-CARPETA: CHILE ---
@@ -32,57 +32,172 @@ https://tv-mgmt.gtd.cl/bpk-tv/UCV/default/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="T13.cl" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/T13_logo.svg/512px-T13_logo.svg.png" group-title="Canales | Chile",T13
 https://tv-mgmt.gtd.cl/bpk-tv/T13/default/index.m3u8
 
+#EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TVN_logo.svg" group-title="Canales | Chile",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="SenadoTV.cl" tvg-name="Senado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Chile_Senado_logo.svg" group-title="Canales | Chile",Senado TV
+http://207.248.2.105:3200/play/a14k/index.m3u8
+
 # --- SUB-CARPETA: VENEZUELA ---
 #EXTINF:-1 tvg-id="ColombeiaTV" tvg-name="Colombeia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_de_Colombeia.svg/512px-Logo_de_Colombeia.svg.png" group-title="Canales | Venezuela",Colombeia TV
 http://38.41.8.1:8000/play/a03n
 
-# --- SUB-CARPETA: ENTRETENIMIENTO ---
-#EXTINF:-1 tvg-id="GranHermano24H" tvg-name="Gran Hermano 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Gran_Hermano_Logo.png" group-title="Canales | Entretenimiento",Gran Hermano 24hs
-http://199.188.103.176:8000/play/a045
+#EXTINF:-1 tvg-id="ViveTV" tvg-name="Vive TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/ViVe_logo.svg/512px-ViVe_logo.svg.png" group-title="Canales | Venezuela",Vive TV
+http://200.59.188.3:8000/play/a08m
+
+# =============================================================
+# 📺 SECCIÓN: CANALES INTERNACIONALES
+# =============================================================
+
+# --- SUB-CARPETA: USA ---
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/ABC_logo_2021.svg" group-title="Canales | USA",ABC Denver CO
+http://89.187.178.197:1970/ABCDenver/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/CBS_logo_2020.svg" group-title="Canales | USA",CBS Denver CO
+http://89.187.178.197:1970/CBSDenver/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/NBC_logo_2022.svg" group-title="Canales | USA",NBC Denver CO
+http://89.187.178.197:1970/NBCDenver/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_Broadcasting_Company_logo.svg" group-title="Canales | USA",FOX Denver CO
+http://89.187.178.197:1970/FOXDenver/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV_USA" tvg-name="MTV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="Canales | USA",MTV USA
+http://84.17.50.102/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/VH1_logo_2020.svg" group-title="Canales | USA",VH1 USA
+http://84.17.50.102/vh1/index.m3u8
+
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/BET_logo_2021.svg" group-title="Canales | USA",BET
+http://84.17.50.102/bet/index.m3u8
+
+# --- SUB-CARPETA: FRANCIA ---
+#EXTINF:-1 tvg-id="M6" tvg-name="M6 France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/M6_logo_2022.svg" group-title="Canales | Francia",M6
+http://84.17.50.102/m6/index.m3u8
+
+#EXTINF:-1 tvg-id="W9" tvg-name="W9 France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/W9_logo_2018.svg" group-title="Canales | Francia",W9
+http://84.17.50.102/w9/index.m3u8
+
+#EXTINF:-1 tvg-id="6TER" tvg-name="6ter France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/6ter_logo_2022.svg" group-title="Canales | Francia",6TER
+http://84.17.50.102/6ter/index.m3u8
+
+#EXTINF:-1 tvg-id="SYFY_FR" tvg-name="SYFY France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/SYFY_logo_2017.svg" group-title="Canales | Francia",SYFY France
+http://99.27.51.147/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="LCI" tvg-name="LCI France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/LCI_logo_2021.svg" group-title="Canales | Francia",LCI
+http://99.27.51.147/LCI/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV_FR" tvg-name="MTV France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="Canales | Francia",MTV France
+http://99.27.51.147/MTV/index.m3u8
+
+# =============================================================
+# 📺 SECCIÓN: ENTRETENIMIENTO E INFANTIL
+# =============================================================
 
 # --- SUB-CARPETA: INFANTIL ---
-#EXTINF:-1 tvg-id="KidzoneMax" tvg-name="Kidzone Max" tvg-logo="https://fms.tv.telia.lt/pi/1/56/74/15674/logo_120x60.png" group-title="Canales | Infantil",Kidzone Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f8e66cb80503149826b57c5698339dd:6e6ffbb1a74a495281edbf74637c3ac9
-https://tvcdn.tv.telia.lt/live/eds/Kidzone_t/DASH_5_CPIX_NPVR/Kidzone_t.mpd
-
-#EXTINF:-1 tvg-id="KidzoneMini" tvg-name="Kidzone Mini" tvg-logo="https://fms.tv.telia.lt/pi/1/51/87/15187/logo_120x60.png" group-title="Canales | Infantil",Kidzone Mini
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58e689df969482c83b9a91adbd9987d8:b954e8bf9770dbc71bfb085e391d0caa
-https://tvcdn.tv.telia.lt/live/eds/Kidzone_Plus_HD/DASH_5_CPIX_NPVR/Kidzone_Plus_HD.mpd
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Disney_XD_logo_2016.svg" group-title="Canales | Infantil",Disney XD
+http://84.17.50.102/disneyxd/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Infantil",Cartoon Network
 http://nor1live.win/livehttpplay?channel_id=23045
 
-#EXTINF:-1 tvg-id="CartoonNetworkOpt2" tvg-name="Cartoon Network (Opción 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Infantil",Cartoon Network (Opción 2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98cb877e5398843d8a10cf31a0fbbf88:255c9b5d26cb32c9f548e8d08120507f
-https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_Network_HD.mpd
-
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Nickelodeon_1984_logo.svg" group-title="Canales | Infantil",Nickelodeon
 http://216.155.91.47:8000/play/a0l5/index.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonOpt2" tvg-name="Nickelodeon (Opción 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Nickelodeon_1984_logo.svg" group-title="Canales | Infantil",Nickelodeon (Opción 2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40557a1738018d4dd815e79f2cfc6b30:3967abe5845e8c4fffbd2f4cd4b77f0a
-https://tvcdn.tv.telia.lt/live/eds/Nickelodeon/DASH_5_CPIX_NPVR/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Disney_Channel_logo_1997.svg" group-title="Canales | Infantil",Disney Channel
 http://nor3live.win/livehttpplay?channel_id=23326
 
-#EXTINF:-1 tvg-id="DisneyChannelOpt2" tvg-name="Disney Channel (Opción 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Disney_Channel_logo_1997.svg" group-title="Canales | Infantil",Disney Channel (Opción 2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff8085fd9469913a6f11fb3a4dd3a1be:2496ee469b2d1a19c22271a7b89c29e0
-https://tvcdn.tv.telia.lt/live/eds/Disney_Channel/DASH_5_CPIX_NPVR/Disney_Channel.mpd
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nick_Jr_logo.svg" group-title="Canales | Infantil",Nick Jr.
+http://nor1live.win/livehttpplay?channel_id=23044
 
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Jr." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Canales | Infantil",Disney Jr.
 http://nor3live.win/livehttpplay?channel_id=23327
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg" group-title="Canales | Infantil",Cartoonito
+http://190.60.39.195:8000/play/a0x0/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Logo20092013.png" group-title="Canales | Infantil",Discovery Kids
+http://nor3live.win/livehttpplay?channel_id=23329
+
+#EXTINF:-1 tvg-id="Pakapaka" tvg-name="Pakapaka" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/PakapakaAzul2018.png" group-title="Canales | Infantil",Pakapaka
+http://177.53.153.207:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Tooncast_logo.svg" group-title="Canales | Infantil",Tooncast
+http://38.41.8.1:8000/play/a0vb
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BabyTV_logo.svg" group-title="Canales | Infantil",Baby TV
+http://38.41.8.1:8000/play/a0z9
+
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/The_DreamWorks_Channel.svg" group-title="Canales | Infantil",Dreamworks Channel
+http://nor3live.win/livehttpplay?channel_id=23328
+
+# --- SUB-CARPETA: ENTRETENIMIENTO ---
+#EXTINF:-1 tvg-id="GranHermano24H" tvg-name="Gran Hermano 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Gran_Hermano_Logo.png" group-title="Canales | Entretenimiento",Gran Hermano 24hs
+http://199.188.103.176:8000/play/a045
 
 # --- SUB-CARPETA: ANIMACIÓN PARA ADULTOS ---
 #EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Adult_Swim_2003_logo.svg" group-title="Canales | Animación para Adultos",Adult Swim
 http://181.119.86.1:8000/play/a019
 
 # =============================================================
-# 🎬 SECCIÓN: SERIES Y PELÍCULAS (Mantenidas)
+# 🎬 SECCIÓN: SERIES
 # =============================================================
-...(Resto de la lista igual)...
+
+# --- SUB-CARPETA: SERIE | DRAGON BALL SUPER ---
+#EXTINF:-1 tvg-id="DBSuperCap1" tvg-name="Dragon Ball Super - Cap 1" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 1
+https://videos2.sendvid.com/3a/10/fvex5kou.mp4?validfrom=1776532858&validto=1776547258&rate=200k&ip=45.162.192.7&hash=%2F%2BV30cirtfNcW6kw5SW7OLh11OQ%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap2" tvg-name="Dragon Ball Super - Cap 2" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 2
+https://videos2.sendvid.com/ae/c7/rg0a4gb6.mp4?validfrom=1776533256&validto=1776547656&rate=200k&ip=45.162.192.7&hash=Myn8TDY4Fy78r%2F56Wdi8UvfiYnw%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap3" tvg-name="Dragon Ball Super - Cap 3" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 3
+https://videos2.sendvid.com/3e/d5/a6abw867.mp4?validfrom=1776533283&validto=1776547683&rate=200k&ip=45.162.192.7&hash=qHPMe%2FLLa18FpIaOz586iNw%2F%2FTo%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap4" tvg-name="Dragon Ball Super - Cap 4" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 4
+https://videos2.sendvid.com/32/8b/74nlgy8u.mp4?validfrom=1776533320&validto=1776547720&rate=200k&ip=45.162.192.7&hash=ey%2FPBecqn71GeGWHDJQHTagcmG4%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap5" tvg-name="Dragon Ball Super - Cap 5" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 5
+https://videos2.sendvid.com/07/74/zbgkurb0.mp4?validfrom=1776533359&validto=1776547759&rate=200k&ip=45.162.192.7&hash=zv52ik3oj8ZxweqCh2b42cWsYu4%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap6" tvg-name="Dragon Ball Super - Cap 6" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 6
+https://videos2.sendvid.com/32/2b/2ips6043.mp4?validfrom=1776533425&validto=1776547825&rate=200k&ip=45.162.192.7&hash=fNyPNige5ELtBvNzOLKFF8NbkQI%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap7" tvg-name="Dragon Ball Super - Cap 7" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 7
+https://videos2.sendvid.com/d6/85/pl1q9ip3.mp4?validfrom=1776533460&validto=1776547860&rate=200k&ip=45.162.192.7&hash=DgYTuvTGOUxRwH8q7klACdAY%2BTo%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap8" tvg-name="Dragon Ball Super - Cap 8" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 8
+https://videos2.sendvid.com/cd/0b/hulsrcpx.mp4?validfrom=1776533533&validto=1776547933&rate=200k&ip=45.162.192.7&hash=aO3ge29mM9mILLJk7ecHBGAxhkU%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap9" tvg-name="Dragon Ball Super - Cap 9" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 9
+https://videos2.sendvid.com/ae/7c/yo6co39w.mp4?validfrom=1776533562&validto=1776547962&rate=200k&ip=45.162.192.7&hash=%2FsXzM6dOmTDPMYgYivV9oMeiYEI%3D
+
+#EXTINF:-1 tvg-id="DBSuperCap10" tvg-name="Dragon Ball Super - Cap 10" tvg-logo="https://images.justwatch.com/poster/18473933/s718/dragon-ball-super.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 10
+https://videos2.sendvid.com/e4/66/h1ndgmeh.mp4?validfrom=1776533605&validto=1776548005&rate=200k&ip=45.162.192.7&hash=HmWOEqlRbCbbz%2FeJbGthlBd2g4w%3D
+
+# =============================================================
+# 🎬 SECCIÓN: PELÍCULAS
+# =============================================================
+
+# --- SUB-CARPETA: ANIMACIÓN Y FAMILIAR ---
+#EXTINF:-1 tvg-id="tbm2" tvg-name="Los Tipos Malos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Bad_Guys_%28film%29.svg" group-title="Peliculas | Animación y Familiar",Los Tipos Malos 2
+https://1a-1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
+
+#EXTINF:-1 tvg-id="SpongeBobSquarePants" tvg-name="Bob Esponja: En busca de los pantalones cuadrados" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE3NTIyOTgtMTI4Ny00N2Q1LTlkNTctNjgwNmVjYmUyYmIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas | Animación y Familiar",Bob Esponja: En busca de los pantalones cuadrados
+https://1a-1791.com/video/fwe2/44/s8/2/2/H/E/T/2HETz.aaa.mp4
+
+#EXTINF:-1 tvg-id="FamiliaEnRenta" tvg-name="Familia en Renta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrM7wSRrSMWEUadM6Njm9VAlSrev8MaJZH8g&s" group-title="Peliculas | Animación y Familiar",Familia en Renta
+https://1a-1791.com/video/fwe2/a8/s8/2/O/G/E/T/OGETz.aaa.mp4
+
+#EXTINF:-1 tvg-id="GuerrerasKpop" tvg-name="Las Guerreras del Kpop" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1900x1900-000000-80-0-0.jpg" group-title="Peliculas | Animación y Familiar",Las Guerreras del Kpop
+https://1a-1791.com/video/fww1/93/s8/2/j/5/U/V/j5UVy.aaa.mp4
+
+# --- SUB-CARPETA: ACCIÓN Y TERROR ---
+#EXTINF:-1 tvg-id="HomoArgentum" tvg-name="Homo Argentum" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdlYmFiNzEtYWUyMy00YWY5LTk0NmYtMzY1MzJhNTY2NDI5XkEyXkFqcGc@._V1_.jpg" group-title="Peliculas | Acción y Terror",Homo Argentum
+https://1a-1791.com/video/fww1/6b/s8/2/8/G/H/R/8GHRz.aaa.mp4
+
+#EXTINF:-1 tvg-id="Anaconda" tvg-name="Anaconda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDt96vzJeGKCxWAdT-ev7t0_P-qYGe28Ky2Q&s" group-title="Peliculas | Acción y Terror",Anaconda
+https://1a-1791.com/video/fwe2/05/s8/2/i/N/P/L/iNPLz.aaa.mp4
+
+# --- SUB-CARPETA: ROMANCE ---
+#EXTINF:-1 tvg-id="CulpaNuestra" tvg-name="Culpa Nuestra" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Peliculas | Romance",Culpa Nuestra
+https://1a-1791.com/video/fwe2/76/s8/2/A/H/E/T/AHETz.aaa.mp4
