@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
+# ===== 👶 INFANTIL =====
+
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Infantil 📺",Cartoon Network
 http://45.181.120.65:9087/play/a0e6/index.m3u8
 
@@ -23,3 +25,18 @@ http://45.169.163.237:4000/play/a00i
 
 #EXTINF:-1 tvg-id="Pakapaka" tvg-name="Pakapaka" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/PakapakaAzul2018.png" group-title="Infantil 📺",Pakapaka
 http://177.53.153.207:8000/play/a01w/index.m3u8
+
+
+# ===== 🎬 PELÍCULAS =====
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO HD
+http://38.7.223.20:8000/play/a0jn
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO 2 HD
+http://45.189.151.7:8000/play/a06v
+
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO Plus HD
+http://181.78.17.52:8000/play/a0vi/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO Family HD
+http://179.63.6.12:9000/play/a07r
