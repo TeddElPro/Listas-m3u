@@ -54,9 +54,6 @@ http://45.169.163.237:4000/play/a00i
 #EXTINF:-1 tvg-id="Pakapaka" tvg-name="Pakapaka" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/PakapakaAzul2018.png" group-title="Canales | Infantil",Pakapaka
 http://177.53.153.207:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Adult_Swim_2003_logo.svg" group-title="Canales | Infantil",Adult Swim
-http://181.119.86.1:8000/play/a019
-
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Tooncast_logo.svg" group-title="Canales | Infantil",Tooncast
 http://38.41.8.1:8000/play/a0vb
 
@@ -77,6 +74,9 @@ https://1a-1791.com/video/fwe2/44/s8/2/2/H/E/T/2HETz.aaa.mp4
 #EXTINF:-1 tvg-id="FamiliaEnRenta" tvg-name="Familia en Renta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrM7wSRrSMWEUadM6Njm9VAlSrev8MaJZH8g&s" group-title="Peliculas | Animación y Familiar",Familia en Renta
 https://1a-1791.com/video/fwe2/a8/s8/2/O/G/E/T/OGETz.aaa.mp4
 
+#EXTINF:-1 tvg-id="GuerrerasKpop" tvg-name="Las Guerreras del Kpop" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1900x1900-000000-80-0-0.jpg" group-title="Peliculas | Animación y Familiar",Las Guerreras del Kpop
+https://1a-1791.com/video/fww1/93/s8/2/j/5/U/V/j5UVy.aaa.mp4
+
 # --- SUB-CARPETA: ACCIÓN Y TERROR ---
 #EXTINF:-1 tvg-id="HomoArgentum" tvg-name="Homo Argentum" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdlYmFiNzEtYWUyMy00YWY5LTk0NmYtMzY1MzJhNTY2NDI5XkEyXkFqcGc@._V1_.jpg" group-title="Peliculas | Acción y Terror",Homo Argentum
 https://1a-1791.com/video/fww1/6b/s8/2/8/G/H/R/8GHRz.aaa.mp4
@@ -87,7 +87,3 @@ https://1a-1791.com/video/fwe2/05/s8/2/i/N/P/L/iNPLz.aaa.mp4
 # --- SUB-CARPETA: ROMANCE ---
 #EXTINF:-1 tvg-id="CulpaNuestra" tvg-name="Culpa Nuestra" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Peliculas | Romance",Culpa Nuestra
 https://1a-1791.com/video/fwe2/76/s8/2/A/H/E/T/AHETz.aaa.mp4
-
-# --- SUB-CARPETA: MÚSICA Y K-POP ---
-#EXTINF:-1 tvg-id="GuerrerasKpop" tvg-name="Las Guerreras del Kpop" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1900x1900-000000-80-0-0.jpg" group-title="Peliculas | Música y K-Pop",Las Guerreras del Kpop
-https://1a-1791.com/video/fww1/93/s8/2/j/5/U/V/j5UVy.aaa.mp4
