@@ -72,6 +72,9 @@ http://181.119.86.1:8000/play/a019
 #EXTINF:-1 tvg-id="CorajeCap1" tvg-name="Coraje el perro cobarde - Cap 1" tvg-logo="https://static.wikia.nocookie.net/coraje/images/8/8e/Coraje_el_perro_cobarde_logo.png" group-title="Series | Animación",Coraje el perro cobarde - Cap 1
 https://cubeembed.rpmvid.com/hls/cK75Z-p-hY7VTx3Qb4Pmjg/ic/fmg9y9ce/s9ywbo/tt/index-f2-v1.m3u8?v=1766826492
 
+#EXTINF:-1 tvg-id="CorajeCap2" tvg-name="Coraje el perro cobarde - Cap 2" tvg-logo="https://static.wikia.nocookie.net/coraje/images/8/8e/Coraje_el_perro_cobarde_logo.png" group-title="Series | Animación",Coraje el perro cobarde - Cap 2
+https://cubeembed.rpmvid.com/hls/lLJ6XasFaBp2lL8sQQ-zpw/db/fmg9y9ce/jcpioi/tt/index-f2-v1.m3u8?v=1766826492
+
 # =============================================================
 # 🎬 SECCIÓN: PELICULAS (CATEGORIZADAS)
 # =============================================================
