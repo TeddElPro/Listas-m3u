@@ -1,42 +1,96 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# ===== 👶 INFANTIL =====
+# =========================
+# 🇨🇱 CHILE
+# =========================
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Infantil 📺",Cartoon Network
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="Chile 🇨🇱",La Red
+http://38.7.223.20:8000/play/a0k3
+
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" group-title="Chile 🇨🇱",TVN
+http://38.7.223.20:8000/play/a091
+
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" group-title="Chile 🇨🇱",24 Horas
+http://38.7.223.20:8000/play/a0k4
+
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" group-title="Chile 🇨🇱",Mega
+http://45.232.210.1:18000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevisión" group-title="Chile 🇨🇱",Chilevisión
+http://38.7.223.20:8000/play/a0hh
+
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" group-title="Chile 🇨🇱",Canal 13
+http://38.7.223.20:8000/play/a0jc
+
+#EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV" group-title="Chile 🇨🇱",NTV
+http://38.7.223.20:8000/play/a0h6
+
+#EXTINF:-1 tvg-id="SenadoTV.cl" tvg-name="Senado TV" group-title="Chile 🇨🇱",Senado TV
+http://207.248.2.105:3200/play/a14k/index.m3u8
+
+
+# =========================
+# 👶 INFANTIL
+# =========================
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="Infantil 📺",Cartoon Network
 http://45.181.120.65:9087/play/a0e6/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Nickelodeon_1984_logo.svg" group-title="Infantil 📺",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Infantil 📺",Nickelodeon
 http://216.155.91.47:8000/play/a0l5/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Disney_Channel_logo_1997.svg" group-title="Infantil 📺",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" group-title="Infantil 📺",Disney Channel
 http://186.10.17.126:9990/play/a0jg/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJunior" tvg-name="Nick Jr." tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-1988-1993.png" group-title="Infantil 📺",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr." group-title="Infantil 📺",Nick Jr.
 http://45.189.151.7:8000/play/a07b
 
-#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Playhouse_Disney_logo.svg" group-title="Infantil 📺",Disney Jr.
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Jr." group-title="Infantil 📺",Disney Jr.
 http://45.232.210.1:18000/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg" group-title="Infantil 📺",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" group-title="Infantil 📺",Cartoonito
 http://190.60.39.195:8000/play/a0x0/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Logo20092013.png" group-title="Infantil 📺",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" group-title="Infantil 📺",Discovery Kids
 http://45.169.163.237:4000/play/a00i
 
-#EXTINF:-1 tvg-id="Pakapaka" tvg-name="Pakapaka" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/PakapakaAzul2018.png" group-title="Infantil 📺",Pakapaka
+#EXTINF:-1 tvg-id="Pakapaka" tvg-name="Pakapaka" group-title="Infantil 📺",Pakapaka
 http://177.53.153.207:8000/play/a01w/index.m3u8
 
+#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" group-title="Infantil 📺",Adult Swim
+http://181.119.86.1:8000/play/a019
 
-# ===== 🎬 PELÍCULAS =====
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" group-title="Infantil 📺",Tooncast
+http://38.41.8.1:8000/play/a0vb
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO HD
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" group-title="Infantil 📺",Baby TV
+http://38.41.8.1:8000/play/a0z9
+
+
+# =========================
+# 🎬 PELÍCULAS (HBO)
+# =========================
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="Películas 🎬",HBO HD
 http://38.7.223.20:8000/play/a0jn
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" group-title="Películas 🎬",HBO 2 HD
 http://45.189.151.7:8000/play/a06v
 
-#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO Plus HD
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO Plus HD" group-title="Películas 🎬",HBO Plus HD
 http://181.78.17.52:8000/play/a0vi/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Películas 🎬",HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" group-title="Películas 🎬",HBO Family HD
 http://179.63.6.12:9000/play/a07r
+
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature HD" group-title="Películas 🎬",HBO Signature HD
+http://38.41.8.1:8000/play/a10a
+
+#EXTINF:-1 tvg-id="HBOMundi" tvg-name="HBO Mundi HD" group-title="Películas 🎬",HBO Mundi HD
+http://38.41.8.1:8000/play/a11e
+
+#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO Xtreme HD" group-title="Películas 🎬",HBO Xtreme HD
+http://38.41.8.1:8000/play/a10b
+
+#EXTINF:-1 tvg-id="HBOPop" tvg-name="HBO Pop HD" group-title="Películas 🎬",HBO Pop HD
+http://38.41.8.1:8000/play/a0rq
