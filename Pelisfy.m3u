@@ -1,370 +1,129 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="http://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,http://epgshare01.online/epgshare01/epg_ripper_LA1.xml.gz"
 
 # =============================================================
-# 📺 SECCIÓN: CANALES NACIONALES (CHILE)
+# 🇨🇱 SECCIÓN: CANALES NACIONALES (CHILE)
 # =============================================================
 
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="Canales | Chile",Chilevisión
-https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQqsHkvbz7D6W2tM1g31EbnilXuoGiH4eodHlOG6Tkeg.png" group-title="Canales | Chile",Chilevisión (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257eHZzDhnfiNmbhrRh2OeOl/m3u8
-
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="CHILEVISION (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="Canales | Chile",CHILEVISION (Señal 2)
-http://179.57.171.184:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="CHVNO" tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="Canales | Chile",CHV Noticias 24/7
-http://179.57.171.184:8000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNxPdAgAxnqRzVFPjIN0Mvz6X5yv9YpAtSolN9y_cdGPDg.png" group-title="Canales | Chile",Canal CHV Noticias (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254WWblWBHH5eGoyYuAZN6KE/m3u8
-
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega HD
-http://179.57.171.184:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjej2aDiHgrwsGyLJW7C6OAQg7grjKsU2sPCiQkwWdmt3.png" group-title="Canales | Chile",Mega (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256QQOwkUZOMHV8246b-OTqr/m3u8
-
-#EXTINF:-1 tvg-id="MegaNoticias.cl" tvg-name="Mega Noticias Ahora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega Noticias Ahora
-http://179.57.171.184:8000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjej2aDiHgrwsGyLJW7C6OAT5ZA5N9do3fyFwSD7mUArm.png" group-title="Canales | Chile",Meganoticias Ahora (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25582jFPm_v9MKhfEasEXBjd/m3u8
-
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canal_13_Logo_2018.svg" group-title="Canales | Chile",Canal 13
-https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwZ5s8TCK1McUZmY-SfpZBb.png" group-title="Canales | Chile",Canal 13 (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256BwEmPSbWfLloZ4Fzji8j7/m3u8
-
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/24_Horas_2021_logo.svg" group-title="Canales | Chile",24 Horas (TVN)
-http://179.57.171.184:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNxDvqqRsodEZk8Ldg23jJ1b4X2K2ny5Uo40Y5QEgECdIQ.png" group-title="Canales | Chile",Canal 24 Horas (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257_6J905zqQRWHZSSnLhm0X/m3u8
-
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/La_Red_TV_logo.svg" group-title="Canales | Chile",La Red (Principal)
-http://179.57.171.184:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUUTdxvyKlNufOf_uAsFLsgnOheXxrT7e5-U5HzoF9Oz.png" group-title="Canales | Chile",La Red (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256f4OPC0mGfsuKw0zeMqM_D/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahojBIuwRNK0UlB-sUJscNr0.png" group-title="Canales | Chile",TVN
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahojBIuwRNK0UlB-sUJscNr0.png" group-title="Canales | Chile",TVN
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25502zUB0DJ4SFF-yg_yFVHS/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahqdoEMRFK-Jd2NPwelvtuVv.png" group-title="Canales | Chile",TV+
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahqdoEMRFK-Jd2NPwelvtuVv.png" group-title="Canales | Chile",TV+
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Gr9G2m2D6aq_5FsIfW9ud/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgEHM23dhBwSAdsFlT5efnI0.png" group-title="Canales | Chile",Telecanal
+#EXTINF:-1 tvg-id="Telecanal.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgEHM23dhBwSAdsFlT5efnI0.png" group-title="Canales | Chile",Telecanal
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255acn6CyEityUWeAN2i6Gpc/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSmdfB-yHYTj5u4dK4rrgqb6FjCSWnp53_jn9vPtoJLy.png" group-title="Canales | Chile",CNN Chile
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257IkxtpvKwzWjdLzmThp2K5/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjc-28MxFZvlNXeOrgDv-aqMJF1EQ2ZN5HRZ63GxG1dwW.png" group-title="Canales | Chile",T13 en vivo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255VX6kJNs20YwVuCglTGQXQ/m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Canales | Chile",UCV TV
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/UCV_TV_logo_2018.svg" group-title="Canales | Chile",UCV TV
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ig8IxD7A6tstUSATPq1YQ/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjX74eYIK9blzIS0cLi-rOgws7MTvgPndjpa9lWVk9dOM.png" group-title="Canales | Chile",UChile TV
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSmdfB-yHYTj5u4dK4rrgqb6FjCSWnp53_jn9vPtoJLy.png" group-title="Canales | Chile",CNN Chile
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257IkxtpvKwzWjdLzmThp2K5/m3u8
+
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjc-28MxFZvlNXeOrgDv-aqMJF1EQ2ZN5HRZ63GxG1dwW.png" group-title="Canales | Chile",T13 en vivo
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255VX6kJNs20YwVuCglTGQXQ/m3u8
+
+#EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjX74eYIK9blzIS0cLi-rOgws7MTvgPndjpa9lWVk9dOM.png" group-title="Canales | Chile",UChile TV
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25502zUB0DJ4SFF-yg_yFVHS/m3u8
 
-#EXTINF:-1 tvg-id="SuyaiTV" tvg-name="25 Suyai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8X3_6C-6u8ZJ-Bw7FmXUoZ4lq-7N7Xk7f7g&s" group-title="Canales | Chile",25 Suyai TV (Regional)
-http://179.57.171.184:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="Canal9BioBio.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_9_B%C3%ADo-B%C3%ADo_Televisi%C3%B3n_logo.png" group-title="Canales | Chile",Canal 9 Bío-Bío TV (Concepción)
+https://unlimited1-cl-ts-movistar.dps.live/biobiotv/biobiotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega 2
-http://179.57.171.184:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="AntofagastaTV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Antofagasta_TV_logo.svg/512px-Antofagasta_TV_logo.svg.png" group-title="Canales | Chile",Antofagasta TV
+https://unlimited1-cl-ts-movistar.dps.live/antofagastatv/antofagastatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-name="Mega Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega Ficción
-http://179.57.171.184:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="MegaTiempo.cl" tvg-name="Mega Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega Tiempo
-http://179.57.171.184:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="LaRed2.cl" tvg-name="La Red 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/La_Red_TV_logo.svg" group-title="Canales | Chile",La Red 2
-http://179.57.171.184:8000/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-id="Oxigeno" tvg-name="OXIGENO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Oxigeno_fm_logo.png/250px-Oxigeno_fm_logo.png" group-title="Canales | Cultural",OXIGENO
-http://179.57.171.184:8000/play/1/index.m3u8
+#EXTINF:-1 tvg-id="PinguinoTV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_Pinguino_TV.png/512px-Logo_Pinguino_TV.png" group-title="Canales | Chile",Pingüino TV (Punta Arenas)
+https://unlimited6-cl.dps.live/pinguinotv/pinguinotv.smil/playlist.m3u8
 
 # =============================================================
 # ⚽ SECCIÓN: DEPORTES
 # =============================================================
 
-#EXTINF:-1 tvg-id="TigoSportsCR" tvg-name="Tigo Sports Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Tigo_Sports_logo.svg" group-title="Canales | Deportes",Tigo Sports 🇨🇷
-http://8.243.126.131:8000/play/a0ih
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyDpF6XI6BYevaaU0-fr3oqeg-lbCAxvVCReF1YjJzA3w.png" group-title="Canales | Deportes",TNT Sports Premium (Chile)
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyDpF6XI6BYevaaU0-fr3oqeg-lbCAxvVCReF1YjJzA3w.png" group-title="Canales | Deportes",TNT Sports Premium (Chile)
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254bi0VaqLMQnm916vTbp25D/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyo3P-SD-7nNhurU0mwKD7j.png" group-title="Canales | Deportes",TNT Sports (Chile)
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyo3P-SD-7nNhurU0mwKD7j.png" group-title="Canales | Deportes",TNT Sports (Chile)
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257aqpOjNFMDJs2SPThoDB28/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyDpF6XI6BYevaaU0-fr3oqeg-lbCAxvVCReF1YjJzA3w.png" group-title="Canales | Deportes",TNT Sports Premium (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255H-iIKMy43rOGuDQtEP45b/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="Canales | Deportes",ESPN (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256lONxmDxe7Uoqsd-Tu_NH1/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="Canales | Deportes",ESPN (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257O983Gj-GARdJsFE-DvGzl/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="Canales | Deportes",ESPN (Colombia)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257bT_6NiUXy08MoWOyd3NNj/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="Canales | Deportes",ESPN (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254pyeviZo6GcAtGlEQBLHKi/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="Canales | Deportes",ESPN 2 (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254wdkQFY86ccUfArCs8svo4/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="Canales | Deportes",ESPN 2 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254CkAuWWavFDZPaKIxuX4A1/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="Canales | Deportes",ESPN 2 (Colombia)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256RrseQJY5lKZvG5-iupiib/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="Canales | Deportes",ESPN 2 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257WlFztXu0SJikwl6RnPdSP/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYUx7DqDjtnhSsnybNli9tOr.png" group-title="Canales | Deportes",ESPN 3 (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256D1FNeFE7FLC45FNDCtu-A/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYUx7DqDjtnhSsnybNli9tOr.png" group-title="Canales | Deportes",ESPN 3 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255jU9Z-zHkJ3fJD-vVOS61u/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYUx7DqDjtnhSsnybNli9tOr.png" group-title="Canales | Deportes",ESPN 3 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257z6rQV9W9eensDTJ1lkyye/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWM3qEUDeqFXLIMcuBT17_O.png" group-title="Canales | Deportes",ESPN 4 (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254RIXNIfsWQ1HXmun2mUigO/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWM3qEUDeqFXLIMcuBT17_O.png" group-title="Canales | Deportes",ESPN 4 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254crwsdeFNlzk_UgUjFPMPJ/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="Canales | Deportes",ESPN 5 (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254--C5swfhiId-VsmVBr6sw/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="Canales | Deportes",ESPN 5 (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2571ZC9yqvy4ql22rimoUSYF/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="Canales | Deportes",ESPN 5 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257b3O3KGKmfqx3iC4jnJZbB/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXouoQHFNkJteF3kKGT9KxA.png" group-title="Canales | Deportes",ESPN 6
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254B1e4KJrnvxVRXAF0Bj67f/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVr76gYYaPoWw1f09O33CFh.png" group-title="Canales | Deportes",ESPN 7
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254eY9-q0GP96Y2070UT3dqo/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVNk8Vp-WgNogXnKysqBbOW.png" group-title="Canales | Deportes",ESPN Premium (Chile)
+#EXTINF:-1 tvg-id="ESPNPremium.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVNk8Vp-WgNogXnKysqBbOW.png" group-title="Canales | Deportes",ESPN Premium (Chile)
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257MKNCnRmu-OztCDddwpMsb/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVNk8Vp-WgNogXnKysqBbOW.png" group-title="Canales | Deportes",ESPN Premium (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
+#EXTINF:-1 tvg-id="ESPN.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="Canales | Deportes",ESPN (Chile)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256lONxmDxe7Uoqsd-Tu_NH1/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgzBqkh2-yXVYhk7hxlDuwtU.png" group-title="Canales | Deportes",Claro Sports
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254EkQjZeWTyYOExYpw0Wstg/m3u8
+#EXTINF:-1 tvg-id="ESPN2.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="Canales | Deportes",ESPN 2 (Chile)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254wdkQFY86ccUfArCs8svo4/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgwigF20EzHvIFNFVAf4YJpbUxyxuPy1uIy0pp0L_ZdrQw.png" group-title="Canales | Deportes",Claro Sports 2
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256GNi6CUqSGMdqVXjBTyT1V/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl5HyEcPvbrvitzwdeLX0GHq.png" group-title="Canales | Deportes",DSports
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZaOEz30p0g-i75/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl7FkLJp5OT4scq7CkLnXTX5.png" group-title="Canales | Deportes",DSports 2
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255r3yVqmo4P7lyNhCtFh2CF/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl706UpkFtUZAoAQCzebr_FD.png" group-title="Canales | Deportes",DSports +
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256v2Ptu_IQdvov85RUdYmry/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWNfWrf-xwYyvp5egdJ8ki3h9g7RkQ-mJfCPMShCUG7M.png" group-title="Canales | Deportes",TyC Sports (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25701dNVhmiQaGKq77OrhH4H/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWNfWrf-xwYyvp5egdJ8ki3h9g7RkQ-mJfCPMShCUG7M.png" group-title="Canales | Deportes",TyC Sports (Latinoamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2560GB4F2T8kKI6Y2SrKZXfm/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7GAEJR1hn8_q3qTPYqydaBC.png" group-title="Canales | Deportes",FOX (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256FqX8CPxz5QbXEYLz3oEDs/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FsCyB9KQcII21to2Z5Llwyv9aOoC9eSqgEQr8E6pP2Eg.png" group-title="Canales | Deportes",FOX Sports Premium (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257MpBG7WzKQjzUhUCMxevjO/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FRYaULNP0h2VWy6KSn7r4r.png" group-title="Canales | Deportes",FOX Sports (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ndZNXnP83PBDj5pbyzf7T/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7Fx86HDNaJJrBz7q9TEvfFj.png" group-title="Canales | Deportes",FOX Sports 2 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257lLW5OjG7gMPiErrix8pUF/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7ERdqrTnMZaSs5j_BCcp-xd.png" group-title="Canales | Deportes",FOX Sports 3 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25740sCbtgP3iCeFcvJXUuzy/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUwmnJiidF4mZYne0QeW26rz5cqGV1Edu3lsJHJ0LfEQ.png" group-title="Canales | Deportes",SKY Sports Bundesliga (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257f7xPTc1y1lbmfkAZjYvj0/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaRdJLvCQjCGuwDNCQzopQXW67wTSHTm02NuIKE2MB0b.png" group-title="Canales | Deportes",CDO
+#EXTINF:-1 tvg-id="CDO.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaRdJLvCQjCGuwDNCQzopQXW67wTSHTm02NuIKE2MB0b.png" group-title="Canales | Deportes",CDO
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255UZNWAHr7JT2GkVy_gUC22/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgFqqkh5GdzYuncjHs0OzTuf.png" group-title="Canales | Deportes",Teletrak TV
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgFqqkh5GdzYuncjHs0OzTuf.png" group-title="Canales | Deportes",Teletrak TV
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2552xJft7l508Ej9xKei2A7r/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSTijm4__AwZA9M9GA_9YFcqiqKHqT8vMSY5_IjmJ8B6.png" group-title="Canales | Deportes",Golf Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256S76wvwZ6uSyNSv03jybO6/m3u8
+#EXTINF:-1 tvg-id="TigoSportsCR" group-title="Canales | Deportes",Tigo Sports 🇨🇷
+http://8.243.126.131:8000/play/a0ih
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTv2qY-Ocm72nU2z61b163pd3SzOCguCj7bZKcyaxqRw.png" group-title="Canales | Deportes",TUDN (Estados Unidos)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2575A4apmQVwPK7eHBiXvhz_/m3u8
+#EXTINF:-1 tvg-id="ClaroSports.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgzBqkh2-yXVYhk7hxlDuwtU.png" group-title="Canales | Deportes",Claro Sports
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254EkQjZeWTyYOExYpw0Wstg/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyrt5AnXQV2f7z1eU83Vsu8uOIQ9TQsNvbxzdyZmVpA-Dg.png" group-title="Canales | Deportes",Discovery Turbo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257anDM3VrpBXK8V6ypMkOVg/m3u8
+#EXTINF:-1 tvg-id="DSports.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl5HyEcPvbrvitzwdeLX0GHq.png" group-title="Canales | Deportes",DSports
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZaOEz30p0g-i75/m3u8
 
-# =============================================================
-# 🌍 SECCIÓN: EUROPA (NL / BE / DE)
-# =============================================================
-
-#EXTINF:-1 tvg-id="NPO1" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="Canales | Europa",NPO 1
-http://31.149.103.41:8000/play/1
-
-#EXTINF:-1 tvg-id="NPO2" tvg-name="NPO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_2_logo_2014.svg" group-title="Canales | Europa",NPO 2
-http://31.149.103.41:8000/play/2
-
-#EXTINF:-1 tvg-id="NPO3" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NPO_3_logo_2014.svg" group-title="Canales | Europa",NPO 3
-http://31.149.103.41:8000/play/3
-
-#EXTINF:-1 tvg-id="RTL4" tvg-name="RTL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/RTL4_logo_2023.svg" group-title="Canales | Europa",RTL 4
-http://31.149.103.41:8000/play/4
-
-#EXTINF:-1 tvg-id="SBS6" tvg-name="SBS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/SBS6_logo_2013.svg" group-title="Canales | Europa",SBS 6
-http://31.149.103.41:8000/play/6
-
-# =============================================================
-# 📺 SECCIÓN: CANALES USA / INTERNACIONAL
-# =============================================================
-
-#EXTINF:-1 tvg-id="CartoonNetworkUSA" tvg-name="Cartoon Network / Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | USA",Cartoon Network (USA)
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ABC_logo_2021.svg" group-title="Canales | USA",ABC Denver CO
-http://89.187.178.197:1970/ABCDenver/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV_USA" tvg-name="MTV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="Canales | USA",MTV USA
-http://84.17.50.102/mtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="Canales | Música",MTV Latinoamérica
-http://nor3live.win:80/livehttpplay?channel_id=23324
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FRYaULNP0h2VWy6KSn7r4r.png" group-title="Canales | Deportes",FOX Sports (Argentina)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ndZNXnP83PBDj5pbyzf7T/m3u8
 
 # =============================================================
 # 🎬 SECCIÓN: CINE Y SERIES
 # =============================================================
 
-#EXTINF:-1 tvg-id="UniversalCinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_TV_Logo.svg/1200px-Universal_TV_Logo.svg.png" group-title="Canales | Cine",Universal Cinema
-http://179.57.171.184:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="HBO.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Canales | HBO",HBO (Este)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254qnzVDR7P3O9p5mhGrxpty/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_DZ4qZjycWG9MJV2kQeGA-siGzxqK23AuZuxzIFSCOObw.png" group-title="Canales | Cine",Universal Cinema (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Cmvaz4p28tYLXyLv91TNJ/m3u8
-
-#EXTINF:-1 tvg-id="UniversalComedy" tvg-name="Universal Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_TV_Logo.svg/1200px-Universal_TV_Logo.svg.png" group-title="Canales | Cine",Universal Comedy
-http://179.57.171.184:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_AZ-juiAJLODh46ZIMEQ9ryohdeKwORGvSnMg3matMxhg.png" group-title="Canales | Cine",Universal Comedy (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cj43rQleuK-i3UeupYfIk/m3u8
-
-#EXTINF:-1 tvg-id="UniversalPremiere" tvg-name="Universal Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_TV_Logo.svg/1200px-Universal_TV_Logo.svg.png" group-title="Canales | Cine",Universal Premiere
-http://179.57.171.184:8000/play/a01q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_Auza2QUjJpS86VEwZeXWcvC_l-sDQTziAlDTyM2z1Ppg.png" group-title="Canales | Cine",Universal Premiere (Op 2)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257JYMWnX6pGzac-CUzvsru5/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVS44V-5yyUd6P9CQ2ynAw1c7hlKrIVfoCv7rpuUJQiCw.png" group-title="Canales | Cine",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.la" tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVS44V-5yyUd6P9CQ2ynAw1c7hlKrIVfoCv7rpuUJQiCw.png" group-title="Canales | Cine",Star Channel
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256f9PNow6SlHqPnsLFUxeQh/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIStbSFISVHGbOe9i74_zsu.png" group-title="Canales | Cine",TNT
+#EXTINF:-1 tvg-id="TNT.la" tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIStbSFISVHGbOe9i74_zsu.png" group-title="Canales | Cine",TNT
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254hELOr7HwVurwMN2Xt-8ec/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWJLXdPrxVt3jLL7hssv5p3K9fe5robyVImKIdztBhYMg.png" group-title="Canales | Cine",Universal TV
+#EXTINF:-1 tvg-id="UniversalTV.la" tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWJLXdPrxVt3jLL7hssv5p3K9fe5robyVImKIdztBhYMg.png" group-title="Canales | Cine",Universal TV
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2562PGW4nhWDdoXZ8oGCxAIZ/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUW_UzD6BD25_wF_qNU1GNs2sKcV-fnXdfpZWRl9Y78Wg.png" group-title="Canales | Cine",Cinecanal
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255ptCSjEuYH5O3gyfncia9F/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIV91iMi2iDbc6G0ETsntC0a2uyCephMemCcO1XQbXfIjg.png" group-title="Canales | Cine",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.la" tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIV91iMi2iDbc6G0ETsntC0a2uyCephMemCcO1XQbXfIjg.png" group-title="Canales | Cine",Cinemax
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257n8Gwver3FM71xqSWOv0mA/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVVxn-j2hDLUXgfCAsCoMJi.png" group-title="Canales | Cine",AXN
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255l_XFaVFgg1D51vMVwcLgU/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXgFazflN0cbkOlcyBFj3SA.png" group-title="Canales | Cine",FX
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2564SD7m59ExiU2ghI-cM9Iy/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVDEyeC9Qo4nwwedqfcqLrpUDyFMADFSN0ubr_8jwWVHA.png" group-title="Canales | Cine",Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.la" tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVDEyeC9Qo4nwwedqfcqLrpUDyFMADFSN0ubr_8jwWVHA.png" group-title="Canales | Cine",Warner Channel
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cHaRgHaiNzKoaKsqbN5Rj/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUsoBXVHwAWHp_1ZT28Xm0v.png" group-title="Canales | Cine",USA
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256otrn3yu-jlClKJJW3JoDx/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWRhbvqqBmE433hJvPNfsfR.png" group-title="Canales | Cine",Space
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2575kwvJLLN7m7fowyKLT75V/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUpHap1ZOsmKT-DlUtYbL1-XJInf9OeRbaCm8mQwjsOXQ.png" group-title="Canales | Cine",Comedy Central
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255oaqxVnxYd9Baf4YI6QTaF/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUxS25kTf8s1n_lgENRfs8o.png" group-title="Canales | Cine",A&E
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cRpPcVF4S2k3ClSQCXjS6/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVVxn-j2hDLUXgfCAsCoMJi.png" group-title="Canales | Cine",TNT Series
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256p-NhSFPUdhWwiw3wScufP/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWlavVcNO00Qfy5djCkdr1YvSYDqVp0HTBA4dAB3LbeKg.png" group-title="Canales | Cine",Sony Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Q7VfnUJS5ZJHa_Br9LF6D/m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Canales | HBO",HBO (Este)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254qnzVDR7P3O9p5mhGrxpty/m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_DZ4qZjycWG9MJV2kQeGA-siGzxqK23AuZuxzIFSCOObw.png" group-title="Canales | Cine",Universal Cinema
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Cmvaz4p28tYLXyLv91TNJ/m3u8
 
 # =============================================================
 # 🧒 SECCIÓN: NIÑOS Y ADOLESCENTES
 # =============================================================
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyqWtkloD0NxEORQnbZBHe9ezmwPn-illQy5CiFCpqeVwg.png" group-title="Canales | Niños",Disney Channel (Normie)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254DQAYRbcHBZQcHpVlU9v_V/m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Disney_Channel_logo.svg" group-title="Canales | Niños",Disney Channel Latinoamérica (México)
-http://nor3live.win:80/livehttpplay?channel_id=23326
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzJL4IHXSErvNMs30pJAlTVqsWNUEVsRcaFgv5BoQeXYQ.png" group-title="Canales | Niños",Cartoon Network (Normie)
+#EXTINF:-1 tvg-id="CartoonNetwork.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzJL4IHXSErvNMs30pJAlTVqsWNUEVsRcaFgv5BoQeXYQ.png" group-title="Canales | Niños",Cartoon Network
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257c00GqPAix80e2ZZhXzI-K/m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Niños",Cartoon Network Latinoamérica (México)
-http://nor1live.win:80/livehttpplay?channel_id=23045
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTuJA-0yi5kdT7erpR9He1y8EAPw7LRXSeX4ZFDi8nt4.png" group-title="Canales | Niños",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTuJA-0yi5kdT7erpR9He1y8EAPw7LRXSeX4ZFDi8nt4.png" group-title="Canales | Niños",Nickelodeon
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254lGQOyc3hSvtw-vStfWb22/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYypXKRMYc7n1MKf96IyV7r-aItNWmbgzB9vgZnZ1hw_cEw.png" group-title="Canales | Niños",Discovery Kids (Normie)
+#EXTINF:-1 tvg-id="DiscoveryKids.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYypXKRMYc7n1MKf96IyV7r-aItNWmbgzB9vgZnZ1hw_cEw.png" group-title="Canales | Niños",Discovery Kids
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254HqhoyyXlR_TtJaBQiUKXO/m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Discovery_Kids_logo_2019.svg/1200px-Discovery_Kids_logo_2019.svg.png" group-title="Canales | Niños",Discovery Kids Latinoamérica (México)
-http://nor3live.win:80/livehttpplay?channel_id=23329
+#EXTINF:-1 tvg-id="DisneyChannel.la" tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyqWtkloD0NxEORQnbZBHe9ezmwPn-illQy5CiFCpqeVwg.png" group-title="Canales | Niños",Disney Channel
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254DQAYRbcHBZQcHpVlU9v_V/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjffiLWc-dF69oj1HPJfj8LsYA58KrCSaZsRrR4yoQnon.png" group-title="Canales | Niños",Dreamworks Channel (Normie)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257isBHr122a6oU8LUWzJqE7/m3u8
+# =============================================================
+# 📺 SECCIÓN: CANALES USA / INTERNACIONAL / MÚSICA
+# =============================================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DreamWorks_Animation_Logo.svg/1200px-DreamWorks_Animation_Logo.svg.png" group-title="Canales | Niños",Dreamworks Channel Latinoamérica
-http://nor3live.win:80/livehttpplay?channel_id=23328
+#EXTINF:-1 tvg-id="CartoonNetworkUSA" group-title="Canales | USA",Cartoon Network (USA)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyrjpYkuNUHycj2BD4MKRiOj.png" group-title="Canales | Niños",Disney Jr (Normie)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257ZMxpmoQRHX6CRdmevKb1C/m3u8
+#EXTINF:-1 tvg-id="ABC" group-title="Canales | USA",ABC Denver CO
+http://89.187.178.197:1970/ABCDenver/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Disney_Junior_logo.svg/1200px-Disney_Junior_logo.svg.png" group-title="Canales | Niños",Disney Jr. Latinoamérica (Norte)
-http://nor3live.win:80/livehttpplay?channel_id=23327
+#EXTINF:-1 tvg-id="MTV_USA" group-title="Canales | USA",MTV USA
+http://84.17.50.102/mtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTuJA-0yi5kdT7erpR9He1z7Ls0aXzJg-K-rkKg2n3gp.png" group-title="Canales | Niños",Nick Jr (Normie)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257Ge5w3SxzHV7ptCC-fv5yh/m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_Jr_logo_2023.svg/1200px-Nick_Jr_logo_2023.svg.png" group-title="Canales | Niños",Nick Jr. Latinoamérica
-http://nor1live.win:80/livehttpplay?channel_id=23044
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZIkXMLcf_WfxwPlXR5jVeiSaXYV8r6LxeDJX9rvZPu9.png" group-title="Canales | Niños",Baby TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2578ZkKcBd82XeUGf2qumAGQ/m3u8
-
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwyo_KFsGnxrFnO3WWy_CX8.png" group-title="Canales | Niños",Cartoonito
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254NTxEt68bUEUR0YdtyApO6/m3u8
+#EXTINF:-1 tvg-id="MTV.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="Canales | Música",MTV Latinoamérica
+http://nor3live.win:80/livehttpplay?channel_id=23324
