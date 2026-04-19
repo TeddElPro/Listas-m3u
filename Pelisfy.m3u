@@ -1,267 +1,137 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # =============================================================
-# 📺 SECCIÓN: CANALES NACIONALES (CHILE)
+# [CHILE]
 # =============================================================
 
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="Canales | Chile",Chilevisión
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="[CHILE]",Chilevisión
 https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.m3u8
 
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="CHILEVISION (Alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="Canales | Chile",CHILEVISION (Señal 2)
-http://179.57.171.184:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="CHVNO" tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chilevisi%C3%B3n_logo_2016.svg" group-title="Canales | Chile",CHV Noticias 24/7
-http://179.57.171.184:8000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="[CHILE]",Mega
 http://179.57.171.184:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega 2
-http://179.57.171.184:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-name="Mega Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega Ficción
-http://179.57.171.184:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="MegaTiempo.cl" tvg-name="Mega Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega Tiempo
-http://179.57.171.184:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="MegaNoticias.cl" tvg-name="Mega Noticias Ahora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Mega_2019_logo.svg" group-title="Canales | Chile",Mega Noticias Ahora
-http://179.57.171.184:8000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/La_Red_TV_logo.svg" group-title="Canales | Chile",La Red (Principal)
-http://179.57.171.184:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-id="LaRed2.cl" tvg-name="La Red 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/La_Red_TV_logo.svg" group-title="Canales | Chile",La Red 2
-http://179.57.171.184:8000/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/24_Horas_2021_logo.svg" group-title="Canales | Chile",24 Horas (TVN)
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVN_Logo.svg" group-title="[CHILE]",TVN
 http://179.57.171.184:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canal_13_Logo_2018.svg" group-title="Canales | Chile",Canal 13
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canal_13_Logo_2018.svg" group-title="[CHILE]",Canal 13
 https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.m3u8
 
-#EXTINF:-1 tvg-id="SuyaiTV" tvg-name="25 Suyai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8X3_6C-6u8ZJ-Bw7FmXUoZ4lq-7N7Xk7f7g&s" group-title="Canales | Chile",25 Suyai TV (Regional)
-http://179.57.171.184:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/La_Red_TV_logo.svg" group-title="[CHILE]",La Red
+http://179.57.171.184:8000/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-id="Oxigeno" tvg-name="OXIGENO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Oxigeno_fm_logo.png/250px-Oxigeno_fm_logo.png" group-title="Canales | Cultural",OXIGENO
-http://179.57.171.184:8000/play/1/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/24_Horas_2021_logo.svg" group-title="[CHILE]",24 Horas
+http://179.57.171.184:8000/play/a00a/index.m3u8
 
 # =============================================================
-# ⚽ SECCIÓN: DEPORTES
+# [DEPORTES]
 # =============================================================
 
-#EXTINF:-1 tvg-id="TigoSportsCR" tvg-name="Tigo Sports Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Tigo_Sports_logo.svg" group-title="Canales | Deportes",Tigo Sports 🇨🇷
+#EXTINF:-1 tvg-id="ESPN.la" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="[DEPORTES]",ESPN
+http://example.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.la" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="[DEPORTES]",ESPN 2
+http://example.com/espn2.m3u8
+
+#EXTINF:-1 tvg-id="DSports.la" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/DirecTV_Sports_logo.svg" group-title="[DEPORTES]",DSports
+http://example.com/dsports.m3u8
+
+#EXTINF:-1 tvg-id="TigoSports.cr" tvg-name="Tigo Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Tigo_Sports_logo.svg" group-title="[DEPORTES]",Tigo Sports
 http://8.243.126.131:8000/play/a0ih
 
+#EXTINF:-1 tvg-id="NBA.TV" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/NBA_TV_logo.svg" group-title="[DEPORTES]",NBA TV
+http://example.com/nbatv.m3u8
+
 # =============================================================
-# 🌍 SECCIÓN: EUROPA (NL / BE / DE)
+# [INTERNACIONAL]
 # =============================================================
 
-#EXTINF:-1 tvg-id="NPO1" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="Canales | Europa",NPO 1
+#EXTINF:-1 tvg-id="BBCWorld.uk" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/BBC_News_2022.svg" group-title="[INTERNACIONAL]",BBC World News
+http://example.com/bbcworld.m3u8
+
+#EXTINF:-1 tvg-id="CNNIntl.us" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="[INTERNACIONAL]",CNN International
+http://example.com/cnnintl.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol.svg" group-title="[INTERNACIONAL]",DW
+http://example.com/dw.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.svg" group-title="[INTERNACIONAL]",France 24
+http://example.com/france24.m3u8
+
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="[INTERNACIONAL]",NPO 1
 http://31.149.103.41:8000/play/1
 
-#EXTINF:-1 tvg-id="NPO2" tvg-name="NPO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_2_logo_2014.svg" group-title="Canales | Europa",NPO 2
-http://31.149.103.41:8000/play/2
-
-#EXTINF:-1 tvg-id="NPO3" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NPO_3_logo_2014.svg" group-title="Canales | Europa",NPO 3
-http://31.149.103.41:8000/play/3
-
-#EXTINF:-1 tvg-id="RTL4" tvg-name="RTL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/RTL4_logo_2023.svg" group-title="Canales | Europa",RTL 4
-http://31.149.103.41:8000/play/4
-
-#EXTINF:-1 tvg-id="SBS6" tvg-name="SBS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/SBS6_logo_2013.svg" group-title="Canales | Europa",SBS 6
-http://31.149.103.41:8000/play/6
-
-#EXTINF:-1 tvg-id="RTL7" tvg-name="RTL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/RTL_7_logo.svg" group-title="Canales | Europa",RTL 7
-http://31.149.103.41:8000/play/7
-
-#EXTINF:-1 tvg-id="NET5" tvg-name="NET 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Net5_logo_2021.svg" group-title="Canales | Europa",NET 5
-http://31.149.103.41:8000/play/8
-
-#EXTINF:-1 tvg-id="RTL8" tvg-name="RTL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/RTL_8_logo.svg" group-title="Canales | Europa",RTL 8
-http://31.149.103.41:8000/play/10
-
-#EXTINF:-1 tvg-id="TLC_NL" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC_logo.svg" group-title="Canales | Europa",TLC
-http://31.149.103.41:8000/play/17
-
-#EXTINF:-1 tvg-id="SBS9" tvg-name="SBS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/SBS9_logo_2015.svg" group-title="Canales | Europa",SBS 9
-http://31.149.103.41:8000/play/19
-
-#EXTINF:-1 tvg-id="InvestigationDiscovery_NL" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Investigation_Discovery_logo_2020.svg" group-title="Canales | Europa",Investigation Discovery
-http://31.149.103.41:8000/play/21
-
-#EXTINF:-1 tvg-id="VRTCanvas" tvg-name="VRT Canvas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/VRT_Canvas_logo_2023.svg" group-title="Canales | Europa",VRT Canvas
-http://31.149.103.41:8000/play/30
-
-#EXTINF:-1 tvg-id="SuperRTL" tvg-name="Super RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Super_RTL_logo_2023.svg" group-title="Canales | Europa",Super RTL
-http://31.149.103.41:8000/play/66
-
-#EXTINF:-1 tvg-id="NPOPolitiek" tvg-name="NPO Politiek en nieuws" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="Canales | Europa",NPO Politiek en nieuws
-http://31.149.103.41:8000/play/83
-
 # =============================================================
-# 📺 SECCIÓN: CANALES USA
+# [USA]
 # =============================================================
 
-#EXTINF:-1 tvg-id="CartoonNetworkUSA" tvg-name="Cartoon Network / Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | USA",Cartoon Network (USA)
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ABC_logo_2021.svg" group-title="Canales | USA",ABC Denver CO
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ABC_logo_2021.svg" group-title="[USA]",ABC
 http://89.187.178.197:1970/ABCDenver/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV_USA" tvg-name="MTV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="Canales | USA",MTV USA
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="[USA]",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_logo_2021.svg" group-title="[USA]",MTV
 http://84.17.50.102/mtv/index.m3u8
 
 # =============================================================
-# 🎬 SECCIÓN: CINE Y SERIES (PREMIUM)
+# [INFANTIL]
 # =============================================================
 
-#EXTINF:-1 tvg-id="UniversalCinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_TV_Logo.svg/1200px-Universal_TV_Logo.svg.png" group-title="Canales | Cine",Universal Cinema
-http://179.57.171.184:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="UniversalComedy" tvg-name="Universal Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_TV_Logo.svg/1200px-Universal_TV_Logo.svg.png" group-title="Canales | Cine",Universal Comedy
-http://179.57.171.184:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="UniversalPremiere" tvg-name="Universal Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_TV_Logo.svg/1200px-Universal_TV_Logo.svg.png" group-title="Canales | Cine",Universal Premiere
-http://179.57.171.184:8000/play/a01q/index.m3u8
-
-# =============================================================
-# 📺 SECCIÓN: ENTRETENIMIENTO E INFANTIL
-# =============================================================
-
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD (Inglés)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Disney_XD_logo_2016.svg" group-title="Canales | Infantil",Disney XD (Inglés)
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Disney_XD_logo_2016.svg" group-title="[INFANTIL]",Disney XD
 http://84.17.50.102/disneyxd/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Comedy_Central_2018.svg" group-title="Canales | Entretenimiento",Comedy Central
-http://31.149.103.41:8000/play/12
-
-#EXTINF:-1 tvg-id="DisneyJrVeronica" tvg-name="Disney Jr. / Veronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Disney_Junior_2011.svg" group-title="Canales | Infantil",Disney Jr. / Veronica
-http://31.149.103.41:8000/play/9
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_1992_logo.svg" group-title="Canales | Infantil",Cartoon Network
-http://nor1live.win/livehttpplay?channel_id=23045
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nickelodeon_2023_logo.svg" group-title="Canales | Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.la" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nickelodeon_2023_logo.svg" group-title="[INFANTIL]",Nickelodeon
 http://216.155.91.47:8000/play/a0l5/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Nick_Jr_2009.svg" group-title="Canales | Infantil",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.la" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Nick_Jr_2009.svg" group-title="[INFANTIL]",Nick Jr.
 http://nor1live.win/livehttpplay?channel_id=23044
 
 # =============================================================
-# 🎬 SECCIÓN: SERIES (DRAGON BALL SUPER)
+# [ANIME]
 # =============================================================
 
-#EXTINF:-1 tvg-id="DBSuperCap1" tvg-name="Dragon Ball Super - Cap 1" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 1
-https://videos2.sendvid.com/3a/10/fvex5kou.mp4?validfrom=1776532858&validto=1776547258&rate=200k&ip=45.162.192.7&hash=%2F%2BV30cirtfNcW6kw5SW7OLh11OQ%3D
+#EXTINF:-1 tvg-id="DragonBallSuper" tvg-name="Dragon Ball Super" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="[ANIME]",Dragon Ball Super
+https://example.com/dragonballsuper.m3u8
 
-#EXTINF:-1 tvg-id="DBSuperCap2" tvg-name="Dragon Ball Super - Cap 2" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 2
-https://videos2.sendvid.com/ae/c7/rg0a4gb6.mp4?validfrom=1776533256&validto=1776547656&rate=200k&ip=45.162.192.7&hash=Myn8TDY4Fy78r%2F56Wdi8UvfiYnw%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap3" tvg-name="Dragon Ball Super - Cap 3" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 3
-https://videos2.sendvid.com/3e/d5/a6abw867.mp4?validfrom=1776533283&validto=1776547683&rate=200k&ip=45.162.192.7&hash=qHPMe%2FLLa18FpIaOz586iNw%2F%2FTo%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap4" tvg-name="Dragon Ball Super - Cap 4" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 4
-https://videos2.sendvid.com/32/8b/74nlgy8u.mp4?validfrom=1776533320&validto=1776547720&rate=200k&ip=45.162.192.7&hash=ey%2FPBecqn71GeGWHDJQHTagcmG4%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap5" tvg-name="Dragon Ball Super - Cap 5" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 5
-https://videos2.sendvid.com/07/74/zbgkurb0.mp4?validfrom=1776533359&validto=1776547759&rate=200k&ip=45.162.192.7&hash=zv52ik3oj8ZxweqCh2b42cWsYu4%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap6" tvg-name="Dragon Ball Super - Cap 6" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 6
-https://videos2.sendvid.com/32/2b/2ips6043.mp4?validfrom=1776533425&validto=1776547825&rate=200k&ip=45.162.192.7&hash=fNyPNige5ELtBvNzOLKFF8NbkQI%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap7" tvg-name="Dragon Ball Super - Cap 7" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 7
-https://videos2.sendvid.com/d6/85/pl1q9ip3.mp4?validfrom=1776533460&validto=1776547860&rate=200k&ip=45.162.192.7&hash=DgYTuvTGOUxRwH8q7klACdAY%2BTo%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap8" tvg-name="Dragon Ball Super - Cap 8" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 8
-https://videos2.sendvid.com/cd/0b/hulsrcpx.mp4?validfrom=1776533533&validto=1776547933&rate=200k&ip=45.162.192.7&hash=aO3ge29mM9mILLJk7ecHBGAxhkU%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap9" tvg-name="Dragon Ball Super - Cap 9" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 9
-https://videos2.sendvid.com/ae/7c/yo6co39w.mp4?validfrom=1776533562&validto=1776547962&rate=200k&ip=45.162.192.7&hash=%2FsXzM6dOmTDPMYgYivV9oMeiYEI%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap10" tvg-name="Dragon Ball Super - Cap 10" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 10
-https://videos2.sendvid.com/e4/66/h1ndgmeh.mp4?validfrom=1776533605&validto=1776548005&rate=200k&ip=45.162.192.7&hash=HmWOEqlRbCbbz%2FeJbGthlBd2g4w%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap11" tvg-name="Dragon Ball Super - Cap 11" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 11
-https://videos2.sendvid.com/df/98/klphww0x.mp4?validfrom=1776547448&validto=1776561848&rate=200k&ip=45.162.192.7&hash=CBJKEYaLqjdCsYrJrtefMKFT16Y%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap12" tvg-name="Dragon Ball Super - Cap 12" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 12
-https://videos2.sendvid.com/d2/c3/uhxl52ms.mp4?validfrom=1776547450&validto=1776561850&rate=200k&ip=45.162.192.7&hash=zi%2FnCC7tzl%2FoZQI%2FvNl059JEI78%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap13" tvg-name="Dragon Ball Super - Cap 13" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 13
-https://videos2.sendvid.com/89/18/9l0pzyhj.mp4?validfrom=1776547454&validto=1776561854&rate=200k&ip=45.162.192.7&hash=R%2Fk2gBSvJW8r%2FMW3O%2FbA5sZx6HU%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap14" tvg-name="Dragon Ball Super - Cap 14" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 14
-https://videos2.sendvid.com/e6/6f/k6le193w.mp4?validfrom=1776547458&validto=1776561858&rate=200k&ip=45.162.192.7&hash=ZhsI48jC4ZMpTSzxuPZE7x824aU%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap15" tvg-name="Dragon Ball Super - Cap 15" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 15
-https://videos2.sendvid.com/05/19/lbbdmeha.mp4?validfrom=1776547463&validto=1776561863&rate=200k&ip=45.162.192.7&hash=jDEgkk94FUR5KQhMTdk5HP%2FyrAM%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap16" tvg-name="Dragon Ball Super - Cap 16" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 16
-https://videos2.sendvid.com/fb/21/ypu2r4dz.mp4?validfrom=1776547582&validto=1776561982&rate=200k&ip=45.162.192.7&hash=BQBGJyu42BKfzsrYSMU1X63mNms%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap17" tvg-name="Dragon Ball Super - Cap 17" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 17
-https://videos2.sendvid.com/e4/09/23t9do1h.mp4?validfrom=1776547595&validto=1776561995&rate=200k&ip=45.162.192.7&hash=JHxP6t%2BuW5D0FWcVRkEm%2FVy4vXw%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap18" tvg-name="Dragon Ball Super - Cap 18" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 18
-https://videos2.sendvid.com/f4/d4/febdzn9c.mp4?validfrom=1776547601&validto=1776562001&rate=200k&ip=45.162.192.7&hash=vRITu9H01o2Dj4CTI46WoNrq5xE%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap19" tvg-name="Dragon Ball Super - Cap 19" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 19
-https://videos2.sendvid.com/5a/bf/j2indcxv.mp4?validfrom=1776547607&validto=1776562007&rate=200k&ip=45.162.192.7&hash=uwFtKqzLQuodizRwoIxdQ%2BHcg4s%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap20" tvg-name="Dragon Ball Super - Cap 20" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 20
-https://videos2.sendvid.com/fd/52/hneq4am9.mp4?validfrom=1776547615&validto=1776562015&rate=200k&ip=45.162.192.7&hash=iKZk7kpX47E%2FhmyUoYbfWgDQsCI%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap21" tvg-name="Dragon Ball Super - Cap 21" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 21
-https://videos2.sendvid.com/32/1d/rgixe99v.mp4?validfrom=1776548139&validto=1776562539&rate=200k&ip=45.162.192.7&hash=yVaVmCi4zeD%2BtrpD5NuqLuS5kgc%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap22" tvg-name="Dragon Ball Super - Cap 22" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 22
-https://videos2.sendvid.com/38/af/k2dblku5.mp4?validfrom=1776548139&validto=1776562539&rate=200k&ip=45.162.192.7&hash=I1p5Bn%2BC9tcgj78TON16%2FpYiQd8%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap23" tvg-name="Dragon Ball Super - Cap 23" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 23
-https://videos2.sendvid.com/5d/63/2rcc3w49.mp4?validfrom=1776548143&validto=1776562543&rate=200k&ip=45.162.192.7&hash=whgvLIPTtWySkFmwvBxbLDWt%2BGU%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap24" tvg-name="Dragon Ball Super - Cap 24" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 24
-https://videos2.sendvid.com/46/e3/bcvfx6tu.mp4?validfrom=1776548148&validto=1776562548&rate=200k&ip=45.162.192.7&hash=%2FXqpXcija7OugfYUycipO3h%2Fw%2BQ%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap25" tvg-name="Dragon Ball Super - Cap 25" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 25
-https://videos2.sendvid.com/f0/fc/kvdiisl4.mp4?validfrom=1776548158&validto=1776562558&rate=200k&ip=45.162.192.7&hash=fyYMii4OxF9ByuDYK3R%2Fdh%2FJSl8%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap26" tvg-name="Dragon Ball Super - Cap 26" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 26
-https://videos2.sendvid.com/92/e1/gk0653xr.mp4?validfrom=1776548159&validto=1776562559&rate=200k&ip=45.162.192.7&hash=Wi0WlMu8qL8CkmpK5%2BsT2W2UlJY%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap27" tvg-name="Dragon Ball Super - Cap 27" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 27
-https://videos2.sendvid.com/9b/b7/fvg2c8q3.mp4?validfrom=1776548164&validto=1776562564&rate=200k&ip=45.162.192.7&hash=cWcvmHcC%2BUFYQ%2F03QRw%2FBtG6Dr8%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap28" tvg-name="Dragon Ball Super - Cap 28" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 28
-https://videos2.sendvid.com/08/7c/qf7mobnj.mp4?validfrom=1776548170&validto=1776562570&rate=200k&ip=45.162.192.7&hash=UQ7iEel1euljsuN6%2Ba5dBqgn2n4%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap29" tvg-name="Dragon Ball Super - Cap 29" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 29
-https://videos2.sendvid.com/c0/d5/9bzzuuqz.mp4?validfrom=1776548178&validto=1776562578&rate=200k&ip=45.162.192.7&hash=vFoP3LiRGeuRSV8zhAqjrFiy9h8%3D
-
-#EXTINF:-1 tvg-id="DBSuperCap30" tvg-name="Dragon Ball Super - Cap 30" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Serie | Dragon Ball Super",Dragon Ball Super - Cap 30
-https://videos2.sendvid.com/10/4b/d6cu2mmm.mp4?validfrom=1776548184&validto=1776562584&rate=200k&ip=45.162.192.7&hash=HqIZ%2Fn0ENrJVYj6vYm4oLMEIM7w%3D
+#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[ANIME]",Naruto
+https://example.com/naruto.m3u8
 
 # =============================================================
-# 🎬 SECCIÓN: PELÍCULAS (Carátulas Restauradas)
+# [SERIES]
 # =============================================================
 
-#EXTINF:-1 tvg-id="tbm2" tvg-name="Los Tipos Malos 2" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Peliculas | Animación",Los Tipos Malos 2
-https://1a-1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
+#EXTINF:-1 tvg-id="BreakingBad" tvg-name="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[SERIES]",Breaking Bad
+https://example.com/breakingbad.m3u8
 
-#EXTINF:-1 tvg-id="SpongeBob" tvg-name="Bob Esponja" tvg-logo="https://image.tmdb.org/t/p/w500/v9K89Yg6z6Y0v8f9H9f0Y1Y6z.jpg" group-title="Peliculas | Animación",Bob Esponja: En busca de los pantalones cuadrados
-https://1a-1791.com/video/fwe2/44/s8/2/2/H/E/T/2HETz.aaa.mp4
+#EXTINF:-1 tvg-id="TheOffice" tvg-name="The Office" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[SERIES]",The Office
+https://example.com/theoffice.m3u8
 
-#EXTINF:-1 tvg-id="FamiliaRenta" tvg-name="Familia en Renta" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Peliculas | Familiar",Familia en Renta
-https://1a-1791.com/video/fwe2/a8/s8/2/O/G/E/T/OGETz.aaa.mp4
+# =============================================================
+# [PELÍCULAS ACCIÓN]
+# =============================================================
 
-#EXTINF:-1 tvg-id="GuerrerasKpop" tvg-name="Las Guerreras del Kpop" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Peliculas | Animación",Las Guerreras del Kpop
-https://1a-1791.com/video/fww1/93/s8/2/j/5/U/V/j5UVy.aaa.mp4
+#EXTINF:-1 tvg-id="JohnWick" tvg-name="John Wick (2014)" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[PELÍCULAS ACCIÓN]",John Wick (2014)
+https://example.com/johnwick.mp4
 
-#EXTINF:-1 tvg-id="HomoArgentum" tvg-name="Homo Argentum" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Peliculas | Acción",Homo Argentum
-https://1a-1791.com/video/fww1/6b/s8/2/8/G/H/R/8GHRz.aaa.mp4
-
-#EXTINF:-1 tvg-id="Anaconda" tvg-name="Anaconda" tvg-logo="https://image.tmdb.org/t/p/w500/mXf8x5zS8z8PzS8z8PzS8z8P.jpg" group-title="Peliculas | Acción",Anaconda
+#EXTINF:-1 tvg-id="Anaconda" tvg-name="Anaconda (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[PELÍCULAS ACCIÓN]",Anaconda (2025)
 https://1a-1791.com/video/fwe2/05/s8/2/i/N/P/L/iNPLz.aaa.mp4
 
-#EXTINF:-1 tvg-id="CulpaNuestra" tvg-name="Culpa Nuestra" tvg-logo="https://image.tmdb.org/t/p/w500/76D98O4vC0p3v7D2GZ7l8XfLp7R.jpg" group-title="Peliculas | Romance",Culpa Nuestra
+# =============================================================
+# [PELÍCULAS ANIMACIÓN]
+# =============================================================
+
+#EXTINF:-1 tvg-id="Shrek" tvg-name="Shrek (2001)" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[PELÍCULAS ANIMACIÓN]",Shrek (2001)
+https://example.com/shrek.mp4
+
+#EXTINF:-1 tvg-id="BadGuys2" tvg-name="Los Tipos Malos 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[PELÍCULAS ANIMACIÓN]",Los Tipos Malos 2 (2025)
+https://1a-1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
+
+# =============================================================
+# [PELÍCULAS ROMANCE]
+# =============================================================
+
+#EXTINF:-1 tvg-id="Titanic" tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[PELÍCULAS ROMANCE]",Titanic (1997)
+https://example.com/titanic.mp4
+
+#EXTINF:-1 tvg-id="CulpaNuestra" tvg-name="Culpa Nuestra (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/" group-title="[PELÍCULAS ROMANCE]",Culpa Nuestra (2025)
 https://1a-1791.com/video/fwe2/76/s8/2/A/H/E/T/AHETz.aaa.mp4
