@@ -1,8 +1,3 @@
-He integrado los nuevos enlaces a tu lista. Los que ya existían ahora tienen una opción adicional (o el nombre específico que pediste) y he creado la entrada para **MTV Latinoamérica**, que no estaba en la versión anterior.
-
-Aquí tienes el código completo y actualizado:
-
-```text
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # =============================================================
@@ -316,13 +311,13 @@ https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255oaqxVnxY
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUxS25kTf8s1n_lgENRfs8o.png" group-title="Canales | Cine",A&E
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cRpPcVF4S2k3ClSQCXjS6/m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIU4Z5D3TspCTag2MzDlNIwzOijRcHP-lCvbO8-RrYoT_Q.png" group-title="Canales | Cine",TNT Series
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVVxn-j2hDLUXgfCAsCoMJi.png" group-title="Canales | Cine",TNT Series
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256p-NhSFPUdhWwiw3wScufP/m3u8
 
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWlavVcNO00Qfy5djCkdr1YvSYDqVp0HTBA4dAB3LbeKg.png" group-title="Canales | Cine",Sony Channel
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Q7VfnUJS5ZJHa_Br9LF6D/m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Canales | HBO",HBO (Este)
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Canales | HBO",HBO (Este)
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254qnzVDR7P3O9p5mhGrxpty/m3u8
 
 # =============================================================
@@ -373,4 +368,3 @@ https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2578ZkKcBd8
 
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwyo_KFsGnxrFnO3WWy_CX8.png" group-title="Canales | Niños",Cartoonito
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254NTxEt68bUEUR0YdtyApO6/m3u8
-```
