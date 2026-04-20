@@ -1,0 +1,52 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-name="Bandamax" group-title="VIX Prime",Bandamax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42095c4a98de2d937e8dd9d59a0da424:8a4f2ab708e8af3daf9e5bf071f98d05
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5wmhxwdb4l/out/v1/d7b375eb0f1c462f9090428cf2a1e132/cenc.mpd
+
+#EXTINF:-1 tvg-name="Bitme" group-title="VIX Prime",Bitme
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=391ad12844fdb7c127e2c7ba23582b3b:6c9b3103cd519fcad556e84f918998cd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
+
+#EXTINF:-1 tvg-name="Canal 5" group-title="VIX Prime",Canal 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
+#EXTINF:-1 tvg-name="Nueve" group-title="VIX Prime",Nueve
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79737d20a3eaa862f8cb77c61cb3b58c:41df11a0be44fd7272538728cec38bc6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd
+
+#EXTINF:-1 tvg-name="Distrito Comedia" group-title="VIX Prime",Distrito Comedia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c73635de48c1033f60965175563af02:ac71c079e88f068aad80e947bac1b494
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jainwiiq5g/out/v1/1094f5319566443cb6a9000810384a1a/cenc.mpd
+
+#EXTINF:-1 tvg-name="Golden" group-title="VIX Prime",Golden
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
+
+#EXTINF:-1 tvg-name="Golden Edge" group-title="VIX Prime",Golden Edge
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd
+
+#EXTINF:-1 tvg-name="Golden Plus" group-title="VIX Prime",Golden Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
+
+#EXTINF:-1 tvg-name="Telehit" group-title="VIX Prime",Telehit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8db29d65d8db2422cfadefec929cdc46:b96587a4e8237bc22a186114b25179da
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd
+
+#EXTINF:-1 tvg-name="Telehit Musica" group-title="VIX Prime",Telehit Musica
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72072cc450719f120c9002b1bae31401:5777198adbd14c0416aa760249b91380
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd
