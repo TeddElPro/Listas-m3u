@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", DSports
+http://38.188.100.18:8000/play/a05m
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", DSports 2
+http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", DSports +
+http://38.188.100.18:8000/play/a0o8
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Telefe
+http://190.7.19.197:232/play/a059
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", TV Pública
+http://190.7.19.197:232/play/a03c
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", TyC Sports
+http://190.7.19.197:232/play/a04w
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Entel Gol
+http://xplatinmedia.com:8080/live/Ghozt/7274jndu2bw8bcrEcunexochavetuho5Rlt/60808.ts
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", TV Globo
+http://177.52.24.155:8000/play/a03x
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Cazé TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", SBT
+http://45.233.58.154:8000/play/a00o
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Chilevisión
+http://190.95.11.223:8000/play/066
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Caracol TV
+http://astra.fibernetisp.com.co/play/a03r
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", RCN
+http://astra.fibernetisp.com.co/play/a03s
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Win Sports
+http://astra.fibernetisp.com.co/play/a04g
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Teletica
+http://181.119.177.253:8000/play/a0da
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", FOX
+http://190.92.82.246:8000/play/a012
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Teleamazonas
+http://186.5.77.99:8000/play/a0am
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Canal 4 TCS
+http://190.92.82.246:8000/play/a0jc
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", Tigo Sports
+http://179.60.224.196:8000/play/a0i0
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", FOX USA
+http://stream.cammonitorplus.net/1772/index.m3u8
+#EXTINF:-1 group-title="Copa Mundial de la FIFA 2026", FS1 USA
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
