@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 
 # ==========================================
 # CHILE | CANALES ABIERTOS
@@ -33,6 +33,60 @@ https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVni9LT46tu
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVm9KIKZEFPBPUQZQz5VzwhW/m3u8
 
 # ==========================================
+# CINE & SERIES
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrSH0Iqus33NgsRHbqIAcDvRVdyCPvranNFueEvb7gZL.png" group-title="CINE & SERIES",Star Channel
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnwStT09KPT5HrTZ2x09zIJ/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llLYYOkNMajYFh0McYALFcUTbRKyuDWq7SYrNwPLOKrOtLMf77lc16db4EZGdMKCIw.png" group-title="CINE & SERIES",Warner Channel
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlU8iWK4C_GOE6I1lsKKaoJ/m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://i.imgur.com/vHqLqL6.png" group-title="CINE & SERIES",Warner Channel (Alt)
+http://138.186.23.7:8082/WARNER/index.m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83livuTSrhUTvsmtQKh8sfsDUaoYgSUo9cfo4dqWvscvnI.png" group-title="CINE & SERIES",Cine Latino
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmqpvWe2Pc4p9vdmIcuwQQy/m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="https://i.imgur.com/G5g2Uby.png" group-title="CINE & SERIES",Golden Edge
+http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="https://i.imgur.com/G5g2Uby.png" group-title="CINE & SERIES",Golden Edge (Alt 1)
+http://177.74.205.189:8081/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="https://i.imgur.com/G5g2Uby.png" group-title="CINE & SERIES",Golden Edge (Alt 2)
+http://209.14.115.253:8081/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="https://i.imgur.com/G5g2Uby.png" group-title="CINE & SERIES",Golden Edge (Alt 3)
+https://streamer.metronethn.com/GoldenEdge/index.m3u8
+#EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://i.imgur.com/KdfG3G4.png" group-title="CINE & SERIES",USA Network (US)
+http://108.27.148.22/USA/index.m3u8
+#EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://i.imgur.com/KdfG3G4.png" group-title="CINE & SERIES",USA Network Latam
+http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://i.imgur.com/y8U3Wv2.png" group-title="CINE & SERIES",BBC America
+http://135.148.122.114/BBCAMERICA/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.imgur.com/vHkWq8X.png" group-title="CINE & SERIES",AXN
+http://15.204.172.134:9090/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/9v6NlY3.png" group-title="CINE & SERIES",Sony Channel
+http://38.96.178.203/SONY/index.m3u8
+#EXTINF:-1 tvg-id="Sony Channel HD" tvg-name="Sony Channel HD" tvg-logo="https://i.imgur.com/9v6NlY3.png" group-title="CINE & SERIES",Sony Channel HD
+http://38.96.178.203/SONYHD/index.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/9v6NlY3.png" group-title="CINE & SERIES",Sony Channel Andes
+http://138.186.23.7:8082/SONYCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Bounce TV" tvg-name="Bounce TV" tvg-logo="https://i.imgur.com/w8Y9Xv8.png" group-title="CINE & SERIES",Bounce TV
+http://24.106.145.121/Bounce/index.m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljUplXmGuQBQfdz3kRcXmVLPqd5jJPUZOc5IeGlNe-8v.png" group-title="CINE & SERIES",TNT
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnGMBZD0BlbWrAWICDfFAjw/m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.imgur.com/vHqLqL6.png" group-title="CINE & SERIES",TNT LatAm
+http://138.121.15.230:9002/TNT/index.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.imgur.com/KdfG3G4.png" group-title="CINE & SERIES",A&E
+http://200.115.112.43/A&E/index.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/y8U3Wv2.png" group-title="CINE & SERIES",Comedy Central Latinoamérica
+http://181.119.93.83:8000/play/a1di/index.m3u8
+
+# ==========================================
+# CINE PREMIUM
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDG6YfFW2n2L_yBGuDJIbUiv.png" group-title="CINE Premium",HBO - Oeste
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlTnH0opkJ1Bkn7bKV_nHDK/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDHDzTBmmPEggfpK-sb9ExgN.png" group-title="CINE Premium",HBO 2 - Oeste
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn8Ba7DnTPQJWh_hvscgJin/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDFoRAVqKc-kRzmtbLhlCdxG.png" group-title="CINE Premium",HBO Family
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlyV_4vtsciyqB91Y-frVgE/m3u8
+
+# ==========================================
 # DEPORTES PREMIUM
 # ==========================================
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljUplXmGuQBQfdz3kRcXmVKK-Mizhgo5IjG4HFoxJ2dpiOQsEQuehIerVUuvgiV-yQ.png" group-title="DEPORTES Premium",TNT Sports Premium - Chile
@@ -65,38 +119,36 @@ https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVki24SvGQE
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkFzfticwD3yqITSkarzStk/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lq5i4p3VhdGoT8XtXXNqPNdgK0-dncfuJyXQz_Z9V3L0.png" group-title="DEPORTES Premium",Teletrak TV
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVksCXv9OFd10tKb9IxsujMV/m3u8
-
-# ==========================================
-# CINE & SERIES
-# ==========================================
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrSH0Iqus33NgsRHbqIAcDvRVdyCPvranNFueEvb7gZL.png" group-title="CINE & SERIES",Star Channel
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnwStT09KPT5HrTZ2x09zIJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljUplXmGuQBQfdz3kRcXmVLPqd5jJPUZOc5IeGlNe-8v.png" group-title="CINE & SERIES",TNT
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnGMBZD0BlbWrAWICDfFAjw/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llLYYOkNMajYFh0McYALFcUTbRKyuDWq7SYrNwPLOKrOtLMf77lc16db4EZGdMKCIw.png" group-title="CINE & SERIES",Warner Channel
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlU8iWK4C_GOE6I1lsKKaoJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83livuTSrhUTvsmtQKh8sfsDUaoYgSUo9cfo4dqWvscvnI.png" group-title="CINE & SERIES",Cine Latino
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmqpvWe2Pc4p9vdmIcuwQQy/m3u8
-
-# ==========================================
-# CINE PREMIUM
-# ==========================================
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDG6YfFW2n2L_yBGuDJIbUiv.png" group-title="CINE Premium",HBO - Oeste
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlTnH0opkJ1Bkn7bKV_nHDK/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDHDzTBmmPEggfpK-sb9ExgN.png" group-title="CINE Premium",HBO 2 - Oeste
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn8Ba7DnTPQJWh_hvscgJin/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDFoRAVqKc-kRzmtbLhlCdxG.png" group-title="CINE Premium",HBO Family
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlyV_4vtsciyqB91Y-frVgE/m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/YgY7QWb.png" group-title="DEPORTES Premium",ESPN 2 (Alt)
+http://138.186.23.7:8082/ESPN2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/9v87Iu4.png" group-title="DEPORTES Premium",ESPN 3 (Alt)
+http://138.186.23.7:8082/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/YgY7QWb.png" group-title="DEPORTES Premium",ESPN USA
+http://135.148.122.114/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/YgY7QWb.png" group-title="DEPORTES Premium",ESPN 2 USA
+http://135.148.122.114/ESPN2/index.m3u8
 
 # ==========================================
 # KIDS | MONITOS ANIMADOS
 # ==========================================
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/83u6lR6.png" group-title="KIDS | Monitos Animados",Cartoon Network
+https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83liCAatZ8G_PH7cA0kXlHfPoStT1ipofE-Y9i7uB0qVoctp0gMJi493BzVj2QcWryHA.png" group-title="KIDS | Monitos Animados",Disney Channel
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkRjlrPn6zGpkBE6Uvdk3Rz/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lv2nA1UnblTremaB0KQiUKECYW7GdfL-rhzBfdoWnfBU.png" group-title="KIDS | Monitos Animados",Baby TV
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnFtCkftEw1MyeVbgFp4d--/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjq4TNbY-ZjfgQdiyPOpkIj-78Qm1o9zmnX3h_RnM9b_fQ.png" group-title="KIDS | Monitos Animados",Canal Infantil
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkJwWru22SHxhV-L9CIyyDy/m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/C9Kk5P6.png" group-title="KIDS | Monitos Animados",Nickelodeon
+http://138.186.23.7:8082/NICK/index.m3u8
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/b9S9wUu.png" group-title="KIDS | Monitos Animados",Nick Jr.
+http://138.186.23.7:8082/NICKJR/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="https://i.imgur.com/C5mK5zP.png" group-title="KIDS | Monitos Animados",TeenNick
+http://108.27.148.22/TeenNick/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/bW3YhN9.png" group-title="KIDS | Monitos Animados",Disney Channel HD (US)
+http://135.148.122.114/DISNEYCHANNELHD/index.m3u8
+#EXTINF:-1 tvg-id="Semillitas" tvg-name="Semillitas" tvg-logo="https://i.imgur.com/C9Kk5P6.png" group-title="KIDS | Monitos Animados",Semillitas
+http://45.5.117.99:8000/play/a0g3/index.m3u8
 
 # ==========================================
 # CHILE | REGIONES Y CULTURA
@@ -133,6 +185,20 @@ https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmHbkuLnNm
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnuf8C95pQQRDTdnlxS2pxg/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83loltgujwZmsygl8goefvDfwEg5BbOFBHL4OSvPur8Ypx.png" group-title="CHILE | Regiones y Cultura",ITV Patagonia
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmndswO6UamnfZlGIOUoUn5/m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/VvW7wK9.png" group-title="CHILE | Regiones y Cultura",Animal Planet
+http://108.27.148.22/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/M9k9wBw.png" group-title="CHILE | Regiones y Cultura",Discovery Channel (US)
+http://108.27.148.22/Discovery/index.m3u8
+
+# ==========================================
+# VARIEDADES & REALITIES
+# ==========================================
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/b9S9wUu.png" group-title="Variedades & Realities",TLC
+http://108.27.148.22/TLC/index.m3u8
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://i.imgur.com/FwVwG8u.png" group-title="Variedades & Realities",Bravo TV
+http://135.148.122.114/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.imgur.com/z69WvW6.png" group-title="Variedades & Realities",ATV
+http://135.148.122.114/ATV/index.m3u8
 
 # ==========================================
 # MÚSICA & ENTRETENIMIENTO
@@ -153,6 +219,10 @@ https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlQc83W-IY
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl0Pe14WzDzMheClaZbSOVW/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKfQZs_cFAQr0MK_A7ZKK-xV.png" group-title="Música & Entretenimiento",TVN 3
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnH43klm9DLEVPxxrqVaIWr/m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/v8tT9K6.png" group-title="Música & Entretenimiento",MTV
+http://138.186.23.7:8082/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/v8tT9K6.png" group-title="Música & Entretenimiento",MTV HD
+http://45.181.120.65:9087/play/a0ag
 
 # ==========================================
 # INTERNACIONALES & PRENSA MUNDIAL
@@ -181,6 +251,42 @@ https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnGON9IUK3
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmx29Kmb1ykgX9uBlxMelha/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKe6pRlJuHU4hB7QlOlkrZHq.png" group-title="Internacionales & Prensa",TV Chile
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkBdE4KzKMjomTzVkDSSb2t/m3u8
+#EXTINF:-1 tvg-id="CPAC" tvg-name="CPAC" tvg-logo="https://i.imgur.com/v8tT9K6.png" group-title="Internacionales & Prensa",CPAC Canada
+http://38.96.185.61/CPAC/index.m3u8
+
+# ==========================================
+# VENEZUELA | CANALES EN VIVO
+# ==========================================
+#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevision" tvg-logo="https://i.imgur.com/bW3YhN9.png" group-title="Venezuela | Canales",Venevisión
+http://138.186.23.7:8082/VENEVISION/index.m3u8
+#EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://i.imgur.com/FwVwG8u.png" group-title="Venezuela | Canales",Televen
+http://138.186.23.7:8082/TELEVEN/index.m3u8
+#EXTINF:-1 tvg-id="IVC" tvg-name="IVC" tvg-logo="https://i.imgur.com/uN8WwK6.png" group-title="Venezuela | Canales",IVC Net
+http://138.186.23.7:8082/IVC/index.m3u8
+#EXTINF:-1 tvg-id="Globovision" tvg-name="Globovision" tvg-logo="https://i.imgur.com/z69WvW6.png" group-title="Venezuela | Canales",Globovisión
+http://138.186.23.7:8082/GLOBOVISION/index.m3u8
+
+# ==========================================
+# COLOMBIA & INTERNACIONAL
+# ==========================================
+#EXTINF:-1 tvg-id="Nuestra Tele RCN" tvg-name="Nuestra Tele RCN" tvg-logo="https://i.imgur.com/K9bCwX8.png" group-title="Colombia & Internacional",RCN Nuestra Tele
+http://138.186.23.7:8082/RCN/index.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias" tvg-name="Cablenoticias" tvg-logo="https://i.imgur.com/VvW7wK9.png" group-title="Colombia & Internacional",Cablenoticias
+http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
+
+# ==========================================
+# BRASIL | CANALES
+# ==========================================
+#EXTINF:-1 tvg-id="Rede Bandeirantes" tvg-name="Rede Bandeirantes" tvg-logo="https://i.imgur.com/G5g2Uby.png" group-title="Brasil | Canales",Band TV
+http://15.204.172.134:9090/BAND/index.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://i.imgur.com/uN8WwK6.png" group-title="Brasil | Canales",BandSports
+http://15.204.247.247:8080/BANDSPORTS/index.m3u8
+
+# ==========================================
+# CANALES RELIGIOSOS
+# ==========================================
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://i.imgur.com/M9k9wBw.png" group-title="Canales Religiosos",EWTN Latino
+http://138.186.23.7:8082/EWTN/index.m3u8
 
 # ==========================================
 # CHILE | RADIOS EN VIVO
@@ -257,3 +363,5 @@ https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnQmIM5UwM
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmFMIehU_Hm-qEh5lo34eg8/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljE1hNaQsD-U8YC90qGhhXY42GcBalpdtMkuXafGXlEU.png" group-title="CHILE | Radios En Vivo",Sonar
 https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmdOip2yNE24rfpFXcWIAqo/m3u8
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="CN City Era" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Cartoon_Network_2004.svg" group-title="KIDS | Monitos Animados",CN City Era
+https://envivo.cncity.live/hls/envivo.m3u8
