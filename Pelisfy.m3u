@@ -1,1011 +1,259 @@
-#EXTM3U
-#PLAYLIST:normielista
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahojBIuwRNK0UlB-sUJscNr0.png" group-title="NACIONALES",TVN
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2552nYJmbPARTnjJFwGTxfZf/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjej2aDiHgrwsGyLJW7C6OAQg7grjKsU2sPCiQkwWdmt3.png" group-title="NACIONALES",Mega
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256QQOwkUZOMHV8246b-OTqr/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQqsHkvbz7D6W2tM1g31EbnilXuoGiH4eodHlOG6Tkeg.png" group-title="NACIONALES",Chilevisión
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257eHZzDhnfiNmbhrRh2OeOl/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwZ5s8TCK1McUZmY-SfpZBb.png" group-title="NACIONALES",Canal 13
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256BwEmPSbWfLloZ4Fzji8j7/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahqdoEMRFK-Jd2NPwelvtuVv.png" group-title="NACIONALES",TV+
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Gr9G2m2D6aq_5FsIfW9ud/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUUTdxvyKlNufOf_uAsFLsgnOheXxrT7e5-U5HzoF9Oz.png" group-title="NACIONALES",La Red
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256f4OPC0mGfsuKw0zeMqM_D/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgEHM23dhBwSAdsFlT5efnI0.png" group-title="NACIONALES",Telecanal
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255acn6CyEityUWeAN2i6Gpc/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSmdfB-yHYTj5u4dK4rrgqb6FjCSWnp53_jn9vPtoJLy.png" group-title="NACIONALES",CNN Chile
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257IkxtpvKwzWjdLzmThp2K5/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNxDvqqRsodEZk8Ldg23jJ1b4X2K2ny5Uo40Y5QEgECdIQ.png" group-title="NACIONALES",Canal 24 Horas
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257_6J905zqQRWHZSSnLhm0X/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjej2aDiHgrwsGyLJW7C6OAT5ZA5N9do3fyFwSD7mUArm.png" group-title="NACIONALES",Meganoticias Ahora
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25582jFPm_v9MKhfEasEXBjd/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNxPdAgAxnqRzVFPjIN0Mvz6X5yv9YpAtSolN9y_cdGPDg.png" group-title="NACIONALES",Canal CHV Noticias
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254WWblWBHH5eGoyYuAZN6KE/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjc-28MxFZvlNXeOrgDv-aqMJF1EQ2ZN5HRZ63GxG1dwW.png" group-title="NACIONALES",T13 en vivo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255VX6kJNs20YwVuCglTGQXQ/m3u8
-#EXTINF:-1 tvg-logo="" group-title="NACIONALES",UCV TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ig8IxD7A6tstUSATPq1YQ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjX74eYIK9blzIS0cLi-rOgws7MTvgPndjpa9lWVk9dOM.png" group-title="NACIONALES",UChile TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25502zUB0DJ4SFF-yg_yFVHS/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyDpF6XI6BYevaaU0-fr3oqeg-lbCAxvVCReF1YjJzA3w.png" group-title="DEPORTES",TNT Sports Premium (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254bi0VaqLMQnm916vTbp25D/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyo3P-SD-7nNhurU0mwKD7j.png" group-title="DEPORTES",TNT Sports (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257aqpOjNFMDJs2SPThoDB28/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZyDpF6XI6BYevaaU0-fr3oqeg-lbCAxvVCReF1YjJzA3w.png" group-title="DEPORTES",TNT Sports Premium (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255H-iIKMy43rOGuDQtEP45b/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="DEPORTES",ESPN (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256lONxmDxe7Uoqsd-Tu_NH1/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="DEPORTES",ESPN (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257O983Gj-GARdJsFE-DvGzl/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="DEPORTES",ESPN (Colombia)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257bT_6NiUXy08MoWOyd3NNj/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVdo4_MTZLgqZLfb4CuXMHz.png" group-title="DEPORTES",ESPN (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254pyeviZo6GcAtGlEQBLHKi/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="DEPORTES",ESPN 2 (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254wdkQFY86ccUfArCs8svo4/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="DEPORTES",ESPN 2 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254CkAuWWavFDZPaKIxuX4A1/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="DEPORTES",ESPN 2 (Colombia)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256RrseQJY5lKZvG5-iupiib/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXP0WjeskKwkN9CvksK-pyI.png" group-title="DEPORTES",ESPN 2 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257WlFztXu0SJikwl6RnPdSP/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYUx7DqDjtnhSsnybNli9tOr.png" group-title="DEPORTES",ESPN 3 (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256D1FNeFE7FLC45FNDCtu-A/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYUx7DqDjtnhSsnybNli9tOr.png" group-title="DEPORTES",ESPN 3 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255jU9Z-zHkJ3fJD-vVOS61u/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYUx7DqDjtnhSsnybNli9tOr.png" group-title="DEPORTES",ESPN 3 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257z6rQV9W9eensDTJ1lkyye/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWM3qEUDeqFXLIMcuBT17_O.png" group-title="DEPORTES",ESPN 4 (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254RIXNIfsWQ1HXmun2mUigO/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWM3qEUDeqFXLIMcuBT17_O.png" group-title="DEPORTES",ESPN 4 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254crwsdeFNlzk_UgUjFPMPJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="DEPORTES",ESPN 5 (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254--C5swfhiId-VsmVBr6sw/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="DEPORTES",ESPN 5 (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2571ZC9yqvy4ql22rimoUSYF/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="DEPORTES",ESPN 5 (Centroamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257b3O3KGKmfqx3iC4jnJZbB/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXouoQHFNkJteF3kKGT9KxA.png" group-title="DEPORTES",ESPN 6
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254B1e4KJrnvxVRXAF0Bj67f/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVr76gYYaPoWw1f09O33CFh.png" group-title="DEPORTES",ESPN 7
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254eY9-q0GP96Y2070UT3dqo/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVNk8Vp-WgNogXnKysqBbOW.png" group-title="DEPORTES",ESPN Premium (Chile)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257MKNCnRmu-OztCDddwpMsb/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYVNk8Vp-WgNogXnKysqBbOW.png" group-title="DEPORTES",ESPN Premium (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgzBqkh2-yXVYhk7hxlDuwtU.png" group-title="DEPORTES",Claro Sports
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254EkQjZeWTyYOExYpw0Wstg/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgwigF20EzHvIFNFVAf4YJpbUxyxuPy1uIy0pp0L_ZdrQw.png" group-title="DEPORTES",Claro Sports 2
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256GNi6CUqSGMdqVXjBTyT1V/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl5HyEcPvbrvitzwdeLX0GHq.png" group-title="DEPORTES",DSports
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZaOEz30p0g-i75/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl7FkLJp5OT4scq7CkLnXTX5.png" group-title="DEPORTES",DSports 2
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255r3yVqmo4P7lyNhCtFh2CF/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjea7RwB9hlBQbXQNk1hEPl706UpkFtUZAoAQCzebr_FD.png" group-title="DEPORTES",DSports +
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256v2Ptu_IQdvov85RUdYmry/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWNfWrf-xwYyvp5egdJ8ki3h9g7RkQ-mJfCPMShCUG7M.png" group-title="DEPORTES",TyC Sports (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25701dNVhmiQaGKq77OrhH4H/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWNfWrf-xwYyvp5egdJ8ki3h9g7RkQ-mJfCPMShCUG7M.png" group-title="DEPORTES",TyC Sports (Latinoamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2560GB4F2T8kKI6Y2SrKZXfm/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7GAEJR1hn8_q3qTPYqydaBC.png" group-title="DEPORTES",FOX (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256FqX8CPxz5QbXEYLz3oEDs/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FsCyB9KQcII21to2Z5Llwyv9aOoC9eSqgEQr8E6pP2Eg.png" group-title="DEPORTES",FOX Sports Premium (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257MpBG7WzKQjzUhUCMxevjO/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FRYaULNP0h2VWy6KSn7r4r.png" group-title="DEPORTES",FOX Sports (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ndZNXnP83PBDj5pbyzf7T/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7Fx86HDNaJJrBz7q9TEvfFj.png" group-title="DEPORTES",FOX Sports 2 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257lLW5OjG7gMPiErrix8pUF/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7ERdqrTnMZaSs5j_BCcp-xd.png" group-title="DEPORTES",FOX Sports 3 (Argentina)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25740sCbtgP3iCeFcvJXUuzy/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUwmnJiidF4mZYne0QeW26rz5cqGV1Edu3lsJHJ0LfEQ.png" group-title="DEPORTES",SKY Sports Bundesliga (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257f7xPTc1y1lbmfkAZjYvj0/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaRdJLvCQjCGuwDNCQzopQXW67wTSHTm02NuIKE2MB0b.png" group-title="DEPORTES",CDO
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255UZNWAHr7JT2GkVy_gUC22/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgFqqkh5GdzYuncjHs0OzTuf.png" group-title="DEPORTES",Teletrak TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2552xJft7l508Ej9xKei2A7r/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSTijm4__AwZA9M9GA_9YFcqiqKHqT8vMSY5_IjmJ8B6.png" group-title="DEPORTES",Golf Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256S76wvwZ6uSyNSv03jybO6/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTv2qY-Ocm72nU2z61b163pd3SzOCguCj7bZKcyaxqRw.png" group-title="DEPORTES",TUDN (Estados Unidos)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2575A4apmQVwPK7eHBiXvhz_/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyrt5AnXQV2f7z1eU83Vsu8uOIQ9TQsNvbxzdyZmVpA-Dg.png" group-title="DEPORTES",Discovery Turbo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257anDM3VrpBXK8V6ypMkOVg/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVS44V-5yyUd6P9CQ2ynAw1c7hlKrIVfoCv7rpuUJQiCw.png" group-title="CINE Y SERIES",Star Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256f9PNow6SlHqPnsLFUxeQh/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVStbSFISVHGbOe9i74_zsu.png" group-title="CINE Y SERIES",TNT
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254hELOr7HwVurwMN2Xt-8ec/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWJLXdPrxVt3jLL7hssv5p3K9fe5robyVImKIdztBhYMg.png" group-title="CINE Y SERIES",Universal TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2562PGW4nhWDdoXZ8oGCxAIZ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUW_UzD6BD25_wF_qNU1GNs2sKcV-fnXdfpZWRl9Y78Wg.png" group-title="CINE Y SERIES",Cinecanal
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255ptCSjEuYH5O3gyfncia9F/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIV91iMi2iDbc6G0ETsntC0a2uyCephMemCcO1XQbXfIjg.png" group-title="CINE Y SERIES",Cinemax
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257n8Gwver3FM71xqSWOv0mA/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVVxn-j2hDLUXgfCAsCoMJi.png" group-title="CINE Y SERIES",AXN
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255l_XFaVFgg1D51vMVwcLgU/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXgFazflN0cbkOlcyBFj3SA.png" group-title="CINE Y SERIES",FX
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2564SD7m59ExiU2ghI-cM9Iy/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVDEyeC9Qo4nwwedqfcqLrpUDyFMADFSN0ubr_8jwWVHA.png" group-title="CINE Y SERIES",Warner Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cHaRgHaiNzKoaKsqbN5Rj/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUsoBXVHwAWHp_1ZT28Xm0v.png" group-title="CINE Y SERIES",USA
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256otrn3yu-jlClKJJW3JoDx/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWRhbvqqBmE433hJvPNfsfR.png" group-title="CINE Y SERIES",Space
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2575kwvJLLN7m7fowyKLT75V/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUpHap1ZOsmKT-DlUtYbL1-XJInf9OeRbaCm8mQwjsOXQ.png" group-title="CINE Y SERIES",Comedy Central
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255oaqxVnxYd9Baf4YI6QTaF/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUxS25kTf8s1n_lgENRfs8o.png" group-title="CINE Y SERIES",A&E
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cRpPcVF4S2k3ClSQCXjS6/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIU4Z5D3TspCTag2MzDlNIwzOijRcHP-lCvbO8-RrYoT_Q.png" group-title="CINE Y SERIES",TNT Series
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256p-NhSFPUdhWwiw3wScufP/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWlavVcNO00Qfy5djCkdr1YvSYDqVp0HTBA4dAB3LbeKg.png" group-title="CINE Y SERIES",Sony Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Q7VfnUJS5ZJHa_Br9LF6D/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUUV6p23wVL0lG1jez5SWJP.png" group-title="CINE Y SERIES",AMC
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255yOaepeNJ1eZQz9Bz4Ljqe/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVU66fc_L2LXvEwD1_JwPmX.png" group-title="CINE Y SERIES",TCM
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254AyOXQQl_Ylnem0gV64ptI/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXz4ZnpQ-voNhr07HTjiPfIN30i04ZxCYShejNdbG0bVQ.png" group-title="CINE Y SERIES",Studio Universal
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254no6DaWGWC2CZxgjs0A66M/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVWwXwtbSm2XSLV5cCrE1FllRfXfvexc3yN0uNvE5MvAg.png" group-title="CINE Y SERIES",Film & Arts
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256JxBuTzh-xDzQQjMD0bS7R/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVaBQjKz1j2LsWjkQqYIdoLU7eoseMvjBYiBWzKN6mMyg.png" group-title="CINE Y SERIES",Lifetime
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25553w8xWK9ja1iVZxp0Y1W7/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVaELRmCOHaln4oBAcaFJ68.png" group-title="CINE Y SERIES",Golden
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257xjIv5t90vZPIMGk0QAzQg/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVxL37c_ddm-1HexHxJ93Vq.png" group-title="CINE Y SERIES",DHE
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255VUw-3x6ayrgjh_N1a8_bw/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIVpWs3IE8PC0JATSe89T1CxW3VP8b-qhnf6Okz7NqhDHQ.png" group-title="CINE Y SERIES",Golden Edge
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257g8NyJGxcueGCw-7z5X_eK/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXIn2-fT7oscx6QcSFxptyUnz1wn8y2PHWGNKHIp01Ixg.png" group-title="CINE Y SERIES",AMC Series
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257REjwE8OmIN3IwCbwMoaZN/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWkLLRb2N4rNGXVTi5IbIuuppAkdP9A39UnGnCmxKWZ1w.png" group-title="CINE Y SERIES",Golden Plus
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-drjNtJRSkKM4zO5aFPda/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWj52atIMJPhx8EmF-mVV416ZPb1IkCDbJ7SqSn1vbG0Q.png" group-title="CINE Y SERIES",Sony Movies
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Qiwp0kFX5JEx_cEi4mTWx/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUis1KLCdz0aW2LkThObrxyHtfSvkM4gXBYmATYNZDgsQ.png" group-title="CINE Y SERIES",Golden Premier
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2548fIImCaoOZl9n_ia9_MMu/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIW0wYlPMDKkRacuo8eCsQOy84QSh_scr5g3jsbgS2ssCA.png" group-title="CINE Y SERIES",Europa Europa
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255T4Kb-e1wLYDJ2Sk3yeSAM/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIU34NONacygaNUhlN9mcqX3oW_eDCyHlSLUDYtiORLOYw.png" group-title="CINE Y SERIES",Multipremier
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2553mlqEOIxcvSGFQPdvvhOZ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXKwpqg2Abzmp64DNuCJ7nRKrAXOEldSMrGf3J5snDXMQ.png" group-title="CINE Y SERIES",A3 Series
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254fGYeKYi8sbazlmxTmH8FQ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWrpJLdwjmabJKtyvaHv2E2.png" group-title="CINE Y SERIES",Pánico
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257xBf0TuNgDkCqR68Wi3hw9/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIV7oixtS52axMkLMSVd0b9y6aJr1BDtHsPJ_rhW-S-VPg.png" group-title="CINE Y SERIES",Eurochannel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Ghshnf_cmENNgPcMJ3XqX/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIUeg4t35962P5pedvlEplvYuLcnsGrihfyGlBLh_RFC4g.png" group-title="CINE Y SERIES",Cine Latino
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254Zj9LDOkPcRoZkA3IZaEGi/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIX_y8dZA9wPsFmPZxBIAr8ZzH6h_ixphEh1kxkAh3ogVw.png" group-title="CINE Y SERIES",De Película
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2541l5Zgo8Woc4b-DlDL2tUy/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXt9vWdYYwpnnxqAUAHVP9sJ5gy9GLQ_yBoMyr05cStdA.png" group-title="CINE Y SERIES",Cinema
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257wRBnBiarQxq4dufKBQ5h9/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIXS5r8yV_L9IR0TkxjuebrI1qiilQyLkKWU8Gi9c4Kw5A.png" group-title="CINE Y SERIES",Multicinema
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254D4jKPqDnIWFLg0WGQKcv9/m3u8
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Cinema Platino
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256QteIktb-TWxfaxZQoac84/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIW4CFnBlqZtGzLFTdtWjL27UyO-mF7UGoyykFtqXANkSQ.png" group-title="CINE Y SERIES",FMH Kids
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255u5B5hKcAOUHPDikkT5XOt/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWqrndPZoYzLZCi_YQqZ4lfKIaXvQv1iAsT6Yriw0pwQQ.png" group-title="CINE Y SERIES",FMH Family
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257R1t27vQl0-hPaipKp3jK8/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/AOeydi4yhVBesgIsH-_trbsuNyUN-DhVdYb1KvEpWIWBGI-sX3R-gjyhjA4j0JUpK_Wm3Aa8BDWaCQ-J6pvgOw.png" group-title="CINE Y SERIES",FMH Movies
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256ouG-nj2DQi1xRYDLzlSJp/m3u8
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Rewind
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2553JsHIn8Md8RnjqtLSbxmB/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUiQwwOdJg3jjDoaP7xy9bS2.png" group-title="HBO",HBO (Este)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254qnzVDR7P3O9p5mhGrxpty/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUiQwwOdJg3jjDoaP7xy9bS2.png" group-title="HBO",HBO (Oeste)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257B9uC_QUsaSGpR1zq_D4LC/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUg23fJeMFti0J5r-O7ZymaW.png" group-title="HBO",HBO 2 (Este)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Kzx6wGawslhQrpVdknuiY/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUg23fJeMFti0J5r-O7ZymaW.png" group-title="HBO",HBO 2 (Oeste)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256qrDaRW7xa5zUvN_qQebUU/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUicVfWVztyZJgYYQz8Jgf1f.png" group-title="HBO",HBO Family
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254L6RfE6ZKBqSrGHk17CLkT/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUhxKQVp-36Zk1_GomFLF6GB.png" group-title="HBO",HBO +
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257XiDu1PphN6Z9s-t5Ll5sN/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUik6gNWYBhYRBpA7vvUqTs4.png" group-title="HBO",HBO Xtreme
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2554wepscP6c0aYxGrniCLg9/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUgLoesR0CmqdYfGAmE8ZcIY.png" group-title="HBO",HBO Signature
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254x_WOtRp-XqmHJ7CTql6WJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUhYf0M4Qvtm3gBBt-0rX_HN.png" group-title="HBO",HBO Pop
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256343jrbGzqrtNG_7nsZr7A/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdUOdrxdgR3-Ms-NHAzCpUgYSQKxPCpt8_UDAttexZhp.png" group-title="HBO",HBO Mundi
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255cYF1PEunkd-cSOmKrmZRz/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_Auza2QUjJpS86VEwZeXWcvC_l-sDQTziAlDTyM2z1Ppg.png" group-title="UNIVERSAL+",Universal Premiere (Este)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257JYMWnX6pGzac-CUzvsru5/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_A3M0ZvTKVpMwsY5NKuk95DswhPmSiAs-5GES1BZ2fcTw.png" group-title="UNIVERSAL+",Universal Crime
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255cLIBvrFFcZSIrqkMH1XwK/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_AZ-juiAJLODh46ZIMEQ9ryohdeKwORGvSnMg3matMxhg.png" group-title="UNIVERSAL+",Universal Comedy
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cj43rQleuK-i3UeupYfIk/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_DZ4qZjycWG9MJV2kQeGA-siGzxqK23AuZuxzIFSCOObw.png" group-title="UNIVERSAL+",Universal Cinema
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Cmvaz4p28tYLXyLv91TNJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_BtOMjYSD_0poxWShGvmPcWBk9Qidb5Iso9HomK_eQ46g.png" group-title="UNIVERSAL+",Universal Reality
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257_1fA_ceY2o6LEAChnwYvj/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyqWtkloD0NxEORQnbZBHe9ezmwPn-illQy5CiFCpqeVwg.png" group-title="NIÑOS Y ADOLESCENTES",Disney Channel
-http://nor3live.win/livehttpplay?channel_id=23326
-#EXTINF:-1 tvg-logo="https://webchnl.com/assets/img/channelicons/cnextras.png" group-title="NIÑOS Y ADOLESCENTES",CN Extras (Ingles)
-https://rhine.webchnl.com/memfs/53fec556-2421-48ac-9b8a-203f48ae1ca1_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzJL4IHXSErvNMs30pJAlTVqsWNUEVsRcaFgv5BoQeXYQ.png" group-title="NIÑOS Y ADOLESCENTES",Cartoon Network
-http://nor1live.win/livehttpplay?channel_id=23045
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTuJA-0yi5kdT7erpR9He1y8EAPw7LRXSeX4ZFDi8nt4.png" group-title="NIÑOS Y ADOLESCENTES",Nickelodeon
-http://basic.nvisionbd.net/live/masum9680/Masum@1977/694.m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYypXKRMYc7n1MKf96IyV7r-aItNWmbgzB9vgZnZ1hw_cEw.png" group-title="NIÑOS Y ADOLESCENTES",Discovery Kids
-http://nor3live.win/livehttpplay?channel_id=23329
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjffiLWc-dF69oj1HPJfj8LsYA58KrCSaZsRrR4yoQnon.png" group-title="NIÑOS Y ADOLESCENTES",Dreamworks Channel
-http://nor3live.win/livehttpplay?channel_id=23328
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyrjpYkuNUHycj2BD4MKRiOj.png" group-title="NIÑOS Y ADOLESCENTES",Disney Jr
-http://nor3live.win/livehttpplay?channel_id=23327
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTuJA-0yi5kdT7erpR9He1z7Ls0aXzJg-K-rkKg2n3gp.png" group-title="NIÑOS Y ADOLESCENTES",Nick Jr
-http://nor1live.win/livehttpplay?channel_id=23044
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZIkXMLcf_WfxwPlXR5jVeiSaXYV8r6LxeDJX9rvZPu9.png" group-title="NIÑOS Y ADOLESCENTES",Baby TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2578ZkKcBd82XeUGf2qumAGQ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwyo_KFsGnxrFnO3WWy_CX8.png" group-title="NIÑOS Y ADOLESCENTES",Cartoonito
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254NTxEt68bUEUR0YdtyApO6/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwTDehIBOFEIUPJmhC0FAmBKkViiVvxM0LCZiI4JURdSQ.png" group-title="NIÑOS Y ADOLESCENTES",Canal Infantil
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254-yEUxWWv9AFcTZg-gRs_o/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfp5-Xs45ouiqZHXodTOpQnOGHKZQPX1jzP6OIMQSfsD.png" group-title="NIÑOS Y ADOLESCENTES",Plim Plim TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254uXxqva1Bw7bhBVwUhrRo1/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjex5bBksDS5o8xLU7SELOXwRimYQ_a7ox5x1Ey3V-VZ9.png" group-title="NIÑOS Y ADOLESCENTES",Bitme
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256sK1Dk7dh2Q3EqkPm6m0Fd/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZYg6QpgMeTg0kOMccYi8-Uc0DfVViFWJ_0P-kBRPwHE.png" group-title="NIÑOS Y ADOLESCENTES",ETC
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256aQx1vfvF0FErRVNCwod8B/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyoQRhU24TFUGFi7LIBqp-El.png" group-title="CULTURA",Discovery
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254gVVextOEi3fK05m1w-2Hf/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZdV306jXFqJPVPRItd6GzRUHELAMdZqXlwM-Cah8lcE.png" group-title="CULTURA",National Geographic
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255kPPLwfjc4Ian5QhypQeCJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa0-2JiaUlPdvq1banwUTHdQ.png" group-title="CULTURA",History
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256UXqnlHEgCFBGsye3mob-_/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfWYJWey4hJGm_NC0IOcROOX2wFkc1mc5AAZKOmeT2zz.png" group-title="CULTURA",Animal Planet
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256-CouPoLYn-nAGgUWMz5Yl/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa2q1VjlkS49wtSi31MSRdsX.png" group-title="CULTURA",History 2
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257NY4fF6ol8WWe8uLfGpail/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyp6lDBvJAkQGZwtFdUUfgu9LpPVulIIVoVNCkmBjFx6GA.png" group-title="CULTURA",Discovery World
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255e4_4Hj8kRbpe5UqpwbprW/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjR0bnLj1q615xgQ1SAd5BicjPvu_4RNj0scFfRybsmeQ.png" group-title="CULTURA",13C
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2545BYQ5opcP1OE7IyhxF1d3/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyo4tVjzgZ97Jvw2qZE1kJUG-2fc41vLEn_gPX0My6bNqA.png" group-title="CULTURA",Discovery Science
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254-Xu9Q3T7cI6qCqiPUyRya/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyoPGmWfnYfscOgGdNSbbPA8tmDoa9hvUjzXgbAhyLiJpQ.png" group-title="CULTURA",Discovery Theater
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255eoLtc94tKNIgDS9HacNq7/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQR_IEkVkFyuCK89Y9ZmLD1mUYkT0AjBtF6pgxiY84cU.png" group-title="CULTURA",Atlas
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256vaqLP1qFW1q-6MEa3GGbd/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzBhEVGARFZmwTD_Xb8kQTg.png" group-title="CULTURA",Canal á
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ZCTz9IUtUzdDRsmGfh71p/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgHcNxoALtrMjSyOI1hljxZv.png" group-title="MÚSICA",Telehit
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254uBj3fPBUj4rN0mcxEAcaY/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgHV7TmhDKJKor-M_1IIBDTOCkOhAgPS6eZPfm_qsmHcvw.png" group-title="MÚSICA",Telehit Música
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256F7fUOItLAyQOwp5LySSlR/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjU5QxXd9OMe076hrg_qJ6zkI9oGdIucW_fyNbiV7BiI1.png" group-title="MÚSICA",HTV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2576LxXKuM2LgNry4LjbC-X9/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjXV6PNZBH-tKdhZW0lYXMg16HZcuiktIMjZRmPX6UK6u.png" group-title="MÚSICA",Top Latino
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256HkvP5OsTXbOBQMNsy5v_S/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWImeHpciuPcvPRo4Q7lDPeyKFhEIynRfN_a22E0FkOE.png" group-title="MÚSICA",Quiero Música en mi Idioma
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257o3hAYBeFDlLPa55Uzoi5L/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYV-_AH5szDFyzLRYrJ6_AJpKhwgeXXmbpYHJ1Ty9tFuJjhqvjf6ujqY2FjnS7ZGCA.png" group-title="MÚSICA",Stingray iConcerts
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2547ht4On-Sj0QKC64J5vsa4/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjXysjtx6NIQ4e6Fss_7rK8e_4tpQyH9V4Mn8A74eKLSG.png" group-title="MÚSICA",Exa TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257Db8o9uXDLIGyivny-zb7X/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgyIvIgqjUM9oIBrcDfKk431.png" group-title="MÚSICA",Claro Música Sin Limites
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256lweycC7iAIGSvS9ktVtez/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZIkXMLcf_WfxwPlXR5jVejUHAPMC57pZViz8ZY04MxT.png" group-title="MÚSICA",Bandamax
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254GWEM_QQOP2pciz_uAJLSb/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVn10qmLNtcK-fQwWPDDf70ohstWYw1CR4rSKQEvml-v.png" group-title="MÚSICA",MusicTop
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2550w3kb-WDDuWBXA9CT--qF/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVcPh8_fM9QMdNxRgKh6gwA4V1tyS7ZD068ZIQ72NWS2.png" group-title="MÚSICA",TierraMia
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254jhfT8Co3N-ZqW637g8TM-/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgFmpGW8rtKAwGtumW9QP8u4.png" group-title="MÚSICA",Telenostalgia
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255a81yfKWdjNHrhZsZlLxfT/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVO1gbeDMRmPS67FBJpobW18GiJsVtH-nXQE31iXEqo6.png" group-title="MÚSICA",Rumba TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254Vsdxq-ozB7U-61dMoNIqr/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNznS8NN8VPLNOWfQrbvSbPc.png" group-title="MÚSICA",Carolina TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255pI40EkSbeQXBh8B_hFelg/m3u8
-#EXTINF:-1 tvg-logo="" group-title="MÚSICA",Karavana TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2561rYLnVzZmjTWNgA840ffy/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYTx_SEvZqoiFjDoZ1BbEj9ZcqAab0bZxFHBrtElLlsH.png" group-title="ENTRETENIMIENTO",MTV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257jrxWYefk3ikdtqnurl4NK/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjXGNPJjvzP8B1N5AKf2ZLnfYunnXBpjf99vVCbo4-qnl.png" group-title="ENTRETENIMIENTO",Adult Swim
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254iX3W9TBtS8A6mK0HoD05k/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjXGNPJjvzP8B1N5AKf2ZLnfYunnXBpjf99vVCbo4-qnl.png" group-title="ENTRETENIMIENTO",Adult Swim (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256PZ62fySF1CujwFh4IgjMZ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdkzmOEDsvLlsfPB8E-CSkUWw1duRCZrAR3iHkgEVCk7.png" group-title="ENTRETENIMIENTO",Discovery Home & Health
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255HuJa5JywoLD5WdkgkjjRK/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfoXNpwQRi9NjbFeM8YFD1AuGYImfS3UhKJllTpbRBC1y5DbyvcpgYL_yzh5xp5FYg.png" group-title="ENTRETENIMIENTO",E!
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254YG8-Fe2BP7F_qpyT3cwa9/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUUTdxvyKlNufOf_uAsFLsgpu2b4hM0QAoe6QKPvMvbO.png" group-title="ENTRETENIMIENTO",Las Estrellas (Sudamérica)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257uYwV-pdf7XUjra1A4CBzw/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FgvTpsmbD6A76Pjx2O3Xg8.png" group-title="ENTRETENIMIENTO",Food Network
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257H3KV6MncznSDeQTdcn5S3/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjdkzmOEDsvLlsfPB8E-CSkV9Zu89UPOVOpIQgYRaZNT0.png" group-title="ENTRETENIMIENTO",¡Hola TV!
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256c-IKW2xDhPScOGBqALiRT/m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Travel XP Latino
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257BhtnLVVaY7HPQnGMcvHai/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgENHgXPV8R4hV1rAHU4vldM1ZkjxC0q41DenN4DT3KUFg.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257JY3f7N74XfHBAqZBFONvB/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjf3gJ0dANyzPCYrkE2Qb4-4V-nsl7gvQlZcOEkMe1-J5CiUbql7NsQVSJGeqfR7rDg.png" group-title="ENTRETENIMIENTO",Investigation Discovery
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255x5tBxrHrz1cktsG2xGKzx/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVC7j_F9I03j9p1oLCbwIEy3K6fKVB73EJ-SOKcJkuLT.png" group-title="ENTRETENIMIENTO",El Gourmet
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256kiRhX8Fu5NTmpdTlhS2KX/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjcW5Eo2MA4ZWK4ieRLSjdrGtV3KU4_sh9Nf3eQMnsRUN.png" group-title="ENTRETENIMIENTO",TL Novelas
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257hEfiQz4c2hBGE4Th2Qwim/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfif1x7AKiM_L4-mjVIKXgwopQMUlRhbcx6OE4JIlbpC.png" group-title="ENTRETENIMIENTO",Clic
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254atWx0lxuI7OYis9iKJCbv/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjcW5Eo2MA4ZWK4ieRLSjdrFMC1K91azPcB3S-TOLMdhd.png" group-title="ENTRETENIMIENTO",TLC
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256tKNTVekcgwU1ylKo3rq7X/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjRO-YIET95EFsrBhlfMqK7naxjvBVr7MtEqNHqnoo1S3.png" group-title="ENTRETENIMIENTO",Pasiones
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257nh3J5UHWHtowl3CkVFgsQ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUMdBse2i31CUTL1lFu3UZzDVKajtTifH67xsv8waW8g.png" group-title="ENTRETENIMIENTO",TNT Novelas
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2571SYq2OClb0hxzyHLHlQN6/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQfkXsBhoa1-ZySJlskjuX6sCdtkKlXpNOgcw94AFynE.png" group-title="ENTRETENIMIENTO",Vía X
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254mq4LEkwmB8WcDbuOfm7hm/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV9kI1UJgZZuxUdEfiPIU1qlJntDa8DfVfWC3e22sKxJ.png" group-title="ENTRETENIMIENTO",Zona Latina
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Zh84qi89j242MUO0K563P/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_DMuDXi0eiMC7UZR_h6ukik.png" group-title="ENTRETENIMIENTO",Univisión Latinoamérica
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255FS02wdNUBxg7tm_YtllIr/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNwjtElIMR60URfaqtoSRK4e.png" group-title="ENTRETENIMIENTO",Canal Claro
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256PSgYz4QNLy4w1X5Kv9t2c/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVn-2uUKZ-H373z9kqDh_bDatI68JAggN9V6N04BS5XO.png" group-title="ENTRETENIMIENTO",HGTV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2563FgT4GLRVkLjcCZF1_fbS/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjR0bnLj1q615xgQ1SAd5BifgfF06z9FOmaSJji-fdu6w.png" group-title="ENTRETENIMIENTO",13 Rec
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254dPCF3XFeq0-EapWGL3dGs/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahox-lenVIQQ-cTnAEqAO6rZ.png" group-title="ENTRETENIMIENTO",TVN 3
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254tn_O-pq0fuKlyV_7rJILM/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfsJsl-ySpUwelzELcHYmI1fyeheiW2FiWN8crelajfR.png" group-title="ENTRETENIMIENTO",Sun Channel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257kS8ZU6DHK0EsQMVesZg6b/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWCsuKIcXQp4tpAQbdlR8rtPceANsxvTbPDEREX0pC-d.png" group-title="ENTRETENIMIENTO",Kanal D Drama
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2555D9JCHrFlxZ0nXwYcMUDY/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjej2aDiHgrwsGyLJW7C6OAReoAi6NZBALv9ZljBfMlYk.png" group-title="ENTRETENIMIENTO",Mega Ficción
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257KY014OS97fpybBeJzYRP9/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjRKPfQnsCQ-jkmQLF_DtOh6QDq43WFccRENECFhIWYnr.png" group-title="ENTRETENIMIENTO",IVC
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257cki-T2_-T-37cohgjUP7H/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjbBv3BtGV__wTXnxKYFiGtqcubJtc9eE5_zn82EIAGR8.png" group-title="ENTRETENIMIENTO",Corazón
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256mFYeXc8gwonpsMgfkON1s/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYV-_AH5szDFyzLRYrJ6_ALS4grmngmwB7bBxbr95-jw.png" group-title="ENTRETENIMIENTO",Star TVE
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2579dsPeDgj9lKgiHouP309P/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSmdfB-yHYTj5u4dK4rrgqalbK21k4DyvFBVCu_ByP-F.png" group-title="NOTICIAS Y MUNDOS",CNN en Español
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256RPzTaxNM-zGpiVYW9SGfr/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjSmdfB-yHYTj5u4dK4rrgqadvsrGXKLy3kUYAyVwXcQH9_jvYVSt8SAXEn_wfPfrBA.png" group-title="NOTICIAS Y MUNDOS",CNN International
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255MiVfsLFkL6QRfpm0Id1JV/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjX7d8SGaUhG4GDrl5DKSdy83kFTTVbITLOxbKY-oOP4d.png" group-title="NOTICIAS Y MUNDOS",BBC News
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256hq33mvu9QTbIIWv3L6Qqy/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjX6zOp1YRIUyT89dTzZZwGQ-UEW0Zadiaa9CPrEVacu_-C84TNUzm9df9C69jEnXQQ.png" group-title="NOTICIAS Y MUNDOS",France 24 en Español
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257ql8ISpw_U-ZhgkqiHx7Kf/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjah9QUcPaFIp1XzZ_J-xLYz_-FHWotL8ZSiVBEnUXHpC.png" group-title="NOTICIAS Y MUNDOS",DW en Español
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254xyTmrj7ctAecvERj0T82M/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgEEPxxmt_oX_K1aMJacpWot.png" group-title="NOTICIAS Y MUNDOS",Telesur
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2548ycIJNcicMvKI6SzBEON2/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7EEqj3H__07kah6IDSVcX9_.png" group-title="NOTICIAS Y MUNDOS",Fox News
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2546aLPlif-xPSxKkCvQjfwO/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVO1gbeDMRmPS67FBJpobW0HFksVGMhoD0C_Gy3_NjcV.png" group-title="NOTICIAS Y MUNDOS",RT en Español
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257cqperJxzYOBIS7G-yikfw/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVk0DNYJpcjgjoxPbRaZBzg_JVubeVjKG5e-ICFnoNZn.png" group-title="NOTICIAS Y MUNDOS",Euronews
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254sUseoqv1vlGwR5BWXxinE/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTbtrnYTLgrUg8wULHZwO69u8lFtI_lYlU08YSAwNOn8.png" group-title="NOTICIAS Y MUNDOS",NHK World
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256g0AZZWhjSthJnBbgG4qAc/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa25MF6-7xV3bYE6z4ZUbOJX.png" group-title="NOTICIAS Y MUNDOS",HispanTV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255FxY1_omTdMgkb-s_VzpCM/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZP1hN48fKyMr2bjUYS3O_e-NhtfbFfOzsmwEKoAV_Tb.png" group-title="NOTICIAS Y MUNDOS",Al Jazzera
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255W1ca8qz9UrzuQuXRa1H0s/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjTAZt67OnvK-kkvTT_LMJFBbWjbM4ZG3HKKKKuOmxNhg.png" group-title="NOTICIAS Y MUNDOS",24 Horas TVE
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256Ah2a4iKvaq2gasg5tXUSO/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVl1oQxfxbQr927boXbdUwHaEkI_veQKsyEE9kO7ro_v.png" group-title="NOTICIAS Y MUNDOS",CGTN Español
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254nFbuynLQs9L3abOJU1Xua/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahrC-FNIo4vSkKx0wBsdOmIP.png" group-title="NOTICIAS Y MUNDOS",TV Chile
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254of1gJZXTHGc-Y6RKZZmIV/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfWYJWey4hJGm_NC0IOcRONvD4m9jZhDkZVOrW4Jm5gf.png" group-title="NOTICIAS Y MUNDOS",Antena 3 Internacional
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256uWITiVwXVT2vZQrWg-fSX/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjaLFn0hZq3NNFYIWh7O-ahoQQefI362NslGcYeO3LHD5.png" group-title="NOTICIAS Y MUNDOS",TVE Internacional
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257UEkoqvqQbRXN9yUn4q8oi/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjbcCSzNDC_FEGxwtQXcyWRVTZQ5LQe-xAmSSds9shQVi.png" group-title="NOTICIAS Y MUNDOS",RAI Italia
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2547Vy5IHdQ9Cf5Za3_xiaWD/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgEs4O0EryJlObrNyTFcRqmcUvG2DIL-xt0gyf8OBx2alA.png" group-title="NOTICIAS Y MUNDOS",Telefe Internacional
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255faw_ztxHQALe7SV40_iMi/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVC7j_F9I03j9p1oLCbwIEwOn9kl9Td-lZVHYWIrPEVRSpULlWY6b2faRAnC9WdhIw.png" group-title="NOTICIAS Y MUNDOS",El Trece Internacional
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256iedYE18cVSAurvNA1W9sQ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjUUTdxvyKlNufOf_uAsFLsgpu2b4hM0QAoe6QKPvMvbO.png" group-title="NOTICIAS Y MUNDOS",Las Estrellas (México)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256LXa9KEVds7BpUlM2xyXtm/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjbBv3BtGV__wTXnxKYFiGto5PV0PS0iWhTG69o1t45WMQFEj96oMSGstuuSeP8A-TQ.png" group-title="NOTICIAS Y MUNDOS",Azteca Internacional
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254vusazRQYBGRxBMmbgc17u/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQD_tmFeZgwjDptrW8oM5_92FX0eI5aK52UFR3WLdTgC.png" group-title="NOTICIAS Y MUNDOS",TV Globo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257EdwmuQy2LSm7fGbmSLVjX/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Cámara de Diputados Televisión
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25437Sf-IpDVmJth1rxfmfNS/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",TV Senado
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254WwF8YLo0YeFHFxWSleABt/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Bío Bío TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254EivUFfk8Yts_FX91NG5_m/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",TVR
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2576ZjhOepdtJJbH7s-EOmW4/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Tevex
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255wFTuJyi7ahQmsi90d4Z4O/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",TV Usach
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Kv_QG9ewoYP3nteR6dzpG/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",UES TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255h8ybbQL3f6bjFwZOksno1/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Suyai TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254GqCv57baw8UM5J5aekk0k/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Visión Plus TV
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257b6xtTDsxaRsrIYVQTU7j8/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Turno
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2574l-LkjIrYE1rumzb_4lp-/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Radio América TV (La Serena)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256t8apy6uJq5PYJ7xrJ8dY1/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Mi Radio TV (La Serena)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256EbEqBsD88P59k21BlPyXz/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Canal 2 (San Antonio)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254eYPBBrbLPGBSGI6tme1Nk/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Telecanal Santa Cruz
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257_NuLHMeafUjnQkpILApHP/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Contivisión
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255hMnupiDE4ZZuNg4YTElMA/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",Canal 9 Bío-Bío Televisión
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255xF85Kswo2Yf6BgdEyijLw/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",TVU (Concepción)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256zN0aggPTopEK-iHx_XPQQ/m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONES",ITV Patagonia (Punta Arenas)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255iyytIGNPvrujzdD1AKxC3/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Imagina
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2556oOSzQvUy-p5sgwfNFx4y/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Concierto
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ippW-5W0LHObA1Rwym0gJ/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Futuro
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255gCw5kWlXvU5dnyZ7uE-Mv/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Digital
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254OP4jxArpjnSpfVBTahdBD/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Duna
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257B6bNoJBEbEqKnKlzOBSNF/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Pudahuel
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255bpC9GaGLH6psiI6epQDnw/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",El Conquistador
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254OyuMw23j9a94TF1gD8G3D/m3u8
-#EXTINF:-1 group-title="RADIOS DE SANTIAGO",ADN
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25551vtasIlkM0fBit0f8kaW/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Agricultura
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257De_UdwLY7SPfa707_CH_H/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Activa
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257SONabl16gcLoKY4ZpRBS1/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",La Clave
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255HzlBO_UuvgxljEWfiN5VL/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Cooperativa
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256K6DRk5iB2pA_vTDviJhia/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Universo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256sMZbbsDWu8RYiOTp0vc4d/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Rock & Pop
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257yU2AElcNZtM2QWUrM8MUF/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Usach
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257dMIZoVYdFc5d9ssMj96Mt/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Disney
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254beoUQ992KBsqoCRvOl7l_/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",La Metro
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254d6ARYaCPK2E0hGQ-PzoWS/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",CNN Chile
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255JlrItIfpS5e3T2bYLbc4S/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Estilo
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256RNgHZUOpOsdqm7QH2y8Jl/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Beethoven
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256f62ML77rzw8-EEY9wKVB5/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Carabineros de Chile
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256vFxot5s0fLTB9MHdmuM0H/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",FM Dos
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2554EcXbtFg9TX8Zjmv7VQl9/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Carolina
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257Ou-rseNLjD_6OBhps6UY7/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Bío Bío
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2572-svel3Ogc1sZwjm-BOxc/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Infinita
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255YpDiWS07_qOda2Seot8yT/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Pauta
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257bRkqzmyaWgviH9gVfd5N5/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Play
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257JQdmxOn_ON60x3GGoUkp8/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Corazón
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257SG4m38zWkRXnvccd8b-4d/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Los 40
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Rzrn3jGdz6n67B9jO5yQg/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",13C
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257qg_U0P1lANVbqFq1TFB9-/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Universidad de Chile
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2540Hfta8LFzRcHflZOJrx_h/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",T13
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2557oMWarOhLSmYvbYwJpU2a/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Romantica
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256DJkN8aEU_GqAllXIxNdR8/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Portales
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2550rrn5X0gJ2g6IoViAHWub/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",FM Plus
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2554UlvkXceABjKB1Zmm01mQ/m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIOS DE SANTIAGO",Sonar
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255etfkjbyuMHkDZdWj4Go81/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="101 dálmatas (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="Peliculas Infantiles",101 dálmatas (1961)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agencia Secreta de Control Mágico (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg" group-title="Peliculas Infantiles",Agencia Secreta de Control Mágico (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor de gata (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3QJ4yVmSxuLQX8vHW4elcqUa1T8.jpg" group-title="Peliculas Infantiles",Amor de gata (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor de gata (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3QJ4yVmSxuLQX8vHW4elcqUa1T8.jpg" group-title="Peliculas Infantiles",Amor de gata (2020)
-#EXTINF:-1 tvg-id="" tvg-name="Amor de gata (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3QJ4yVmSxuLQX8vHW4elcqUa1T8.jpg" group-title="Peliculas Infantiles",Amor de gata (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barbie y Chelsea: El cumpleaños perdido (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fuV4ybeV2PRd4WjTsEYqxkcIpMy.jpg" group-title="Peliculas Infantiles",Barbie y Chelsea: El cumpleaños perdido (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán Diente de Sable y el diamante mágico (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l3yR7rQTzJLh7pzCXT5KZbiIOQQ.jpg" group-title="Peliculas Infantiles",Capitán Diente de Sable y el diamante mágico (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gatúbela: Acechada (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="Peliculas Infantiles",Gatúbela: Acechada (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="Peliculas Infantiles",Trollhunters: El despertar de los titanes (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coco, el pequeño dragón. Aventuras en la Jungla (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYLiyeoRBwNosk0NNh5uoqeEgEj.jpg" group-title="Peliculas Infantiles",Coco, el pequeño dragón. Aventuras en la Jungla (2018)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wombat al Combate (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg" group-title="Peliculas Infantiles",Wombat al Combate (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cara sucia, con la magia de la naturaleza (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8YMW5HbjQqruAwi0bh7cxmtX5sb.jpg" group-title="Peliculas Infantiles",Cara sucia, con la magia de la naturaleza (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Criptozoo" tvg-logo="https://pics.filmaffinity.com/Cryptozoo-530707600-large.jpg" group-title="Peliculas Infantiles",Criptozoo
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Curious George: Cape Ahoy (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xHvEiU3Ja1xiGt9oq2pu0huk5m3.jpg" group-title="Peliculas Infantiles",Curious George: Cape Ahoy (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daisy Quokka, ciudad santurario (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjV1DY1SlGI1eUJAXSdre8bpw7t.jpg" group-title="Peliculas Infantiles",Daisy Quokka, ciudad santurario (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg" group-title="Peliculas Infantiles",Dragon Ball Super: Super Hero (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Earwig y la bruja (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg" group-title="Peliculas Infantiles",Earwig y la bruja (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El ascenso de las Tortugas Ninja: La película (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tkifNQ0xPfdbcWGJPfaDa740u1y.jpg" group-title="Peliculas Infantiles",El ascenso de las Tortugas Ninja: La película (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="‎El regreso de Gulliver (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1LvKDo5cly2vFz26N36FZyuZ3su.jpg" group-title="Peliculas Infantiles",‎El regreso de Gulliver (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El árbol de los deseos (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Q63UlYIRnmLx7ovwS1SjQP0Yd6.jpg" group-title="Peliculas Infantiles",El árbol de los deseos (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El camino de Xico (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg" group-title="Peliculas Infantiles",El camino de Xico (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El dragón de la tetera (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uBSOVabHjh9vbfnA6B2u1C7vIq1.jpg" group-title="Peliculas Infantiles",El dragón de la tetera (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El extraño mundo de Jack (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fRrhrNBQzsppxOpN8GO1RFIxp6X.jpg" group-title="Peliculas Infantiles",El extraño mundo de Jack (1993)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El gigante egoísta (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mvK6T7ZCl7iWqaZZ7AzYhPNLoaQ.jpg" group-title="Peliculas Infantiles",El gigante egoísta (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ella Bella Bingo (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f9vrSyGloGuEhzymcKSF9poHchm.jpg" group-title="Peliculas Infantiles",Ella Bella Bingo (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Sirenita 3: Los comienzos de Ariel (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg" group-title="Peliculas Infantiles",La Sirenita 3: Los comienzos de Ariel (2008)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/77999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Perro Samurai: La Leyenda de Kakamucho (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dcccakIsT9rBE3EH1f38JMqtgYw.jpg" group-title="Peliculas Infantiles",El Perro Samurai: La Leyenda de Kakamucho (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El planeta del tesoro (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cwwRIK1V1R6QQKromGi0OaJLD8l.jpg" group-title="Peliculas Infantiles",El planeta del tesoro (2002)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El tiempo contigo (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/18lF2eTWAO0tloyBW39fob5ALAW.jpg" group-title="Peliculas Infantiles",El tiempo contigo (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enredados (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="Peliculas Infantiles",Enredados (2010)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Espías a escondidas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j2xcicPNXzNex47EYOfw45Dl1o0.jpg" group-title="Peliculas Infantiles",Espías a escondidas (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extintos (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w0WmFfLOM2E3D8XK1cv7jVKgx6u.jpg" group-title="Peliculas Infantiles",Extintos (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi Villano Favorito 3 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg" group-title="Peliculas Infantiles",Mi Villano Favorito 3 (2017)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henchmen (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg" group-title="Peliculas Infantiles",Henchmen (2018)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homeless Ashes (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ066tli26Q4tmVVZw3s9F6UrUF.jpg" group-title="Peliculas Infantiles",Homeless Ashes (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intensa-Mente (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg" group-title="Peliculas Infantiles",Intensa-Mente (2015)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nivel Intrépido (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f1vJlGnkkZDJxnpOoH9dIT5u0mX.jpg" group-title="Peliculas Infantiles",Nivel Intrépido (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Isla Larva: La película (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="Peliculas Infantiles",Isla Larva: La película (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutrón: El niño genio (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRf2iD68aCbNJnhjD3cTi2bFTg1.jpg" group-title="Peliculas Infantiles",Jimmy Neutrón: El niño genio (2001)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Jinete del Dragón (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8TTuBZFSFzQLTyP92XE1I9WVVC.jpg" group-title="Peliculas Infantiles",El Jinete del Dragón (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="T-Guardians (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bUjRT0YokA8JJrSexMfIgPSZhUW.jpg" group-title="Peliculas Infantiles",T-Guardians (2017)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Koati (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/86IJQ8HMWgWePeH3sUnoXb2Ctnh.jpg" group-title="Peliculas Infantiles",Koati (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La abeja Maya y el huevo dorado (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kmhCsqB8RNEDhO2A0FVFyj03ZcB.jpg" group-title="Peliculas Infantiles",La abeja Maya y el huevo dorado (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Familia Monster 2 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eReiljCm4Z6v9LgcWlA2Qsfa54U.jpg" group-title="Peliculas Infantiles",La Familia Monster 2 (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Gallina Turuleca (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cTZb36ZHSGWX12GZj6mIE3TAXfe.jpg" group-title="Peliculas Infantiles",La Gallina Turuleca (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Klaus (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aLniylyJlbXEdxvaGSuQkRACWUx.jpg" group-title="Peliculas Infantiles",La leyenda de Klaus (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Capitán Calzoncillos y la Megavidad (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9hcTQjVELQ2YADehYEjBNt6Byib.jpg" group-title="Peliculas Infantiles",El Capitán Calzoncillos y la Megavidad (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La novia cadáver (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ALM0VeZjGUryAqWo6pqohzbLDh.jpg" group-title="Peliculas Infantiles",La novia cadáver (2005)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La pelicula de Stitch (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y4Bjlp77AaactSSlApONkqAfyoe.jpg" group-title="Peliculas Infantiles",La pelicula de Stitch (2003)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La princesa y el monstruo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="Peliculas Infantiles",La princesa y el monstruo (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lego Hidden Side: El Devorador De Mundos (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yoDchepiE9Tcv36ivkzOF4z75ws.jpg" group-title="Peliculas Infantiles",Lego Hidden Side: El Devorador De Mundos (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Monkie Kid: A Hero Is Born (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Su0Agl6BKynqI6dKYTA8CycTk7.jpg" group-title="Peliculas Infantiles",LEGO Monkie Kid: A Hero Is Born (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leroy y Stitch (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r63YaA4PbFPhd5362B7DylxDbpW.jpg" group-title="Peliculas Infantiles",Leroy y Stitch (2006)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9EkzzLf3TxYrhGmEo2ZTmH49KLE.jpg" group-title="Peliculas Infantiles",Lilo y Stitch (2002)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lino (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4hihI1z2VwojMb2c7AvVkCFR5nm.jpg" group-title="Peliculas Infantiles",Lino (2017)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LOL Surprise: La Película (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cHbgXVQk2t1taAUFC4RoP2fL6po.jpg" group-title="Peliculas Infantiles",LOL Surprise: La Película (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Minions (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nmqLwaTfgyWLQWbYd82w159cAqJ.jpg" group-title="Peliculas Infantiles",Los Minions (2015)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Elfkins (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fP1q3KP5w8MtUHL3ta0Au70nfhW.jpg" group-title="Peliculas Infantiles",Los Elfkins (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los increíbles 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" group-title="Peliculas Infantiles",Los increíbles 2 (2018)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Familia Mitchell vs Las Máquinas (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w1eq7A9NArBbwZP9YYVJEZ2pvY.jpg" group-title="Peliculas Infantiles",La Familia Mitchell vs Las Máquinas (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Olchis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo0ivRWorOODHxXMrsuepE53w4I.jpg" group-title="Peliculas Infantiles",Los Olchis (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luck (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bwlHp4KsAyuEIAtbYs4mxCkrgyx.jpg" group-title="Peliculas Infantiles",Luck (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mascotas unidas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aLu16Bk5uJD7XyeWLDgrlugWQV8.jpg" group-title="Peliculas Infantiles",Mascotas unidas (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Megamente (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ECHsUtlnqSrhoOyGdXe1AvDt1t.jpg" group-title="Peliculas Infantiles",Megamente (2010)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi Dulce Monstruo (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="Peliculas Infantiles",Mi Dulce Monstruo (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mickey, Donald, Goofy: Los tres mosqueteros (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ksryc9HHjSikRJNaX4LvBThROS.jpg" group-title="Peliculas Infantiles",Mickey, Donald, Goofy: Los tres mosqueteros (2004)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mina y el mundo de los sueños (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBI7gSdvCbITFiyIfFVE0gal4JR.jpg" group-title="Peliculas Infantiles",Mina y el mundo de los sueños (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minions: El origen de Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdvIdb6SvoaOzTqCWFQdCEmOXq.jpg" group-title="Peliculas Infantiles",Minions: El origen de Gru (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mundo Miraculous: Nueva York, Héroes Unidos (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e1wNQ6JRZyhagg6q5HIwNzbhucq.jpg" group-title="Peliculas Infantiles",Mundo Miraculous: Nueva York, Héroes Unidos (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="Peliculas Infantiles",Mi vecino Totoro (1988)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam Hathaway (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" group-title="Peliculas Infantiles",Mobile Suit Gundam Hathaway (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Leyendas del gremio (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/78FhiPAQCO3MnA3fxFzqTd3vU1U.jpg" group-title="Peliculas Infantiles",Monster Hunter: Leyendas del gremio (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monsters, Inc. (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg" group-title="Peliculas Infantiles",Monsters, Inc. (2001)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nanatsu no Taizai: La maldición de la luz (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w6U2pGQokqWh2wJLRaXi0bVd3zF.jpg" group-title="Peliculas Infantiles",Nanatsu no Taizai: La maldición de la luz (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ninja a cuadros (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zl6yB9onF2de9BZphT7w0zzIerp.jpg" group-title="Peliculas Infantiles",Ninja a cuadros (2018)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uuups! 2 La aventura continúa (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87YGfUYwM4mI2ITWzsHxxBDbOiy.jpg" group-title="Peliculas Infantiles",Uuups! 2 La aventura continúa (2020)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Arceus y la joya de la vida (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ghGJZl9N5VZkHy4GFSAPhY5Jgt.jpg" group-title="Peliculas Infantiles",Pokémon: Arceus y la joya de la vida (2009)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pollonejo y el hámster de la oscuridad (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eU0QHFGA3f9yEQpLnkJjFs0vrUF.jpg" group-title="Peliculas Infantiles",Pollonejo y el hámster de la oscuridad (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quedate conmigo, Doraemon (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7g3SGUY7ym4D7RxErzqlseq5wwM.jpg" group-title="Peliculas Infantiles",Quedate conmigo, Doraemon (2014)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rabbids: La invasión – Misión a Marte (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7arpOTIATZAcSzTLWhYyyGPGf5v.jpg" group-title="Peliculas Infantiles",Rabbids: La invasión – Misión a Marte (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wifi Ralph (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg" group-title="Peliculas Infantiles",Wifi Ralph (2018)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78084.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rango (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9p73gp8ugku8n1YNhO0dYryF1ll.jpg" group-title="Peliculas Infantiles",Rango (2011)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Río (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s3KeCcCIeTORqg61Cap3yT09BHY.jpg" group-title="Peliculas Infantiles",Río (2011)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Río 2 (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xx1k3kCfIs95eAMa1pglXv74cRp.jpg" group-title="Peliculas Infantiles",Río 2 (2014)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Robots (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/raxDqPCjSlKgEkxhwME75tjq8M2.jpg" group-title="Peliculas Infantiles",Robots (2005)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pretty Guardian Sailor Moon Eternal: La Película - Parte 1 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULCVKQEC6Lq61ILKByNRcffKu.jpg" group-title="Peliculas Infantiles",Pretty Guardian Sailor Moon Eternal: La Película - Parte 1 (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pretty Guardian Sailor Moon Eternal: La Película - Parte 2 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vet8rhPr0qauqvG0achOG8YOQb1.jpg" group-title="Peliculas Infantiles",Pretty Guardian Sailor Moon Eternal: La Película - Parte 2 (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bright: Alma de Samurái (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3TWRvY9XkDiFFcr72n0vs0oc0Vg.jpg" group-title="Peliculas Infantiles",Bright: Alma de Samurái (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Santaman (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gCKbXdJbCAahu0LfNxIFnGytWIK.jpg" group-title="Peliculas Infantiles",Santaman (2022)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De la nada: ¡Scooby-Doo! Conoce a Coraje, el Perro Cobarde (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g9cyiDTw5SQhbI7SRDjBUMr14kV.jpg" group-title="Peliculas Infantiles",De la nada: ¡Scooby-Doo! Conoce a Coraje, el Perro Cobarde (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo y el fantasma de la bruja (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aVS9CqFgfkypqLoljg1VDHSvMmB.jpg" group-title="Peliculas Infantiles",Scooby-Doo y el fantasma de la bruja (1999)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sing 2: ¡Ven y canta de nuevo! (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" group-title="Peliculas Infantiles",Sing 2: ¡Ven y canta de nuevo! (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tinker Bell (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg" group-title="Peliculas Infantiles",Tinker Bell (2008)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todos los Perros van al Cielo 2 (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hFsadSrksu8Kt4CJ2spNKsozRjx.jpg" group-title="Peliculas Infantiles",Todos los Perros van al Cielo 2 (1996)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Travieso: De la mansión a la calle (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg" group-title="Peliculas Infantiles",Travieso: De la mansión a la calle (2019)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turbo (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lDARMqluCrWaFgybY9KHLY96L3n.jpg" group-title="Peliculas Infantiles",Turbo (2013)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Una casa de locos: La película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mab5wPeGVjbMyYMzyzfdKKnG9cl.jpg" group-title="Peliculas Infantiles",Una casa de locos: La película (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un Jefe en Pañales (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cl5GCE7kS5LETpa0B1YPym4mIG2.jpg" group-title="Peliculas Infantiles",Un Jefe en Pañales (2017)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vivo (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yzZFLQQnjJCgG8iYfcF4JqmdBMo.jpg" group-title="Peliculas Infantiles",Vivo (2021)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WALL·E (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m3gKwcubqhN8J7pLcMcCDY1YJLJ.jpg" group-title="Peliculas Infantiles",WALL·E (2008)
-http://matrivagoweb.xyz:8080/movie/981555697/123456/78128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ong04FCyjCjbvWJYboe8xEBL40b.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E01
-http://matrivagoweb.xyz:8080/series/981555697/123456/393664.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVs6PycUr3QY0ldEeCK129RnJ8k.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E02
-http://matrivagoweb.xyz:8080/series/981555697/123456/393665.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYyRYIRNfMujMjta5MibrEzfU07.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E03
-http://matrivagoweb.xyz:8080/series/981555697/123456/393666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j7P7on7MIjsruSbzR8Mp4Aco6P.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E04
-http://matrivagoweb.xyz:8080/series/981555697/123456/393667.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHWGfdD5yBmQeMaZLeTKfdbkGvV.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E05
-http://matrivagoweb.xyz:8080/series/981555697/123456/393668.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VNSAkVgnO5f1ls2BWMBVV1wfpH.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E06
-http://matrivagoweb.xyz:8080/series/981555697/123456/393669.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mbf2Fub3Ld7wp4H77XVxTdW9x.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E07
-http://matrivagoweb.xyz:8080/series/981555697/123456/393670.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfNKj7NBxYkWGpVYULkEt7GDxYt.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E08
-http://matrivagoweb.xyz:8080/series/981555697/123456/393671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H7vywu2c3mMipVLdIGDJh3IpKK.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E09
-http://matrivagoweb.xyz:8080/series/981555697/123456/393672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVuK1enYqa1XTftPQAuUKE1elh3.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E10
-http://matrivagoweb.xyz:8080/series/981555697/123456/393673.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80IoxSqZSCmtMUI1D0sdFxhMHsc.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E11
-http://matrivagoweb.xyz:8080/series/981555697/123456/393674.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/828s76cjA0r26KoUjLGAgEDCbOh.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E12
-http://matrivagoweb.xyz:8080/series/981555697/123456/393675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUC4yxPapwQUriTMtkecgUKKUBd.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E13
-http://matrivagoweb.xyz:8080/series/981555697/123456/393676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BYgv1T8AXnFu8zXczkU77dQ9ch.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E14
-http://matrivagoweb.xyz:8080/series/981555697/123456/393677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy3FJlt5iXSej5CT7t61DNOJcVk.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E15
-http://matrivagoweb.xyz:8080/series/981555697/123456/393678.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxyS5kAMB2ukZwWSGobgVmtyvcT.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E16
-http://matrivagoweb.xyz:8080/series/981555697/123456/393679.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JnSR9fmuIbF2pCyy4ALhvMpeXy.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E17
-http://matrivagoweb.xyz:8080/series/981555697/123456/393680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYYalvpS6wjGbT5pKjVmiVqEIwe.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E18
-http://matrivagoweb.xyz:8080/series/981555697/123456/393681.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8jjoSgBwHtXCCsShoSF9Ic8fJ9.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E19
-http://matrivagoweb.xyz:8080/series/981555697/123456/393682.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48qLoYpCecEKMJ0BjC20xaaqREF.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E20
-http://matrivagoweb.xyz:8080/series/981555697/123456/393683.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIpsDmZ6CkxRmWNxJA3sKGWbTox.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E21
-http://matrivagoweb.xyz:8080/series/981555697/123456/393684.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj9diSbkWvYuzsgrEyzZdkMtEGN.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E22
-http://matrivagoweb.xyz:8080/series/981555697/123456/393685.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jh7yH4gVBN5r63sD4DNSygP6F01.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E23
-http://matrivagoweb.xyz:8080/series/981555697/123456/393686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSdb03o3uzj3WOZi2lpErlIEnj1.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E24
-http://matrivagoweb.xyz:8080/series/981555697/123456/393687.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuncCDAS3p7hX2cWhXkdTRivkfN.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E25
-http://matrivagoweb.xyz:8080/series/981555697/123456/393688.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S01 E26
-http://matrivagoweb.xyz:8080/series/981555697/123456/393689.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUhRBaoWQpaJxLHkdFxa5OVr0l8.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E01
-http://matrivagoweb.xyz:8080/series/981555697/123456/393645.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9miVh35ZunLSUCrNvVLlmJhaMeE.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E02
-http://matrivagoweb.xyz:8080/series/981555697/123456/393646.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKBYCma7M7OLnkmwSVmv9Wk2rZe.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E03
-http://matrivagoweb.xyz:8080/series/981555697/123456/393647.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsVshpjdfS1WjRwD3QigIesdR72.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E04
-http://matrivagoweb.xyz:8080/series/981555697/123456/393648.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bnl7IZxD3AxpWuLZl0VqtNYTQE.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E05
-http://matrivagoweb.xyz:8080/series/981555697/123456/393649.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZ1MACVjGGn8Ddm0bxvQE48DGe.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E06
-http://matrivagoweb.xyz:8080/series/981555697/123456/393650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWJfLRgNy25L5eSL7UKNt8da6JY.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E07
-http://matrivagoweb.xyz:8080/series/981555697/123456/393651.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hB6THXzuajQQJR7m5OQW2egAQNe.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E08
-http://matrivagoweb.xyz:8080/series/981555697/123456/393652.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu5hvfLn7WiDpKMmgt1azQttDsy.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E09
-http://matrivagoweb.xyz:8080/series/981555697/123456/393653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsT6fjpUrcDmaacfkDXqhbINGUF.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E10
-http://matrivagoweb.xyz:8080/series/981555697/123456/393654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93x3HQFiRhsiigxJ9j5dGgeNOo9.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E11
-http://matrivagoweb.xyz:8080/series/981555697/123456/393655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktLIM25RmE4BqaEfHdIMWXdf0Yv.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E12
-http://matrivagoweb.xyz:8080/series/981555697/123456/393656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBnZAyKIk3sRhhr0joBsRYDitYi.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E13
-http://matrivagoweb.xyz:8080/series/981555697/123456/393657.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCfh4IoUq6TvnFCyAeKP85z8r8O.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E14
-http://matrivagoweb.xyz:8080/series/981555697/123456/393658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zh0HpPrEczrVU5ZkLSS3mOoUEI.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E15
-http://matrivagoweb.xyz:8080/series/981555697/123456/393659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyW7X2zwWzEQPtBiPP2oQt5bBlw.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E16
-http://matrivagoweb.xyz:8080/series/981555697/123456/393660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpNazkClavvOzZvstgmXaE1hWdo.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E17
-http://matrivagoweb.xyz:8080/series/981555697/123456/393661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caAo0EZpLMuPnrxWAuiLlaaEnxj.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E18
-http://matrivagoweb.xyz:8080/series/981555697/123456/393662.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S02 E19
-http://matrivagoweb.xyz:8080/series/981555697/123456/393663.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsKkyh4BbrT19z43o5vxKWQwX1e.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E01
-http://matrivagoweb.xyz:8080/series/981555697/123456/393625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnGCqmLKGQXAIyiVY4UwtBNrHUx.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E02
-http://matrivagoweb.xyz:8080/series/981555697/123456/393626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UUWcgoTB3Zw5ZyFjmpqNOiKROJ.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E03
-http://matrivagoweb.xyz:8080/series/981555697/123456/393627.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNJewrBAqd0Vk4u5GUK6OmocnNg.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E04
-http://matrivagoweb.xyz:8080/series/981555697/123456/393628.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyN4W29F5H3cbLR6q2tvF67ZuHg.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E05
-http://matrivagoweb.xyz:8080/series/981555697/123456/393629.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38D7wrhMijmFhY4k8Q00Drf7qfR.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E06
-http://matrivagoweb.xyz:8080/series/981555697/123456/393630.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug9TW3p9f44LRules6GNFBN1x6n.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E07
-http://matrivagoweb.xyz:8080/series/981555697/123456/393631.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyxRXTjYW3vpZOPF4fTmE48EZ6U.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E08
-http://matrivagoweb.xyz:8080/series/981555697/123456/393632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdIIqhb6NNYonZ5MrdhZYeLpaeR.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E09
-http://matrivagoweb.xyz:8080/series/981555697/123456/393633.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYtD5tYVyjlauEVw6u2uYLJt4rw.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E10
-http://matrivagoweb.xyz:8080/series/981555697/123456/393634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEamcVSqYPSmLY5O8grlUu2k7pm.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E11
-http://matrivagoweb.xyz:8080/series/981555697/123456/393635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9zIhvoOVwgfy39lnZ7O3k3B0iS.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E12
-http://matrivagoweb.xyz:8080/series/981555697/123456/393636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fmCnWTArT4vXpc8U4zJtzykoHR.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E13
-http://matrivagoweb.xyz:8080/series/981555697/123456/393637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzNtzMuX7NloYMNaN82wcSX2ajU.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E14
-http://matrivagoweb.xyz:8080/series/981555697/123456/393638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zk3AZUEFoXnNHqurjwdgIYRfHNP.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E15
-http://matrivagoweb.xyz:8080/series/981555697/123456/393639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztx9k3SGLCL5lxiFqVVcdS0RKjd.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E16
-http://matrivagoweb.xyz:8080/series/981555697/123456/393640.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXWnQ1BC3ujuu9Z29kt4CJJXPdO.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E17
-http://matrivagoweb.xyz:8080/series/981555697/123456/393641.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUkChMfAgL0wubeKyIOXRqrJBr4.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E18
-http://matrivagoweb.xyz:8080/series/981555697/123456/393642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wxDkKqA2GmawrrWSzXFjt2kDsQ.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E19
-http://matrivagoweb.xyz:8080/series/981555697/123456/393643.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S03 E20
-http://matrivagoweb.xyz:8080/series/981555697/123456/393644.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqobQbRUJRnhoOeEzR1n091PJ6Y.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E01
-http://matrivagoweb.xyz:8080/series/981555697/123456/393581.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqobQbRUJRnhoOeEzR1n091PJ6Y.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E02
-http://matrivagoweb.xyz:8080/series/981555697/123456/393603.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJNP5vh8DojXSLzVcBPQlxx89lW.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E03
-http://matrivagoweb.xyz:8080/series/981555697/123456/393582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJNP5vh8DojXSLzVcBPQlxx89lW.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E04
-http://matrivagoweb.xyz:8080/series/981555697/123456/393604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9cuelTsvla91SpMLbFHXFnebps.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E05
-http://matrivagoweb.xyz:8080/series/981555697/123456/393583.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9cuelTsvla91SpMLbFHXFnebps.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E06
-http://matrivagoweb.xyz:8080/series/981555697/123456/393605.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4AWc9ARU4t1U1NqaPwutX0MN5J.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E07
-http://matrivagoweb.xyz:8080/series/981555697/123456/393584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4AWc9ARU4t1U1NqaPwutX0MN5J.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E08
-http://matrivagoweb.xyz:8080/series/981555697/123456/393606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF9g0QNvRPOMQNgXcXhZYRFqfjB.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E09
-http://matrivagoweb.xyz:8080/series/981555697/123456/393585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF9g0QNvRPOMQNgXcXhZYRFqfjB.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E10
-http://matrivagoweb.xyz:8080/series/981555697/123456/393607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJZ14hVArmYcnilsyTeScQ1CtXD.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E11
-http://matrivagoweb.xyz:8080/series/981555697/123456/393586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJZ14hVArmYcnilsyTeScQ1CtXD.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E12
-http://matrivagoweb.xyz:8080/series/981555697/123456/393608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S5hqXQHo5LpOG0aLHLPcMTltQf.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E13
-http://matrivagoweb.xyz:8080/series/981555697/123456/393587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S5hqXQHo5LpOG0aLHLPcMTltQf.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E14
-http://matrivagoweb.xyz:8080/series/981555697/123456/393609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ADarW22Ab6A3DTAcOr35zQzebD.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E15
-http://matrivagoweb.xyz:8080/series/981555697/123456/393588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ADarW22Ab6A3DTAcOr35zQzebD.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E16
-http://matrivagoweb.xyz:8080/series/981555697/123456/393610.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXFWeZs3nb4avKDeP3gwgt40obR.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E17
-http://matrivagoweb.xyz:8080/series/981555697/123456/393589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXFWeZs3nb4avKDeP3gwgt40obR.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E18
-http://matrivagoweb.xyz:8080/series/981555697/123456/393611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYUgkRl7MOVqZzM43cLsPfvurJK.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E19
-http://matrivagoweb.xyz:8080/series/981555697/123456/393590.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYUgkRl7MOVqZzM43cLsPfvurJK.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E20
-http://matrivagoweb.xyz:8080/series/981555697/123456/393612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kgSdYKG7XHWZrrIty2eppBq5w3.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E21
-http://matrivagoweb.xyz:8080/series/981555697/123456/393591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kgSdYKG7XHWZrrIty2eppBq5w3.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E22
-http://matrivagoweb.xyz:8080/series/981555697/123456/393613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbjXshgjmKTu3frBH66J3uRVF9H.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E23
-http://matrivagoweb.xyz:8080/series/981555697/123456/393592.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbjXshgjmKTu3frBH66J3uRVF9H.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E24
-http://matrivagoweb.xyz:8080/series/981555697/123456/393614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urjovOOziNrq9MoLjZQq2KmJUrH.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E25
-http://matrivagoweb.xyz:8080/series/981555697/123456/393593.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urjovOOziNrq9MoLjZQq2KmJUrH.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E26
-http://matrivagoweb.xyz:8080/series/981555697/123456/393615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pltll0HCxweNyF48uaK6J2cUmuz.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E27
-http://matrivagoweb.xyz:8080/series/981555697/123456/393594.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pltll0HCxweNyF48uaK6J2cUmuz.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E28
-http://matrivagoweb.xyz:8080/series/981555697/123456/393616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfF3lv0oRkog80VcabNDU2dxSpI.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E29
-http://matrivagoweb.xyz:8080/series/981555697/123456/393595.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfF3lv0oRkog80VcabNDU2dxSpI.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E30
-http://matrivagoweb.xyz:8080/series/981555697/123456/393617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyyfJdJbE8L3YuRWucfR6jU0BZ.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E31
-http://matrivagoweb.xyz:8080/series/981555697/123456/393596.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyyfJdJbE8L3YuRWucfR6jU0BZ.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E32
-http://matrivagoweb.xyz:8080/series/981555697/123456/393618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgB7lwlNVLYnvNYrUzhEgEDp0Mh.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E33
-http://matrivagoweb.xyz:8080/series/981555697/123456/393597.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgB7lwlNVLYnvNYrUzhEgEDp0Mh.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E34
-http://matrivagoweb.xyz:8080/series/981555697/123456/393619.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBNN9B0KZsuev4YKt0Usk4IQ6ZB.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E35
-http://matrivagoweb.xyz:8080/series/981555697/123456/393598.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBNN9B0KZsuev4YKt0Usk4IQ6ZB.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E36
-http://matrivagoweb.xyz:8080/series/981555697/123456/393620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djT7Wx4SzkwpTe7JwfIRPE7mY0w.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E37
-http://matrivagoweb.xyz:8080/series/981555697/123456/393599.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djT7Wx4SzkwpTe7JwfIRPE7mY0w.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E38
-http://matrivagoweb.xyz:8080/series/981555697/123456/393621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7upqihT77CNxCo9FJlHSfcX7rQH.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E39
-http://matrivagoweb.xyz:8080/series/981555697/123456/393600.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7upqihT77CNxCo9FJlHSfcX7rQH.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E40
-http://matrivagoweb.xyz:8080/series/981555697/123456/393622.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E41
-http://matrivagoweb.xyz:8080/series/981555697/123456/393601.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E42
-http://matrivagoweb.xyz:8080/series/981555697/123456/393623.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E43
-http://matrivagoweb.xyz:8080/series/981555697/123456/393602.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onddStWYELFaz4BbV8kavU11oCo.jpg" group-title="Serie | Henry Danger",Henry Danger S04 E44
-http://matrivagoweb.xyz:8080/series/981555697/123456/393624.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bddubVLvVEKIImHxaCBR9cGjz3g.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E01
-http://matrivagoweb.xyz:8080/series/981555697/123456/393542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7s9nJl0mxHlgXEDLo9EGYEQc9z.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E02
-http://matrivagoweb.xyz:8080/series/981555697/123456/393543.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxE95mfsFzHPr8KT0YuuSNvvZJz.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E03
-http://matrivagoweb.xyz:8080/series/981555697/123456/393544.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC4BONb5qdfnw8dzsJXpVwFWnj8.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E04
-http://matrivagoweb.xyz:8080/series/981555697/123456/393545.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xr3jYT1MlfpcG0pfZsRzaapXbv.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E05
-http://matrivagoweb.xyz:8080/series/981555697/123456/393546.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aFIWlI4B1WDXwDJNUU1ynyJ1vT.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E06
-http://matrivagoweb.xyz:8080/series/981555697/123456/393547.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWsJsh5Bs9FzfkvefihqxORrskJ.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E07
-http://matrivagoweb.xyz:8080/series/981555697/123456/393548.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z5ERaoSHfve1lNLzSkW54Au2AT.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E08
-http://matrivagoweb.xyz:8080/series/981555697/123456/393549.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXqxXdmDGZJVNtpAqdOkbrmRuwf.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E09
-http://matrivagoweb.xyz:8080/series/981555697/123456/393550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf4DaU16NVuAfJYnvFbYYQU30BJ.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E10
-http://matrivagoweb.xyz:8080/series/981555697/123456/393551.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxuRvAiCYyfnDDVFGLn5dGkwYyf.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E11
-http://matrivagoweb.xyz:8080/series/981555697/123456/393552.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlBetyT1Y5VuyyRC6eGtsxlGzCy.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E12
-http://matrivagoweb.xyz:8080/series/981555697/123456/393553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4YdmnQDMmuLf2M4mEm3SNRIbv6.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E13
-http://matrivagoweb.xyz:8080/series/981555697/123456/393554.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgGOyuJzBpfo4oTmKjlkeNATl2y.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E14
-http://matrivagoweb.xyz:8080/series/981555697/123456/393555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng3yHV2VeTdig1G2wJLC6skKlkj.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E15
-http://matrivagoweb.xyz:8080/series/981555697/123456/393556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWFFMlLxk3Jq6CNxApeSQ1nikI.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E16
-http://matrivagoweb.xyz:8080/series/981555697/123456/393557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcxqr0YhWyG9w0h2y9Wyj4iaV9M.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E17
-http://matrivagoweb.xyz:8080/series/981555697/123456/393558.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srvldrO4B6AxyNXCueKeDEaOncU.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E18
-http://matrivagoweb.xyz:8080/series/981555697/123456/393559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGP3WzeaZaI45diPvD5yAsRHkFX.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E19
-http://matrivagoweb.xyz:8080/series/981555697/123456/393560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp0vLhhwMEtc6Vp64YiB4IG5NQd.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E20
-http://matrivagoweb.xyz:8080/series/981555697/123456/393561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7uv2UDZzgruOzj9UxqpR4Zkg3B.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E21
-http://matrivagoweb.xyz:8080/series/981555697/123456/393562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFMSBaS7Blaw39hq3D8w5PfxGm.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E22
-http://matrivagoweb.xyz:8080/series/981555697/123456/393563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTpB14olQVQgLcMoOJDQC4VS7dh.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E23
-http://matrivagoweb.xyz:8080/series/981555697/123456/393564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puN5G3rs4yqXjQbWM7nTylmI5Yh.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E24
-http://matrivagoweb.xyz:8080/series/981555697/123456/393565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAb9IxTPpM4QNZRxFThUBYVeCZw.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E25
-http://matrivagoweb.xyz:8080/series/981555697/123456/393566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBhCa50tyZ9gVbI5rZL9t8yjIcv.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E26
-http://matrivagoweb.xyz:8080/series/981555697/123456/393567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnwRPh2UZlwxMPNgZtY2PTT9BrH.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E27
-http://matrivagoweb.xyz:8080/series/981555697/123456/393568.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtpu0827hVJJhxjufmhw42DdT2.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E28
-http://matrivagoweb.xyz:8080/series/981555697/123456/393569.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSOJ1pTXci9Wgy9LHyE5VpMIEbz.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E29
-http://matrivagoweb.xyz:8080/series/981555697/123456/393570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fxOLqo0IBO6TCfZzj5kRwpPMI9.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E30
-http://matrivagoweb.xyz:8080/series/981555697/123456/393571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ1Q0hyrNTOR403qISC79nCXOm7.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E31
-http://matrivagoweb.xyz:8080/series/981555697/123456/393572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK2421loYGjpLoSDiTl6AgLl19p.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E32
-http://matrivagoweb.xyz:8080/series/981555697/123456/393573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBZiKEgRZMVcBlLXdajhALk9cD.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E33
-http://matrivagoweb.xyz:8080/series/981555697/123456/393574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uROlJWsRO4gs3k6qrmolh5PqXNA.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E34
-http://matrivagoweb.xyz:8080/series/981555697/123456/393575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OKeWabc0jKwaiH4DlyMLw95xCe.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E35
-http://matrivagoweb.xyz:8080/series/981555697/123456/393576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm8dV03u7mJbKp40Lw6VO9xk6Ru.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E36
-http://matrivagoweb.xyz:8080/series/981555697/123456/393577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuIWx5oMUaENPwnOdG2lDrgYmwP.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E37
-http://matrivagoweb.xyz:8080/series/981555697/123456/393578.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81ZMcvax8GIM4h85LSWChTvTRdQ.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E38
-http://matrivagoweb.xyz:8080/series/981555697/123456/393579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbIQJd5c7KdgkM15mzXYj8vpWz8.jpg" group-title="Serie | Henry Danger",Henry Danger S05 E39
-http://matrivagoweb.xyz:8080/series/981555697/123456/393580.mkv
+#EXTM3U 
+
+# ==========================================
+# CHILE | CANALES ABIERTOS
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKcM1LvI0P7RveZzIQk1yFe0.png" group-title="CHILE | Canales Abiertos",TVN
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl2fwLWNv5XsoaNRM_UTZDm/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lqoyPER1S0dw6yZAh395NO3BHhfHN9_AEo4Jk195u3V5.png" group-title="CHILE | Canales Abiertos",Mega
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkC_gGeJ7Q0cL0xhgKI5Sxg/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmziJ5kFKqZLoGjDhQmFsoIdF9VuWbxgXi_ndmatWIlb.png" group-title="CHILE | Canales Abiertos",Chilevisión
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmuk-s7wm_dGQjW1nBWfPit/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjqyBzmnrZIN5HmBvNDoOqI8.png" group-title="CHILE | Canales Abiertos",Canal 13
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnHwAu_hel5_kronQur7bfV/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKc_koLbKH8FmewaSY5GmBkL.png" group-title="CHILE | Canales Abiertos",TV+
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmhnduviMAdA1mTZu50x_GX/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmjOu3Mr1PCa7ojm3r-IBxu820tDPAnXRM00XzfvnGLJ.png" group-title="CHILE | Canales Abiertos",La Red
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkvjrg9JcRXBtrQ3HV1fpkC/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ltaF-Lo_732FMEfynJurk1DtXoOr5kpRLDCK3uj1-61R.png" group-title="CHILE | Canales Abiertos",UChile TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl3i8F-ElFrqJeuEF6V2CGU/m3u8
+
+# ==========================================
+# CHILE | NOTICIAS 24/7
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lpTFnDm62UqBJhN5X4sp2y06_BY_uqROiXjOAeQJohi9.png" group-title="CHILE | Noticias 24/7",Bio Bio TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlnIiiiq__1BcDzcOz0ULLI/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjrbgARjHjH-31qtYgZ9AT8dU_yhuew8zF_usi-4_gGaIw.png" group-title="CHILE | Noticias 24/7",Canal 24 Horas
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl3JhgZznOmN6s3MfzOQ1_v/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lqoyPER1S0dw6yZAh395NO2F3wLdwlOGRmSB3J9XgL4P.png" group-title="CHILE | Noticias 24/7",Meganoticias Ahora
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlF_b_4RJ15EFSRmHIO9kcA/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmziJ5kFKqZLoGjDhQmFsoLd3uAlyzzF-CDzVduz-WA2.png" group-title="CHILE | Noticias 24/7",Canal CHV Noticias
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVni9LT46tuA9dvWOXjKvsi1/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmNkHOpSkEDFVd3cSMZf6i14mZ4CI-yV-zknoWxTnJ5V.png" group-title="CHILE | Noticias 24/7",T13 en vivo
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVm9KIKZEFPBPUQZQz5VzwhW/m3u8
+
+# ==========================================
+# DEPORTES PREMIUM
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljUplXmGuQBQfdz3kRcXmVKK-Mizhgo5IjG4HFoxJ2dpiOQsEQuehIerVUuvgiV-yQ.png" group-title="DEPORTES Premium",TNT Sports Premium - Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnI4Qmb6nQ-QI4PMY2z7aTr/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljUplXmGuQBQfdz3kRcXmVIvkJXds5VqJJQEGEAfJZs8.png" group-title="DEPORTES Premium",TNT Sports - Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmqv3wK4dZCFoxFARXEm_X4/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMLdnt8yYNeVAkv5gsLlD6Kh.png" group-title="DEPORTES Premium",ESPN - Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkHVWtcAzK1vGAqPpa-Bo4A/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMLdnt8yYNeVAkv5gsLlD6Kh.png" group-title="DEPORTES Premium",ESPN - Sur
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkTjaiio9OuCShHzFusft6h/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXML7dSGrFxl1dphpgroNZJds.png" group-title="DEPORTES Premium",ESPN 2 - Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnL0uGyPJEoQg7GxoYd5jx8/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXML7dSGrFxl1dphpgroNZJds.png" group-title="DEPORTES Premium",ESPN 2 - Sur
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlaJpWAqpniKmktlMOH8VQH/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMJ-SS5UvQMqShCL4VT889JL.png" group-title="DEPORTES Premium",ESPN 3 - Sur
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlv3Uu8EZKmWKifGx_UBajf/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMJ-SS5UvQMqShCL4VT889JL.png" group-title="DEPORTES Premium",ESPN 3 - Centro
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn8kejNVFpMwroUOdHjl0JY/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMLmGYaX0mod2L-da1YiKk6h.png" group-title="DEPORTES Premium",ESPN 4 - Sur
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlrK9NNu-RP_h6lJxLtOyRH/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMLFMjsKuiPMZYUXGZF5yq_P.png" group-title="DEPORTES Premium",ESPN 5 - Sur
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlz1QGrngizuKG3mz-lc9J-/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXML2iNQBhAtEUDX-SkZh__0H.png" group-title="DEPORTES Premium",ESPN 6
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmujYPgAr4BxuyW7ZCoZt7L/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ln5I9G4aYp-wldxgxASY0ab9eiOL3qRhZY648zd6qHgW.png" group-title="DEPORTES Premium",TyC Sports - LATAM
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmRxeAl0Zi4NugA6SRUdRlm/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lufn49WD1pQPx40aJt44oRBIHwv4VAEW6b61GE3r_BRfG_Pg0Z1l2W9sThME7Y53qg.png" group-title="DEPORTES Premium",Fox Sports Premium - México
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVki24SvGQEbne4MD7vePAsf/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lufn49WD1pQPx40aJt44oRADh0K1OXtMAkqcK3MCMQd7.png" group-title="DEPORTES Premium",Fox Sports 3 - Argentina
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkFzfticwD3yqITSkarzStk/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lq5i4p3VhdGoT8XtXXNqPNdgK0-dncfuJyXQz_Z9V3L0.png" group-title="DEPORTES Premium",Teletrak TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVksCXv9OFd10tKb9IxsujMV/m3u8
+
+# ==========================================
+# CINE & SERIES
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrSH0Iqus33NgsRHbqIAcDvRVdyCPvranNFueEvb7gZL.png" group-title="CINE & SERIES",Star Channel
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnwStT09KPT5HrTZ2x09zIJ/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljUplXmGuQBQfdz3kRcXmVLPqd5jJPUZOc5IeGlNe-8v.png" group-title="CINE & SERIES",TNT
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnGMBZD0BlbWrAWICDfFAjw/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llLYYOkNMajYFh0McYALFcUTbRKyuDWq7SYrNwPLOKrOtLMf77lc16db4EZGdMKCIw.png" group-title="CINE & SERIES",Warner Channel
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlU8iWK4C_GOE6I1lsKKaoJ/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83livuTSrhUTvsmtQKh8sfsDUaoYgSUo9cfo4dqWvscvnI.png" group-title="CINE & SERIES",Cine Latino
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmqpvWe2Pc4p9vdmIcuwQQy/m3u8
+
+# ==========================================
+# CINE PREMIUM
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDG6YfFW2n2L_yBGuDJIbUiv.png" group-title="CINE Premium",HBO - Oeste
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlTnH0opkJ1Bkn7bKV_nHDK/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDHDzTBmmPEggfpK-sb9ExgN.png" group-title="CINE Premium",HBO 2 - Oeste
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn8Ba7DnTPQJWh_hvscgJin/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrHQF6LBz6iMEzo5UIbGPDFoRAVqKc-kRzmtbLhlCdxG.png" group-title="CINE Premium",HBO Family
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlyV_4vtsciyqB91Y-frVgE/m3u8
+
+# ==========================================
+# KIDS | MONITOS ANIMADOS
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83liCAatZ8G_PH7cA0kXlHfPoStT1ipofE-Y9i7uB0qVoctp0gMJi493BzVj2QcWryHA.png" group-title="KIDS | Monitos Animados",Disney Channel
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkRjlrPn6zGpkBE6Uvdk3Rz/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lv2nA1UnblTremaB0KQiUKECYW7GdfL-rhzBfdoWnfBU.png" group-title="KIDS | Monitos Animados",Baby TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnFtCkftEw1MyeVbgFp4d--/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjq4TNbY-ZjfgQdiyPOpkIj-78Qm1o9zmnX3h_RnM9b_fQ.png" group-title="KIDS | Monitos Animados",Canal Infantil
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkJwWru22SHxhV-L9CIyyDy/m3u8
+
+# ==========================================
+# CHILE | REGIONES Y CULTURA
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83liCAatZ8G_PH7cA0kXlHfPrqPKiaRVPvcITEQ8ZgRqYY.png" group-title="CHILE | Regiones y Cultura",Discovery
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVljf01zAcyrR6Oxpn4c1Qj1/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lqVWnu3pI-GALybMBi2zciYgUqoVetyOTefmK9jSoVG9.png" group-title="CHILE | Regiones y Cultura",13C
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnRpJcxT-K1zD0sIaoq8wwO/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjpjqi2JxWkBgUV4_gMmfvUq.png" group-title="CHILE | Regiones y Cultura",Canal a
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVljLemnZLc-shsuzVg79kEp/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ltaF-Lo_732FMEfynJurk1AHbLNm8X9tYQAsZHDAr0fG.png" group-title="CHILE | Regiones y Cultura",UCV TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkxpxusfkVtlhSQhRAZxYgP/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83liCAatZ8G_PH7cA0kXlHfPrrFz0cYW1WjzTwcEfZFJch.png" group-title="CHILE | Regiones y Cultura",Cámara de Diputados
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkL1EW8FVvGHip7ez23_iCl/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83li2kjCV4JoIE9JU0CMezhmIUMSoHl6LMNLg2hHecpk9K.png" group-title="CHILE | Regiones y Cultura",TV Senado
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkbMwR31G1TiWO1f7ADqYI3/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKcFc5No47P-1Rh5DHTdXdGK.png" group-title="CHILE | Regiones y Cultura",TVR
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkcf5KHsomxsmH50GSSrn2V/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKcLTqE1pwdhyVZ7XUOfeL4S.png" group-title="CHILE | Regiones y Cultura",TV Usach
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnFlKW_NpLLLW0fZ9RE9pWN/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lq5i4p3VhdGoT8XtXXNqPNeJsF-7rAtzIZFpzpLUQ6Vu.png" group-title="CHILE | Regiones y Cultura",Tevex
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl6lYbBlKxxu3EAQfov0WPm/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llLYYOkNMajYFh0McYALFcWhFxizxkU-nXYtZvaO-Uq0.png" group-title="CHILE | Regiones y Cultura",Wapp TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkJxrnQJWqL4FwuWeL7amp7/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lu9Gqb8ZNs_cIsZduQ5rwvngc13fVXfqX5AksibHeFnD.png" group-title="CHILE | Regiones y Cultura",Turno
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnkAmlcLW_3HH8Ya08LotxG/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lgXwmOjl6dUJ5fdleJdotH8cO-1goHfqQwqoczHZ3j4C.png" group-title="CHILE | Regiones y Cultura",Visión Plus
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmllTV4DiXGaZTTMQfpmwNF/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lvS90X260RevBSA--GOZ7AAPmqywoNzuSWn4XPraf92c.png" group-title="CHILE | Regiones y Cultura",Suyai TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnbVlOLggewDwujabyCuEj0/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lq5i4p3VhdGoT8XtXXNqPNcH3NRH5_XH9WtERrGTqnMMiVp4xrt2c8ojXi5dEW6j6g.png" group-title="CHILE | Regiones y Cultura",Telecanal Santa Cruz
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmHbkuLnNmgKqnD5PFMX78A/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjpONk1gwT1s3UfQyFCdvLjc19IqkPiuuejKYb2YAAdHJg.png" group-title="CHILE | Regiones y Cultura",Canal 9 Bio Bio TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnuf8C95pQQRDTdnlxS2pxg/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83loltgujwZmsygl8goefvDfwEg5BbOFBHL4OSvPur8Ypx.png" group-title="CHILE | Regiones y Cultura",ITV Patagonia
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmndswO6UamnfZlGIOUoUn5/m3u8
+
+# ==========================================
+# MÚSICA & ENTRETENIMIENTO
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lq5i4p3VhdGoT8XtXXNqPNfveBaWWuiaTWpskR88t54mbGkRpKmBi7dO_LkAnFyDWQ.png" group-title="Música & Entretenimiento",Telehit Música
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnV-geeQQ6JkNIDPaClufxO/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ltvWbWUTYZVPmr7TiowNcSeDGglHLPalFf02erIVw9sY.png" group-title="Música & Entretenimiento",Top Latino
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVm6tCFEN5wDoojNWEAPkBgO/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83liAEGSnabSaOEFKimB3MekDxGrQ3NyTMoBcqb-7ZBMsg.png" group-title="Música & Entretenimiento",MusicTop
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmhUbgvwC5bhJHSuz1-jFlf/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lisqmbZnq-nLiaC_Ga7g8ny0I2x_RuNfgi5h55Gui__g.png" group-title="Música & Entretenimiento",Tierramia
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmr9kkgowl7HHqNlLgiva3e/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjp4-lN1VO_NBm_5-47SgGhZ.png" group-title="Música & Entretenimiento",Carolina TV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkzyQaoTGUTWOh2RBN0wMQR/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lllLnv4p3f4njg9qz-ogzcZ4StfeGWNbrbaEc60teP20.png" group-title="Música & Entretenimiento",¡Hola TV!
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlQc83W-IYaCHBy5XlGJxs-/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ls_vdTS5swQYBMzoktFlYkWj_gc-yCBnKjtUtNmtYyev.png" group-title="Música & Entretenimiento",Clic
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl0Pe14WzDzMheClaZbSOVW/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKfQZs_cFAQr0MK_A7ZKK-xV.png" group-title="Música & Entretenimiento",TVN 3
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnH43klm9DLEVPxxrqVaIWr/m3u8
+
+# ==========================================
+# INTERNACIONALES & PRENSA MUNDIAL
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83loyk-U1v4AhpWmZ6M6OdKl0o1f_2cSajJDxIWBjMDYLn.png" group-title="Internacionales & Prensa",BBC News
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl4rpODVs_Yuri8a70j3ShH/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmAHRegGqhga8HxanpAcc9o19B5sR4ySzDPKcQS7MvBMKwBArE7xt8TrQW2xLZspvw.png" group-title="Internacionales & Prensa",France 24 en español
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn474aES-KJ1MFddwJjS_Q2/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lu8zSj1B08R1OZ_-icCvvVR12vmjk6d6rqI4Bpn7u5LI.png" group-title="Internacionales & Prensa",DW en español
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmHiTPbxdCdfM0U9xLmlbRS/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lq5i4p3VhdGoT8XtXXNqPNe__UI6pAZ4skKDwSo7QRks.png" group-title="Internacionales & Prensa",Telesur
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnIGJ7-gHSnXdRIlbSlGPDl/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmvnEd7aogmoqLuITxpcd2o6MvkQFq-EyZ8oHa0MKE-I.png" group-title="Internacionales & Prensa",RT español
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlma2IlELF9DrLM95p_GLHk/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lollSvYQ2c_Ohhyqd3RpwxptK3eUAjdCPZy6VUVfhKQf.png" group-title="Internacionales & Prensa",Euronews
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVltQJYE-YdIRutRzSVRklXL/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lrNTmud6vlN3-RHlL3llg6WuK-IkLby-XM_u9FGjdB-F.png" group-title="Internacionales & Prensa",NHK World
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn5ClisH_gDmdmawR14uDHj/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lh-XiTgtVUZUM5IgbyuTM8H2NsS72rfnQx-UGp6SKmgc.png" group-title="Internacionales & Prensa",HispanTV
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVk1ViI13brr6SckYYLAlX2l/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83loXDXUM4aRikUR6mv3c8E7myWsc5ndtFbXKAlBxHaduu.png" group-title="Internacionales & Prensa",Al Jazeera
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVku3sCDeEs90rRRDI59o6lJ/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lu8Z1xL_yOciTn8q9MZijypqjP3F7IwBHDJEPMzegHgb.png" group-title="Internacionales & Prensa",24 Horas RTVE
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnGON9IUK3SnFekBg4_z_Fl/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmLPrM6Ca-3ista7jLZQU0ePl30YmtT8RVdthjHOjYDg.png" group-title="Internacionales & Prensa",SKY News
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmx29Kmb1ykgX9uBlxMelha/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKe6pRlJuHU4hB7QlOlkrZHq.png" group-title="Internacionales & Prensa",TV Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkBdE4KzKMjomTzVkDSSb2t/m3u8
+
+# ==========================================
+# CHILE | RADIOS EN VIVO
+# ==========================================
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lr_Q3u9kCMlDHwH4ZLEZYi6-dKcGF1A3H0g_YDjB8xUC.png" group-title="CHILE | Radios En Vivo",Concierto
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlnI_rySoABXJZIdoQTk2Wd/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lj2xnL5JzFUQzRPctMMHO6WEbTxhfl6aeeTwpghd_UJA.png" group-title="CHILE | Radios En Vivo",Imagina
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVleJBFp5FYNbdAChpUGn2U4/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljCtgtAApxinMbAjY1F_CDG5n5_UiShFW9zmMK6YoiC8.png" group-title="CHILE | Radios En Vivo",Futuro
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnDodlVS-9c3tFUf-V1TfyF/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lk28H7x-qRsQXiXLlJBkXMLk_1YflcxKyy1w3QQTbjI2g.png" group-title="CHILE | Radios En Vivo",Estilo
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkBTSzKO2LFdMt9gjnL_ZCP/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lsJFuCw1Fylw3kR0HPD3y-8mqc2CxVM3E2fIvpP6q9fp.png" group-title="CHILE | Radios En Vivo",Duna
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl733w7JYuWbOfGmi9kD81A/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lhW8ngtogcYx8tJ3M-Ikn2HyOfhQGpovunDEiniwHeZJ.png" group-title="CHILE | Radios En Vivo",Pudahuel
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnx0Gpd3RHlFM_mrfRQ8P-h/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83loRO1GeykhWALHNdgL8M8kAh4aWt5Q2lWlggF7joLFqvZlDHl0-eztFX69HpZm0N0w.png" group-title="CHILE | Radios En Vivo",El Conquistador
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkzWBps7gTbJbTEgKXhb7Ve/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83luSuqrpZokmp5w_PilzrD9wyhaHRxdqGK3_2lEe9HcSG.png" group-title="CHILE | Radios En Vivo",ADN
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl4QhADyxKXYhRjKqVsVHX6/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lqA6gL0spiw0xz5S5DHzx6vZlFzzq0oLV6jIVHC1fj8N.png" group-title="CHILE | Radios En Vivo",Agricultura
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnBmCipDfT3mzurzW5eXzBX/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmxfmdm7xdnOnWj3-nuLjXdGrp0unrX3b3z5JTD3XQ42.png" group-title="CHILE | Radios En Vivo",Activa
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl2ROcdcf5CNOvRKddOFdtI/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmjOu3Mr1PCa7ojm3r-IBxu-hkRxwRqgAKgGkT8-VooW.png" group-title="CHILE | Radios En Vivo",La Clave
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlI_gUgtDjF2-BCQ_5bIhtR/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lr_Q3u9kCMlDHwH4ZLEZYi5FpGOAcpaxLWhunH7k42-z.png" group-title="CHILE | Radios En Vivo",Cooperativa
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnRMb0fBH0tu46ZIt8J1obN/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lov29waV-Oub2U3BKlqBmbzGHfKO18W-uEN_oYFhLXYt.png" group-title="CHILE | Radios En Vivo",Universo
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn8w3HulB-j8HhLQu7wpUmm/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lg1i8jPJdyQOPcT3cqlATCAw6qxc0Gjptib1y5b2imGp.png" group-title="CHILE | Radios En Vivo",Rock & Pop
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVngXm4V-rlRuMv3zway_XLv/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ls7LOoTn6hsYzsM2Lqx5u0KOWBvsJX1crbHUHcnvgntL.png" group-title="CHILE | Radios En Vivo",Universidad de Santiago
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVm_ch6NFyWEVw_XNWy0MpmJ/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ls7LOoTn6hsYzsM2Lqx5u0IUMaCYl9-_9XVaTYygupW3.png" group-title="CHILE | Radios En Vivo",Radio Disney
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVk4--VUEuasL2jTNrbNfqq7/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmjOu3Mr1PCa7ojm3r-IBxvLcgXuDI5xbvHgVWfBl0vX.png" group-title="CHILE | Radios En Vivo",La Metro
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmfNVk-Mvek6lQPBID692rD/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lhedOZpySY35m7MEOl9dgR4TZQ22frSxPXnWJTOjduBH.png" group-title="CHILE | Radios En Vivo",CNN Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlUP61mdu1Pkudn--xNnaTi/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83liCAatZ8G_PH7cA0kXlHfPrAdPLQriaAy63-q2ZyDbRz.png" group-title="CHILE | Radios En Vivo",Digital FM
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmvta65hsTsoMp7kj4DjMDN/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lo7rczoiVGiZADNgmSSHwH0alRB3LlGT_udN-Hx2Pn0Q.png" group-title="CHILE | Radios En Vivo",Beethoven
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnPNrTo_hGhijKeJRVS8DwD/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjp-9HE885xTagwEs6fIFQzF.png" group-title="CHILE | Radios En Vivo",Carabineros de Chile Radio
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmN_zFTGzieQAMk2XOgtOBd/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lvH8aZfoihyzCbuon_EtRcD2ZC0-TBbvXvpEY_2sPwLX.png" group-title="CHILE | Radios En Vivo",FM Dos
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl-Pwzb9AgWCGPbFBXhS1kH/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83llyOjRBQHO8a2YzslAYkdjp4-lN1VO_NBm_5-47SgGhZ.png" group-title="CHILE | Radios En Vivo",Carolina
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlFRKhGzNRPRrJxQnB5fHm6/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lpTFnDm62UqBJhN5X4sp2y1_Ywcj9q0NYUBF2j6qOiNG.png" group-title="CHILE | Radios En Vivo",Bio Bio
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnWzNSBnmQeHScXmfjwFBGB/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83luDvzG1Le5JbYUwsYE9W3QUMaTcslqHmbMVa0uSScqAa.png" group-title="CHILE | Radios En Vivo",Infinita
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn17ozS9hYqxlV587DhmF5j/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lvNUe8RNLbM_qHY7KJKotyi8NLlzWirZPrIP725a3r-0.png" group-title="CHILE | Radios En Vivo",Pauta
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlKCW06bpctIEpKJtwHugz4/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lsv2BK1MZnaEgEEZkNkYNPapXJkCQtd4kmvsi5H5fsMO.png" group-title="CHILE | Radios En Vivo",Play FM
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmANLCVkcI0TpF5_NLY-Ecc/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ls7LOoTn6hsYzsM2Lqx5u0KJV9XkZSshxBJdRq2bEqdj.png" group-title="CHILE | Radios En Vivo",Radio Corazón
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkokk3A2Z7ZXQ1CezOqO0J_/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lm2cKNNs8R2S1rn41Q3eNzvI-HZMePB9m1TZ1vdZigvr.png" group-title="CHILE | Radios En Vivo",Los 40
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnkn-rzI36wwfNWG_w8akRC/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ls7LOoTn6hsYzsM2Lqx5u0KzwKN8-EhhhedOh8Yi5u1u.png" group-title="CHILE | Radios En Vivo",Radio 13C
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVlu9iyhSUkyLcElCNDa6XwH/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ls7LOoTn6hsYzsM2Lqx5u0IG8KL8k2_qyCaJIqjSQpYM.png" group-title="CHILE | Radios En Vivo",Universidad de Chile
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVn2DW7ftVJyqckSlzD8SG9U/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmNkHOpSkEDFVd3cSMZf6i0eo1YKjPvejIYq4aniiUcl.png" group-title="CHILE | Radios En Vivo",T13 Radio
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVkEZYLKorUTyZ2jqOoPfqyQ/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lg1i8jPJdyQOPcT3cqlATCC8EDEpHs7FiphtNqD3auGh.png" group-title="CHILE | Radios En Vivo",Romantica
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmqzlNU5LxwH7mN164S_GNe/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lpvjAn3zg5jsf9B406rlBLfzol4BQvNMn08ab_pS5xm7.png" group-title="CHILE | Radios En Vivo",Portales
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVnQmIM5UwMBXipkr8-smP76/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lvH8aZfoihyzCbuon_EtRcCL0OksOZGIKGfG9JvZ1HMY.png" group-title="CHILE | Radios En Vivo",FM Plus
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmFMIehU_Hm-qEh5lo34eg8/m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljE1hNaQsD-U8YC90qGhhXY42GcBalpdtMkuXafGXlEU.png" group-title="CHILE | Radios En Vivo",Sonar
+https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVmdOip2yNE24rfpFXcWIAqo/m3u8
